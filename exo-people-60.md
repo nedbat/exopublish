@@ -19,8 +19,8 @@ As of 2023-12-12
 | [2u-quokkas](#team-2u-quokkas) | 5 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;5 |
 | [2u-titans](#team-2u-titans) | 58 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 14 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;4; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;2; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;2 |
-| [2u-vanguards](#team-2u-vanguards) | 4 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;3; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **434** ||
+| [2u-vanguards](#team-2u-vanguards) | 5 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;4; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
+| **TOTAL** | **435** ||
 
 ## Team 2u-aperture
 
@@ -62,7 +62,7 @@ As of 2023-12-12
 - 2021-07-21 [docs: update PyCharm integration](https://github.com/openedx/devstack/pull/802) (cdeery)
 - 2022-01-31 [docs: include M1 Chip Workaround](https://github.com/openedx/devstack/pull/896) (connorhaugh)
 - 2022-02-18 [feat: add ecomm-test-courses.json](https://github.com/openedx/devstack/pull/903) (pshiu)
-- 2022-12-08 [edx_notes_api config for native image ](https://github.com/openedx/devstack/pull/993) (zubairshakoorarbisoft)
+- 2022-12-08 [edx_notes_api config for native image](https://github.com/openedx/devstack/pull/993) (zubairshakoorarbisoft)
 - 2022-12-16 [fix: recreate base sql init files to deal with migration squash](https://github.com/openedx/devstack/pull/997) (johnnagro)
 - 2023-01-04 [Use Ansible free image from original edxops repo](https://github.com/openedx/devstack/pull/1004) (aht007)
 - 2023-02-14 [Target changed to dev image for devstack for Studio](https://github.com/openedx/devstack/pull/1019) (zubairshakoorarbisoft)
@@ -204,7 +204,7 @@ As of 2023-12-12
 - 2023-09-04 [chore: updated edx-ui-toolkit to latest version](https://github.com/openedx/edx-platform/pull/33161) (BilalQamar95)
 - 2023-09-10 [feat!: upgrading django42 final PR.](https://github.com/openedx/edx-platform/pull/33211) (awais786)
 - 2023-09-13 [fix: `session_language` should be renamed to `update_language`](https://github.com/openedx/edx-platform/pull/33234) (shadinaif) [*open-source-contribution*]
-- 2023-09-20 [feat: [FC-0031] Add new endpoint BlocksInfoInCourseView ](https://github.com/openedx/edx-platform/pull/33296) (oksana-slu) [*open-source-contribution; FC*]
+- 2023-09-20 [feat: [FC-0031] Add new endpoint BlocksInfoInCourseView](https://github.com/openedx/edx-platform/pull/33296) (oksana-slu) [*open-source-contribution; FC*]
 - 2023-09-22 [chore: remove unused dependencies](https://github.com/openedx/edx-platform/pull/33326) (LakshyaKhatri) [*open-source-contribution*]
 - 2023-09-25 [Remove MATLAB support [DEPR]](https://github.com/openedx/edx-platform/pull/33337) (ormsbee)
 - 2023-09-27 [Fixing Video Repeating Issue](https://github.com/openedx/edx-platform/pull/33354) (mfarhan943) [*open-source-contribution; needs test run*]
@@ -213,7 +213,7 @@ As of 2023-12-12
 - 2023-10-05 [feat: add brand_color variable for the email templates](https://github.com/openedx/edx-platform/pull/33420) (bydawen) [*open-source-contribution; backport*]
 - 2023-10-05 [feat: add brand_color variable for the email templates](https://github.com/openedx/edx-platform/pull/33421) (bydawen) [*open-source-contribution*]
 - 2023-10-05 [Create a runtime service for `answer_available` function](https://github.com/openedx/edx-platform/pull/33424) (steff456) [*open-source-contribution*]
-- 2023-10-10 [ feat: add support to send email to cherry-picked students ](https://github.com/openedx/edx-platform/pull/33463) (mariajgrimaldi) [*open-source-contribution*]
+- 2023-10-10 [feat: add support to send email to cherry-picked students](https://github.com/openedx/edx-platform/pull/33463) (mariajgrimaldi) [*open-source-contribution*]
 - 2023-10-11 [Create open_edx_platform.py](https://github.com/openedx/edx-platform/pull/33473) (codehero7386) [*open-source-contribution*]
 - 2023-10-11 [Revert "Adding fall back method for `sha1` in case default algo is `sha256`"](https://github.com/openedx/edx-platform/pull/33475) (awais786)
 
@@ -225,7 +225,7 @@ As of 2023-12-12
 - 2021-01-28 [getting repo size.](https://github.com/openedx/edx-repo-health/pull/107) (awais786)
 - 2022-09-21 [build: Removing an outdated file and adding from openedx canonical jo…](https://github.com/openedx/edx-repo-health/pull/301) (awais786)
 - 2022-12-08 [build: change auto merge to run only after checks](https://github.com/openedx/edx-repo-health/pull/322) (iamsobanjaved)
-- 2022-12-22 [Auto merge configuration updated in GitHub workflow ](https://github.com/openedx/edx-repo-health/pull/332) (zubairshakoorarbisoft)
+- 2022-12-22 [Auto merge configuration updated in GitHub workflow](https://github.com/openedx/edx-repo-health/pull/332) (zubairshakoorarbisoft)
 - 2023-08-31 [test](https://github.com/openedx/edx-repo-health/pull/413) (iamsobanjaved)
 
 ### [#](#-openedxedx-toggles) [openedx/edx-toggles](https://github.com/openedx/edx-toggles/pulls)
@@ -286,11 +286,11 @@ As of 2023-12-12
 - 2022-01-07 [Reverting back to anchor tag as Link causing an error](https://github.com/openedx/frontend-app-learning/pull/793) (asadiqbal08)
 - 2022-10-06 [refactor: migrate off modal paragon depreciation](https://github.com/openedx/frontend-app-learning/pull/986) (Mashal-m)
 - 2023-04-11 [feat: add courseware search feature to course home](https://github.com/openedx/frontend-app-learning/pull/1099) (schenedx)
-- 2023-08-25 [refactor: updated lock file version check to use new workflow ](https://github.com/openedx/frontend-app-learning/pull/1169) (Mashal-m)
+- 2023-08-25 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-learning/pull/1169) (Mashal-m)
 - 2023-09-08 [WIP: Test New Xpert Version](https://github.com/openedx/frontend-app-learning/pull/1181) (MichaelRoytman)
 - 2023-09-12 [feat: add support for design tokens and CSS variables](https://github.com/openedx/frontend-app-learning/pull/1183) (xitij2000) [*open-source-contribution; core contributor*]
 - 2023-09-14 [chore: simplify setup-node gh action use](https://github.com/openedx/frontend-app-learning/pull/1185) (brian-smith-tcril)
-- 2023-09-29 [feat!: remove Transifex calls for OEP-58 | FC-0012](https://github.com/openedx/frontend-app-learning/pull/1198) (hopewise) [*open-source-contribution; blocked by other work*]
+- 2023-09-29 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-learning/pull/1198) (hopewise) [*open-source-contribution; blocked by other work*]
 - 2023-10-04 [feat: babel-plugin-react-intl to babel-plugin-formatjs migration](https://github.com/openedx/frontend-app-learning/pull/1200) (abdullahwaheed)
 - 2023-10-06 [fix: course update iframe](https://github.com/openedx/frontend-app-learning/pull/1204) (CefBoud) [*open-source-contribution; waiting for eng review*]
 - 2023-10-12 [chore: bump frontend-platform](https://github.com/openedx/frontend-app-learning/pull/1210) (arbrandes)
@@ -311,7 +311,7 @@ As of 2023-12-12
 ## Team 2u-cosmonauts
 
 ### [#](#-edxedx-exams) [edx/edx-exams](https://github.com/edx/edx-exams/pulls)
-- 2023-09-26 [ Open Upgrade Django to 4.2 LTS](https://github.com/edx/edx-exams/pull/184) (zubairshakoorarbisoft)
+- 2023-09-26 [Open Upgrade Django to 4.2 LTS](https://github.com/edx/edx-exams/pull/184) (zubairshakoorarbisoft)
 
 ### [#](#-edxedx-name-affirmation) [edx/edx-name-affirmation](https://github.com/edx/edx-name-affirmation/pulls)
 - 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/edx/edx-name-affirmation/pull/66) (rgraber)
@@ -480,7 +480,7 @@ As of 2023-12-12
 - 2021-11-03 [build: use shared browserslist config](https://github.com/openedx/frontend-app-publisher/pull/599) (adamstankiewicz)
 - 2022-12-15 [feat: shift course form error handling to @edx/paragon styles](https://github.com/openedx/frontend-app-publisher/pull/805) (zawan-ila)
 - 2023-04-10 [refactor: refactor formatting of data before sending to the backend](https://github.com/openedx/frontend-app-publisher/pull/864) (zawan-ila)
-- 2023-07-26 [Updated CI workflow ](https://github.com/openedx/frontend-app-publisher/pull/893) (BilalQamar95)
+- 2023-07-26 [Updated CI workflow](https://github.com/openedx/frontend-app-publisher/pull/893) (BilalQamar95)
 - 2023-08-01 [fix: ensure prepush lint returns error on failure](https://github.com/openedx/frontend-app-publisher/pull/897) (brian-smith-tcril)
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-publisher/pull/909) (Mashal-m)
 
@@ -507,16 +507,16 @@ As of 2023-12-12
 - 2019-11-19 [try to remove the flag in a couple places](https://github.com/openedx/ecommerce/pull/2695) (emma-green)
 - 2020-05-28 [WIP: add Dockerfile and docker-compse to app repo (SRE-47)](https://github.com/openedx/ecommerce/pull/2974) (nadeemshahzad)
 - 2020-05-28 [Revert "remove default value for name field"](https://github.com/openedx/ecommerce/pull/2975) (muhammad-ammar)
-- 2020-06-22 [ENT-2882 | Added the programs on offer page.](https://github.com/openedx/ecommerce/pull/3000) (hasnain-naveed)
+- 2020-06-22 [ENT-2882 \| Added the programs on offer page.](https://github.com/openedx/ecommerce/pull/3000) (hasnain-naveed)
 - 2020-07-01 [ENT-3072: Added index for ProductAttributeValue](https://github.com/openedx/ecommerce/pull/3011) (irfanuddinahmad)
-- 2020-07-30 [ENT-3137 | Adding more log info and bypassing the check for sending t…](https://github.com/openedx/ecommerce/pull/3071) (hasnain-naveed)
+- 2020-07-30 [ENT-3137 \| Adding more log info and bypassing the check for sending t…](https://github.com/openedx/ecommerce/pull/3071) (hasnain-naveed)
 - 2020-10-20 [make sure we check isn](https://github.com/openedx/ecommerce/pull/3216) (emma-green)
 - 2021-03-19 [test: Create prototype of test data loading.](https://github.com/openedx/ecommerce/pull/3360) (dianakhuang)
 - 2021-05-21 [ENT-4252: Added reply_to option for nudge emails](https://github.com/openedx/ecommerce/pull/3431) (irfanuddinahmad)
-- 2021-07-06 [WIP: Add android payment processor and mobile payment execution flow ](https://github.com/openedx/ecommerce/pull/3471) (jawad-khan)
+- 2021-07-06 [WIP: Add android payment processor and mobile payment execution flow](https://github.com/openedx/ecommerce/pull/3471) (jawad-khan)
 - 2021-07-19 [WIP: Add ios payment processor and mobile payment execution flow](https://github.com/openedx/ecommerce/pull/3475) (jawad-khan)
 - 2021-08-27 [feat: Add fields to purchase event to support Braze confirmation emails](https://github.com/openedx/ecommerce/pull/3492) (bmedx)
-- 2022-03-01 [feat: replace rest_framework_swagger with drf_yasg ](https://github.com/openedx/ecommerce/pull/3665) (iamsobanjaved)
+- 2022-03-01 [feat: replace rest_framework_swagger with drf_yasg](https://github.com/openedx/ecommerce/pull/3665) (iamsobanjaved)
 - 2022-04-22 [fix: fixing translations.](https://github.com/openedx/ecommerce/pull/3702) (awais786)
 - 2022-05-12 [FC-0001: ecommerce Basket Page -> micro-frontend](https://github.com/openedx/ecommerce/pull/3718) (UvgenGen) [*open-source-contribution*]
 - 2022-06-07 [[WIP] Troubleshoot GitHub issue](https://github.com/openedx/ecommerce/pull/3734) (dianekaplan)
@@ -559,7 +559,7 @@ As of 2023-12-12
 - 2021-11-03 [build: use shared browserslist config](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/147) (adamstankiewicz)
 - 2022-06-03 [build: use shared browserslist config](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/238) (Jawayria)
 - 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/324) (Mashal-m)
-- 2023-08-28 [refactor: updated lock file version check to use new workflow ](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/348) (Mashal-m)
+- 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/348) (Mashal-m)
 - 2023-10-04 [feat: babel-plugin-react-intl to babel-plugin-formatjs migration](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/361) (abdullahwaheed)
 
 ## Team 2u-titans
@@ -593,7 +593,7 @@ As of 2023-12-12
 - 2023-09-21 [feat: implement dry-run mode for content metadata transmission](https://github.com/openedx/edx-enterprise/pull/1879) (sameenfatima78)
 - 2023-09-25 [[Django 4.2]: Upgrade Django to 4.2](https://github.com/openedx/edx-enterprise/pull/1882) (irtazaakram)
 - 2023-10-05 [Replacing Encrypted Fields With Non Encrypted](https://github.com/openedx/edx-enterprise/pull/1897) (MueezKhan246)
-- 2023-10-11 [Added fields for holding encrypted data in database for degreed2 ](https://github.com/openedx/edx-enterprise/pull/1905) (MueezKhan246)
+- 2023-10-11 [Added fields for holding encrypted data in database for degreed2](https://github.com/openedx/edx-enterprise/pull/1905) (MueezKhan246)
 - 2023-10-11 [Added fields for holding encrypted data in database for blackboard global](https://github.com/openedx/edx-enterprise/pull/1906) (MueezKhan246)
 - 2023-10-11 [Added fields for holding encrypted data in database for blackboard](https://github.com/openedx/edx-enterprise/pull/1907) (MueezKhan246)
 - 2023-10-11 [Replacing encrypted fields with non encrypted degreed2](https://github.com/openedx/edx-enterprise/pull/1908) (MueezKhan246)
@@ -614,7 +614,7 @@ As of 2023-12-12
 - 2022-02-18 [test: act warning fix round 2](https://github.com/openedx/frontend-app-admin-portal/pull/706) (binodpant)
 - 2022-03-22 [feat: ENT-5528 Added plotly based analytics page](https://github.com/openedx/frontend-app-admin-portal/pull/737) (irfanuddinahmad)
 - 2022-10-14 [refactor: migrate off paragon modal deprecated migration](https://github.com/openedx/frontend-app-admin-portal/pull/872) (Mashal-m) [*engineering review*]
-- 2022-12-28 [Paragon form component deprecations ](https://github.com/openedx/frontend-app-admin-portal/pull/933) (Mashal-m)
+- 2022-12-28 [Paragon form component deprecations](https://github.com/openedx/frontend-app-admin-portal/pull/933) (Mashal-m)
 - 2023-07-10 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-admin-portal/pull/1001) (Syed-Ali-Abbas-Zaidi)
 - 2023-07-24 [feat: update react & react-dom to v17](https://github.com/openedx/frontend-app-admin-portal/pull/1009) (Mashal-m)
 - 2023-08-01 [fix: ensure lint returns error on failure](https://github.com/openedx/frontend-app-admin-portal/pull/1014) (brian-smith-tcril)
@@ -677,3 +677,4 @@ As of 2023-12-12
 - 2023-03-01 [feat: Auth form visual enhancements (olive)](https://github.com/openedx/frontend-app-authn/pull/766) (Lunyachek) [*product review; waiting on author; open-source-contribution; backport*]
 - 2023-03-01 [feat: Auth form visual enhancements (master)](https://github.com/openedx/frontend-app-authn/pull/767) (Lunyachek) [*waiting on author; open-source-contribution*]
 - 2023-10-11 [fix: Enabling the ability to log in with a username consisting of 2 characters (backport from palm branch)](https://github.com/openedx/frontend-app-authn/pull/1073) (Lunyachek) [*open-source-contribution; waiting for eng review*]
+- 2023-10-13 [feat: redirect to custom URL when third-party auth account is unlinked](https://github.com/openedx/frontend-app-authn/pull/1078) (ArturGaspar) [*open-source-contribution*]

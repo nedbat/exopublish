@@ -2,7 +2,8 @@
 
 Reports on pull requests created by people outside the team overseeing each repo:
 
-- [PRs older than 60 days by people outside the team](exo-people-60.md)
-- [PRs older than 60 days by bots](exo-bots-60.md)
+- [PRs older than 60 days by people outside the team, grouped by team](exo-people-60.md)
+- [PRs older than 60 days by bots, grouped by team](exo-bots-60.md)
+- [PRs older than 60 days, grouped by author](old-pulls-60.md)
 
 Only public repos are included.
