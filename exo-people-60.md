@@ -17,10 +17,11 @@ As of 2023-12-13
 | [2u-phoenix](#team-2u-phoenix) | 16 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;7; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;6; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;2; [reactifex](#-openedxreactifex)&nbsp;1 |
 | [2u-purchase](#team-2u-purchase) | 45 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;4; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;3; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;3; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 5 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;5 |
+| [2u-sre](#team-2u-sre) | 60 | [configuration](#-openedxconfiguration)&nbsp;23; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;20; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;9; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [hermes](#-edxhermes)&nbsp;2 |
 | [2u-titans](#team-2u-titans) | 59 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;14; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 15 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;4; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;2 |
 | [2u-vanguards](#team-2u-vanguards) | 5 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;4; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **441** ||
+| **TOTAL** | **501** ||
 
 ## Team 2u-aperture
 
@@ -567,6 +568,80 @@ As of 2023-12-13
 - 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/324) (Mashal-m)
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/348) (Mashal-m)
 - 2023-10-04 [feat: babel-plugin-react-intl to babel-plugin-formatjs migration](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/361) (abdullahwaheed)
+
+## Team 2u-sre
+
+### [#](#-edxhermes) [edx/hermes](https://github.com/edx/hermes/pulls)
+- 2021-03-04 [make permissions match what they are when this repo is deployed](https://github.com/edx/hermes/pull/14) (fredsmith)
+- 2023-01-09 [fix: update org reference in CI](https://github.com/edx/hermes/pull/27) (aht007)
+
+### [#](#-edxjenkins-configuration) [edx/jenkins-configuration](https://github.com/edx/jenkins-configuration/pulls)
+- 2017-11-28 [Set environment variable values for the jenkins user](https://github.com/edx/jenkins-configuration/pull/73) (jzoldak)
+- 2020-11-12 [Cpappas/build jenkins](https://github.com/edx/jenkins-configuration/pull/166) (christopappas)
+- 2022-02-14 [feat: upgrade jenkins test](https://github.com/edx/jenkins-configuration/pull/193) (oel8man)
+- 2022-02-23 [feat: upgrade jenkins 99640](https://github.com/edx/jenkins-configuration/pull/194) (oel8man)
+- 2022-02-23 [feat: upgrade jenkins 4665](https://github.com/edx/jenkins-configuration/pull/195) (oel8man)
+- 2022-02-24 [feat: upgrade jenkins 44424](https://github.com/edx/jenkins-configuration/pull/196) (oel8man)
+- 2022-02-25 [feat: upgrade jenkins 55917](https://github.com/edx/jenkins-configuration/pull/197) (oel8man)
+- 2022-03-08 [feat: upgrade jenkins 29009](https://github.com/edx/jenkins-configuration/pull/201) (oel8man)
+- 2022-09-26 [chore: just creating a test PR](https://github.com/edx/jenkins-configuration/pull/207) (Hamza442)
+
+### [#](#-edxjenkins-job-dsl) [edx/jenkins-job-dsl](https://github.com/edx/jenkins-job-dsl/pulls)
+- 2017-05-31 [updated description for sample job](https://github.com/edx/jenkins-job-dsl/pull/161) (hchen15)
+- 2018-05-22 [[WIP] Fix overzealous parameter-based throttling](https://github.com/edx/jenkins-job-dsl/pull/367) (pwnage101)
+- 2019-10-09 [Create edxCypressTestsJob.groovy](https://github.com/edx/jenkins-job-dsl/pull/811) (kashifch)
+- 2020-03-18 [Send notifications via boto.](https://github.com/edx/jenkins-job-dsl/pull/923) (HassanJaveed84)
+- 2020-11-19 [MICROBA-374 Send data to ITK only if MB data-mart build is successful](https://github.com/edx/jenkins-job-dsl/pull/1190) (oliviaruizknott)
+- 2020-12-08 [make build from snapshot the default](https://github.com/edx/jenkins-job-dsl/pull/1213) (fredsmith)
+- 2021-02-18 [Jazibhumayun/wt ci notification](https://github.com/edx/jenkins-job-dsl/pull/1317) (jazibhumayun)
+- 2021-04-18 [Use rename strategy for EnrollmentByBirthYearToMysqlTask.](https://github.com/edx/jenkins-job-dsl/pull/1366) (HassanJaveed84)
+- 2021-08-27 [WS-2083: delete daily prospectus sandbox job](https://github.com/edx/jenkins-job-dsl/pull/1419) (srwang)
+- 2022-02-23 [chore: Enable gdpr partner report jobs.](https://github.com/edx/jenkins-job-dsl/pull/1518) (HassanJaveed84)
+- 2022-05-06 [chore: Added load_affiliate_window_publishers_to_snowflake to prefect…](https://github.com/edx/jenkins-job-dsl/pull/1558) (HassanJaveed84)
+- 2022-06-30 [Add a dbt job to run the enterprise reporting models daily](https://github.com/edx/jenkins-job-dsl/pull/1581) (macdiesel)
+- 2022-07-13 [chore: added enterprise_learner_progress job](https://github.com/edx/jenkins-job-dsl/pull/1588) (jazibhumayun)
+- 2022-09-29 [Add a job to detect new raw schema fields to add to safe schema manual models](https://github.com/edx/jenkins-job-dsl/pull/1609) (AbdouSeck)
+- 2023-01-24 [chore: Add descriptions in Jenkins Jobs](https://github.com/edx/jenkins-job-dsl/pull/1643) (mzakaria1)
+- 2023-04-11 [create test jenkins job](https://github.com/edx/jenkins-job-dsl/pull/1655) (purna2U)
+- 2023-08-02 [chore: Pin dbt-schema-builder version](https://github.com/edx/jenkins-job-dsl/pull/1662) (abdulrafey38)
+- 2023-10-09 [feat: trigger prefect flow after models successfully transferred to s3](https://github.com/edx/jenkins-job-dsl/pull/1672) (muhammad-ammar)
+- 2023-10-12 [test: test jenkins job changes](https://github.com/edx/jenkins-job-dsl/pull/1674) (muhammad-ammar)
+- 2023-10-12 [gitchore: refactor to call secrets manager](https://github.com/edx/jenkins-job-dsl/pull/1676) (katebygrace)
+
+### [#](#-openedxconfiguration) [openedx/configuration](https://github.com/openedx/configuration/pulls)
+- 2017-10-18 [add discovery to sandboxes](https://github.com/openedx/configuration/pull/4161) (fredsmith)
+- 2018-06-04 [Enable logging for spark in analytics pipeline container](https://github.com/openedx/configuration/pull/4594) (rao-abdul-mannan)
+- 2020-04-08 [Move prospectus vars so same used for stage and prod](https://github.com/openedx/configuration/pull/5730) (AlasdairSwan)
+- 2020-09-01 [Update program console name](https://github.com/openedx/configuration/pull/5987) (Andytr1)
+- 2020-09-04 [add proxied hostname for prospectus proxy](https://github.com/openedx/configuration/pull/5993) (fredsmith)
+- 2020-12-03 [Cpappas/isre 639](https://github.com/openedx/configuration/pull/6190) (christopappas)
+- 2021-02-02 [Adding Admin Portal and Learner Portal Enterprise MFEs to the sandbox](https://github.com/openedx/configuration/pull/6275) (edx-abolger)
+- 2021-04-27 [feat: Install prefect on new analytics jenkins](https://github.com/openedx/configuration/pull/6387) (jazibhumayun)
+- 2021-04-28 [feat: Install python3.8 on New DE Jenkins](https://github.com/openedx/configuration/pull/6389) (jazibhumayun)
+- 2021-05-10 [chore: update jinja2 to latest (v2.11.3)](https://github.com/openedx/configuration/pull/6399) (Ali-D-Akbar)
+- 2021-11-01 [refactor: change language cookie settings name to match edx-platform](https://github.com/openedx/configuration/pull/6603) (iamsobanjaved)
+- 2021-12-07 [chore: add script to download videos from s3](https://github.com/openedx/configuration/pull/6632) (arbabkhalil)
+- 2022-01-08 [upgrade: upgrading flower and celery related packages with python3.8 …](https://github.com/openedx/configuration/pull/6653) (awais786)
+- 2022-02-14 [feat: upgrade jenkins test](https://github.com/openedx/configuration/pull/6683) (oel8man)
+- 2022-02-24 [chore: update firefox and chrome versions](https://github.com/openedx/configuration/pull/6689) (dianekaplan)
+- 2022-02-24 [feat: upgrade jenkins 44424](https://github.com/openedx/configuration/pull/6690) (oel8man)
+- 2022-02-25 [feat: upgrade jenkins 55917](https://github.com/openedx/configuration/pull/6691) (oel8man)
+- 2022-03-04 [feat: jenkins update Automation](https://github.com/openedx/configuration/pull/6696) (oel8man)
+- 2023-07-10 [feat: add authoring mfes to sandboxes](https://github.com/openedx/configuration/pull/6956) (connorhaugh)
+- 2023-07-27 [fix: Don't download PyPI indexes at devpi startup](https://github.com/openedx/configuration/pull/6966) (timmc-edx)
+- 2023-08-16 [chore: code changes to test jenkins upgrade](https://github.com/openedx/configuration/pull/6986) (Hamza442)
+- 2023-09-07 [feat: upgrade ruby version to 3.1 for forum service](https://github.com/openedx/configuration/pull/7010) (saadyousafarbi)
+- 2023-09-26 [fix: update pathways commit](https://github.com/openedx/configuration/pull/7025) (pkulkark) [*open-source-contribution; waiting on author*]
+
+### [#](#-openedxtesteng-ci) [openedx/testeng-ci](https://github.com/openedx/testeng-ci/pulls)
+- 2022-11-09 [fix: fixing auth issue with private repo.](https://github.com/openedx/testeng-ci/pull/320) (awais786)
+- 2022-12-08 [fix: Improved PR comments.](https://github.com/openedx/testeng-ci/pull/335) (awais786)
+
+### [#](#-openedxtubular) [openedx/tubular](https://github.com/openedx/tubular/pulls)
+- 2017-09-28 [Queue Versioning Support](https://github.com/openedx/tubular/pull/188) (macdiesel)
+- 2018-11-06 [Change retirement archive to use the Jenkins AWS assumed role](https://github.com/openedx/tubular/pull/289) (bmedx)
+- 2023-05-25 [Update to python310](https://github.com/openedx/tubular/pull/668) (UsamaSadiq)
+- 2023-07-11 [Add script to send a event to segment](https://github.com/openedx/tubular/pull/682) (srwang)
 
 ## Team 2u-titans
 

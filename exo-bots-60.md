@@ -17,10 +17,11 @@ As of 2023-12-13
 | [2u-phoenix](#team-2u-phoenix) | 45 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;19; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;18; [i18n&#x2011;tools](#-openedxi18n-tools)&nbsp;5; [edx&#x2011;val](#-openedxedx-val)&nbsp;2; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;1 |
 | [2u-purchase](#team-2u-purchase) | 64 | [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;18; [ecommerce](#-openedxecommerce)&nbsp;14; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;12; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;9; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;6; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;5 |
 | [2u-quokkas](#team-2u-quokkas) | 10 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;10 |
+| [2u-sre](#team-2u-sre) | 38 | [configuration](#-openedxconfiguration)&nbsp;13; [tubular](#-openedxtubular)&nbsp;6; [asym&#x2011;crypto&#x2011;yaml](#-edxasym-crypto-yaml)&nbsp;5; [edx&#x2011;django&#x2011;release&#x2011;util](#-openedxedx-django-release-util)&nbsp;3; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;3; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;3; [hermes](#-edxhermes)&nbsp;3; [MongoDBProxy](#-openedxmongodbproxy)&nbsp;1; [zappa&#x2011;manage](#-edxzappa-manage)&nbsp;1 |
 | [2u-titans](#team-2u-titans) | 69 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;18; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;17; [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;7; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;4; [tincanpython](#-openedxtincanpython)&nbsp;3; [edx&#x2011;enterprise&#x2011;subsidy&#x2011;client](#-openedxedx-enterprise-subsidy-client)&nbsp;1; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;1; [getsmarter&#x2011;api&#x2011;clients](#-edxgetsmarter-api-clients)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 55 | [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;19; [edx&#x2011;organizations](#-openedxedx-organizations)&nbsp;11; [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;7; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;6; [codejail](#-openedxcodejail)&nbsp;4; [openedx&#x2011;chem](#-openedxopenedx-chem)&nbsp;3; [openedx&#x2011;calc](#-openedxopenedx-calc)&nbsp;2; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;1; [frontend&#x2011;components&#x2011;tinymce&#x2011;advanced&#x2011;plugins](#-openedxfrontend-components-tinymce-advanced-plugins)&nbsp;1; [blockstore](#-openedxblockstore)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 10 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;9; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **580** ||
+| **TOTAL** | **618** ||
 
 ## Team 2u-aperture
 
@@ -693,6 +694,64 @@ As of 2023-12-13
 - 2023-08-23 [chore(deps): update dependency @testing-library/jest-dom to v6](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/347) (renovate)
 - 2023-09-05 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/353) (renovate)
 - 2023-10-04 [chore(deps): update dependency @edx/browserslist-config to v1.2.0](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/360) (renovate)
+
+## Team 2u-sre
+
+### [#](#-edxasym-crypto-yaml) [edx/asym-crypto-yaml](https://github.com/edx/asym-crypto-yaml/pulls)
+- 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/edx/asym-crypto-yaml/pull/33) (edx-requirements-bot)
+- 2022-12-26 [Bump wheel from 0.37.0 to 0.38.1 in /requirements](https://github.com/edx/asym-crypto-yaml/pull/39) (dependabot) [*dependencies*]
+- 2022-12-27 [Bump setuptools from 59.6.0 to 65.5.1 in /requirements](https://github.com/edx/asym-crypto-yaml/pull/40) (dependabot) [*dependencies*]
+- 2023-02-08 [Bump cryptography from 36.0.0 to 39.0.1 in /requirements](https://github.com/edx/asym-crypto-yaml/pull/42) (dependabot) [*dependencies*]
+- 2023-09-05 [fix: setup.py update using script](https://github.com/edx/asym-crypto-yaml/pull/44) (edx-requirements-bot)
+
+### [#](#-edxhermes) [edx/hermes](https://github.com/edx/hermes/pulls)
+- 2022-12-09 [Bump certifi from 2022.6.15 to 2022.12.7 in /requirements](https://github.com/edx/hermes/pull/25) (dependabot) [*dependencies*]
+- 2022-12-26 [Bump wheel from 0.37.1 to 0.38.1 in /requirements](https://github.com/edx/hermes/pull/26) (dependabot) [*dependencies*]
+- 2023-02-08 [Bump cryptography from 37.0.2 to 39.0.1 in /requirements](https://github.com/edx/hermes/pull/28) (dependabot) [*dependencies*]
+
+### [#](#-edxjenkins-configuration) [edx/jenkins-configuration](https://github.com/edx/jenkins-configuration/pulls)
+- 2022-05-27 [fix: Install pip and pip-tools in upgrade script](https://github.com/edx/jenkins-configuration/pull/204) (edx-requirements-bot)
+- 2022-12-08 [build(deps): bump certifi from 2021.10.8 to 2022.12.7 in /requirements](https://github.com/edx/jenkins-configuration/pull/210) (dependabot) [*dependencies*]
+- 2022-12-26 [build(deps): bump wheel from 0.37.0 to 0.38.1 in /requirements](https://github.com/edx/jenkins-configuration/pull/211) (dependabot) [*dependencies*]
+
+### [#](#-edxjenkins-job-dsl) [edx/jenkins-job-dsl](https://github.com/edx/jenkins-job-dsl/pulls)
+- 2022-12-09 [chore(deps): bump certifi from 2022.6.15 to 2022.12.7 in /requirements](https://github.com/edx/jenkins-job-dsl/pull/1631) (dependabot) [*dependencies*]
+- 2022-12-26 [chore(deps): bump wheel from 0.37.1 to 0.38.1 in /requirements](https://github.com/edx/jenkins-job-dsl/pull/1635) (dependabot) [*dependencies*]
+- 2023-02-08 [chore(deps): bump cryptography from 37.0.2 to 39.0.1 in /requirements](https://github.com/edx/jenkins-job-dsl/pull/1649) (dependabot) [*dependencies*]
+
+### [#](#-edxzappa-manage) [edx/zappa-manage](https://github.com/edx/zappa-manage/pulls)
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/edx/zappa-manage/pull/12) (edx-requirements-bot)
+
+### [#](#-openedxmongodbproxy) [openedx/MongoDBProxy](https://github.com/openedx/MongoDBProxy/pulls)
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/openedx/MongoDBProxy/pull/12) (edx-requirements-bot)
+
+### [#](#-openedxconfiguration) [openedx/configuration](https://github.com/openedx/configuration/pulls)
+- 2021-03-24 [Bump rsa from 3.4.2 to 4.1 in /util/jenkins/check_celery_progress](https://github.com/openedx/configuration/pull/6330) (dependabot) [*dependencies*]
+- 2021-03-24 [Bump rsa from 3.4.2 to 4.1 in /util/jenkins/update_celery_monitoring](https://github.com/openedx/configuration/pull/6331) (dependabot) [*dependencies*]
+- 2021-03-25 [Bump pyyaml from 3.12 to 5.4 in /util/jenkins/update_celery_monitoring](https://github.com/openedx/configuration/pull/6334) (dependabot) [*dependencies*]
+- 2021-03-25 [Bump pyyaml from 3.12 to 5.4 in /util/jenkins/check_celery_progress](https://github.com/openedx/configuration/pull/6335) (dependabot) [*dependencies*]
+- 2021-04-13 [Bump jinja2 from 2.8 to 2.11.3](https://github.com/openedx/configuration/pull/6365) (dependabot) [*dependencies*]
+- 2021-06-01 [build(deps): bump urllib3 from 1.24.2 to 1.26.5 in /util/aws_ip_locator](https://github.com/openedx/configuration/pull/6428) (dependabot) [*dependencies*]
+- 2021-09-23 [build(deps): bump ansible from 2.8.20 to 4.2.0](https://github.com/openedx/configuration/pull/6556) (dependabot) [*dependencies*]
+- 2022-12-09 [chore(deps): bump certifi from 2022.6.15.1 to 2022.12.7 in /util/pingdom](https://github.com/openedx/configuration/pull/6850) (dependabot) [*dependencies*]
+- 2022-12-09 [chore(deps): bump certifi from 2022.6.15.1 to 2022.12.7 in /util/vpc-tools](https://github.com/openedx/configuration/pull/6851) (dependabot) [*dependencies*]
+- 2022-12-09 [chore(deps): bump certifi from 2022.6.15.1 to 2022.12.7 in /util/jenkins](https://github.com/openedx/configuration/pull/6852) (dependabot) [*dependencies*]
+- 2022-12-09 [chore(deps): bump certifi from 2022.6.15.1 to 2022.12.7](https://github.com/openedx/configuration/pull/6853) (dependabot) [*dependencies*]
+- 2022-12-26 [chore(deps): bump wheel from 0.37.1 to 0.38.1 in /requirements](https://github.com/openedx/configuration/pull/6858) (dependabot) [*dependencies*]
+- 2023-02-08 [build(deps): bump cryptography from 38.0.1 to 39.0.1](https://github.com/openedx/configuration/pull/6878) (dependabot) [*dependencies*]
+
+### [#](#-openedxedx-django-release-util) [openedx/edx-django-release-util](https://github.com/openedx/edx-django-release-util/pulls)
+- 2020-10-27 [Bump cryptography from 2.9.2 to 3.2 in /requirements](https://github.com/openedx/edx-django-release-util/pull/45) (dependabot) [*dependencies*]
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/openedx/edx-django-release-util/pull/51) (edx-requirements-bot)
+- 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/edx-django-release-util/pull/61) (edx-requirements-bot)
+
+### [#](#-openedxtubular) [openedx/tubular](https://github.com/openedx/tubular/pulls)
+- 2020-08-21 [Python Code Cleanup](https://github.com/openedx/tubular/pull/439) (edx-requirements-bot)
+- 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/openedx/tubular/pull/541) (edx-requirements-bot)
+- 2022-06-10 [fix: Install pip and pip-tools in upgrade script](https://github.com/openedx/tubular/pull/572) (edx-requirements-bot)
+- 2023-01-05 [build(deps): bump gitpython from 3.1.18 to 3.1.30 in /requirements](https://github.com/openedx/tubular/pull/595) (dependabot) [*dependencies*]
+- 2023-02-15 [build(deps): bump django from 3.2.16 to 3.2.18 in /requirements](https://github.com/openedx/tubular/pull/612) (dependabot) [*dependencies*]
+- 2023-09-06 [fix: setup.py update using script](https://github.com/openedx/tubular/pull/696) (edx-requirements-bot)
 
 ## Team 2u-titans
 
