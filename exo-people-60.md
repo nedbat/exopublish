@@ -1,26 +1,26 @@
 
 # PRs older than 60 days by people outside the team
-As of 2023-12-12
+As of 2023-12-13
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
-| [2u-aperture](#team-2u-aperture) | 5 | [frontend&#x2011;app&#x2011;profile](#-openedxfrontend-app-profile)&nbsp;3; [credentials&#x2011;themes](#-openedxcredentials-themes)&nbsp;1; [frontend&#x2011;app&#x2011;skills](#-edxfrontend-app-skills)&nbsp;1 |
+| [2u-aperture](#team-2u-aperture) | 6 | [frontend&#x2011;app&#x2011;profile](#-openedxfrontend-app-profile)&nbsp;3; [frontend&#x2011;app&#x2011;learner&#x2011;record](#-openedxfrontend-app-learner-record)&nbsp;1; [credentials&#x2011;themes](#-openedxcredentials-themes)&nbsp;1; [frontend&#x2011;app&#x2011;skills](#-edxfrontend-app-skills)&nbsp;1 |
 | [2u-arbi-bom](#team-2u-arbi-bom) | 2 | [staff_graded&#x2011;xblock](#-openedxstaff-graded-xblock)&nbsp;1; [acid&#x2011;block](#-openedxacid-block)&nbsp;1 |
 | [2u-arch-bom](#team-2u-arch-bom) | 169 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;119; [devstack](#-openedxdevstack)&nbsp;16; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;5; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;4; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;4; [edx&#x2011;cookiecutters](#-openedxedx-cookiecutters)&nbsp;4; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;2; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;2; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;2; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;1; [pytest&#x2011;warnings&#x2011;report](#-openedxpytest-warnings-report)&nbsp;1; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1; [.github](#-edxgithub)&nbsp;1 |
 | [2u-aurora](#team-2u-aurora) | 36 | [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;dashboard](#-openedxfrontend-app-learner-dashboard)&nbsp;6; [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;5; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;3; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;3; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;3; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;1; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;1; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
-| [2u-cosmonauts](#team-2u-cosmonauts) | 44 | [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;10; [registrar](#-openedxregistrar)&nbsp;8; [edx&#x2011;analytics&#x2011;data&#x2011;api](#-openedxedx-analytics-data-api)&nbsp;4; [frontend&#x2011;lib&#x2011;special&#x2011;exams](#-openedxfrontend-lib-special-exams)&nbsp;3; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;3; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;3; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;2; [completion](#-openedxcompletion)&nbsp;2; [xblock&#x2011;lti&#x2011;consumer](#-openedxxblock-lti-consumer)&nbsp;1; [mockprock](#-openedxmockprock)&nbsp;1; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;1; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;1; [edx&#x2011;exams](#-edxedx-exams)&nbsp;1 |
+| [2u-cosmonauts](#team-2u-cosmonauts) | 45 | [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;10; [registrar](#-openedxregistrar)&nbsp;8; [edx&#x2011;analytics&#x2011;data&#x2011;api](#-openedxedx-analytics-data-api)&nbsp;4; [frontend&#x2011;lib&#x2011;special&#x2011;exams](#-openedxfrontend-lib-special-exams)&nbsp;3; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;3; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;3; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;3; [completion](#-openedxcompletion)&nbsp;2; [xblock&#x2011;lti&#x2011;consumer](#-openedxxblock-lti-consumer)&nbsp;1; [mockprock](#-openedxmockprock)&nbsp;1; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;1; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;1; [edx&#x2011;exams](#-edxedx-exams)&nbsp;1 |
 | [2u-fed-bom](#team-2u-fed-bom) | 17 | [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;4; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;4; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;2; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;2; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;2; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;1; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;1; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;1 |
 | [2u-infinity](#team-2u-infinity) | 12 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;6; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;3; [cs_comments_service](#-openedxcs-comments-service)&nbsp;3 |
 | [2u-kubrick](#team-2u-kubrick) | 1 | [edx&#x2011;search](#-openedxedx-search)&nbsp;1 |
 | [2u-markhors](#team-2u-markhors) | 7 | [taxonomy&#x2011;connector](#-openedxtaxonomy-connector)&nbsp;3; [learner&#x2011;pathway&#x2011;progress](#-edxlearner-pathway-progress)&nbsp;2; [xblock&#x2011;skill&#x2011;tagging](#-openedxxblock-skill-tagging)&nbsp;1; [outcome&#x2011;surveys](#-edxoutcome-surveys)&nbsp;1 |
 | [2u-mobile](#team-2u-mobile) | 1 | [edx&#x2011;app&#x2011;ios](#-openedxedx-app-ios)&nbsp;1 |
-| [2u-phoenix](#team-2u-phoenix) | 15 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;6; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;6; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;2; [reactifex](#-openedxreactifex)&nbsp;1 |
-| [2u-purchase](#team-2u-purchase) | 44 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;3; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;3; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;3; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
+| [2u-phoenix](#team-2u-phoenix) | 16 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;7; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;6; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;2; [reactifex](#-openedxreactifex)&nbsp;1 |
+| [2u-purchase](#team-2u-purchase) | 45 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;4; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;3; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;3; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 5 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;5 |
-| [2u-titans](#team-2u-titans) | 58 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
-| [2u-tnl](#team-2u-tnl) | 14 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;4; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;2; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;2 |
+| [2u-titans](#team-2u-titans) | 59 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;14; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
+| [2u-tnl](#team-2u-tnl) | 15 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;4; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;2 |
 | [2u-vanguards](#team-2u-vanguards) | 5 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;4; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **435** ||
+| **TOTAL** | **441** ||
 
 ## Team 2u-aperture
 
@@ -29,6 +29,9 @@ As of 2023-12-12
 
 ### [#](#-openedxcredentials-themes) [openedx/credentials-themes](https://github.com/openedx/credentials-themes/pulls)
 - 2023-07-17 [feat: Added Support for Django 4.2](https://github.com/openedx/credentials-themes/pull/657) (zubairshakoorarbisoft)
+
+### [#](#-openedxfrontend-app-learner-record) [openedx/frontend-app-learner-record](https://github.com/openedx/frontend-app-learner-record/pulls)
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-learner-record/pull/200) (hopewise) [*blocked by other work; open-source-contribution*]
 
 ### [#](#-openedxfrontend-app-profile) [openedx/frontend-app-profile](https://github.com/openedx/frontend-app-profile/pulls)
 - 2023-05-31 [[Do Not Merge] build: demonstrate using localhost.stage.edx.org](https://github.com/openedx/frontend-app-profile/pull/763) (adamstankiewicz)
@@ -366,6 +369,7 @@ As of 2023-12-12
 ### [#](#-openedxfrontend-app-program-console) [openedx/frontend-app-program-console](https://github.com/openedx/frontend-app-program-console/pulls)
 - 2023-02-14 [chore(i18n): add more languages](https://github.com/openedx/frontend-app-program-console/pull/98) (Yoiber071) [*open-source-contribution; waiting for eng review*]
 - 2023-08-25 [refactor: update lock file version](https://github.com/openedx/frontend-app-program-console/pull/135) (Mashal-m)
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-program-console/pull/142) (hopewise) [*blocked by other work; open-source-contribution*]
 
 ### [#](#-openedxfrontend-lib-special-exams) [openedx/frontend-lib-special-exams](https://github.com/openedx/frontend-lib-special-exams/pulls)
 - 2022-02-24 [build: use shared browserslist config and remove is-es5 check](https://github.com/openedx/frontend-lib-special-exams/pull/61) (bseverino)
@@ -491,6 +495,7 @@ As of 2023-12-12
 - 2023-04-12 [As hackathon 2023](https://github.com/openedx/frontend-app-support-tools/pull/325) (alex-sheehan-edx)
 - 2023-04-26 [chore: update prompt for user retirement](https://github.com/openedx/frontend-app-support-tools/pull/330) (zawan-ila)
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-support-tools/pull/353) (Mashal-m)
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-support-tools/pull/361) (hopewise) [*blocked by other work; open-source-contribution*]
 
 ### [#](#-openedxreactifex) [openedx/reactifex](https://github.com/openedx/reactifex/pulls)
 - 2023-09-11 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/reactifex/pull/24) (Mashal-m)
@@ -547,6 +552,7 @@ As of 2023-12-12
 - 2022-06-10 [feat: Add Receipt Page from ecommerce to MFE](https://github.com/openedx/frontend-app-ecommerce/pull/189) (julianajlk)
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-ecommerce/pull/324) (Mashal-m)
 - 2023-09-12 [fix: Internationalization of ErrorPage when no cookies](https://github.com/openedx/frontend-app-ecommerce/pull/331) (julianajlk)
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-ecommerce/pull/341) (hopewise) [*blocked by other work; open-source-contribution*]
 
 ### [#](#-openedxfrontend-app-payment) [openedx/frontend-app-payment](https://github.com/openedx/frontend-app-payment/pulls)
 - 2022-04-27 [chore!: drop support for Node 12](https://github.com/openedx/frontend-app-payment/pull/597) (Jawayria)
@@ -621,6 +627,7 @@ As of 2023-12-12
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-admin-portal/pull/1023) (Mashal-m)
 - 2023-09-12 [WIP: feat: Conditionally filter the budget enrollments](https://github.com/openedx/frontend-app-admin-portal/pull/1028) (zamanafzal)
 - 2023-09-20 [Ammar/eahmadjaved/ent 7672 7673](https://github.com/openedx/frontend-app-admin-portal/pull/1036) (muhammad-ammar)
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-admin-portal/pull/1060) (hopewise) [*open-source-contribution; blocked by other work*]
 
 ### [#](#-openedxfrontend-app-learner-portal-enterprise) [openedx/frontend-app-learner-portal-enterprise](https://github.com/openedx/frontend-app-learner-portal-enterprise/pulls)
 - 2022-01-24 [Removed Dead Code](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/434) (manny-m)
@@ -667,6 +674,7 @@ As of 2023-12-12
 ### [#](#-openedxstudio-frontend) [openedx/studio-frontend](https://github.com/openedx/studio-frontend/pulls)
 - 2022-04-12 [QA: fix: Paragon updates for bd-39 testing](https://github.com/openedx/studio-frontend/pull/338) (muselesscreator)
 - 2023-03-21 [feat: upgraded to node v18, added .nvmrc and updated workflows](https://github.com/openedx/studio-frontend/pull/376) (Mashal-m)
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/studio-frontend/pull/383) (hopewise) [*open-source-contribution; blocked by other work*]
 
 ## Team 2u-vanguards
 

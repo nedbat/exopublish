@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2023-12-12.
-693 pull requests, not including bots.
+As of 2023-12-13.
+697 pull requests, not including bots.
 
 ## 25 oldest
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
@@ -12,7 +12,6 @@ As of 2023-12-12.
 - 2017-09-27 [WIP: Hackathon - per deploy queues](https://github.com/openedx/tubular/pull/187) (jdmulloy) (openedx/tubular)
 - 2017-09-28 [Queue Versioning Support](https://github.com/openedx/tubular/pull/188) (macdiesel) (openedx/tubular)
 - 2017-09-29 [Upgrade some less-problematic packages](https://github.com/openedx/edx-analytics-pipeline/pull/432) (brianhw) (openedx/edx-analytics-pipeline)
-- 2017-10-03 [Partial incrementalization of AnswerDistribution via Hive](https://github.com/openedx/edx-analytics-pipeline/pull/433) (tobz) (openedx/edx-analytics-pipeline)
 - 2017-10-18 [add discovery to sandboxes](https://github.com/openedx/configuration/pull/4161) (fredsmith) (openedx/configuration)
 - 2017-11-28 [Set environment variable values for the jenkins user](https://github.com/edx/jenkins-configuration/pull/73) (jzoldak) (edx/jenkins-configuration)
 - 2018-01-24 [WIP-Spark Tasks](https://github.com/openedx/edx-analytics-pipeline/pull/476) (rao-abdul-mannan) (openedx/edx-analytics-pipeline)
@@ -29,6 +28,7 @@ As of 2023-12-12.
 - 2019-07-17 [Python 2/3 compatibility for finance tasks](https://github.com/openedx/edx-analytics-pipeline/pull/747) (pwnage101) (openedx/edx-analytics-pipeline)
 - 2019-07-18 [Bumped edx-enterprise version](https://github.com/openedx/edx-platform/pull/21157) (ziafazal) (openedx/edx-platform)
 - 2019-07-24 [Awais/code management multiple by multiple](https://github.com/openedx/cypress-e2e-tests/pull/23) (aghaawais01) (openedx/cypress-e2e-tests)
+- 2019-08-07 [WIP: changed logout fromt get to post](https://github.com/openedx/ecommerce/pull/2528) (adeelehsan) (openedx/ecommerce)
 
 ## [#](#-0x29a) [0x29a](https://github.com/0x29a)
 - 2023-02-05 [feat: allow enrollment api admin to see all enrollments](https://github.com/openedx/edx-enterprise/pull/1714) (openedx/edx-enterprise) [*open-source-contribution*]
@@ -78,7 +78,6 @@ As of 2023-12-12.
 - 2023-07-28 [[do not merge] alpha -> master](https://github.com/openedx/frontend-build/pull/429) (openedx/frontend-build)
 - 2023-08-23 [feat: add start:with-theme and build:with-theme NPM scripts with Paragon CLI](https://github.com/openedx/frontend-template-application/pull/641) (openedx/frontend-template-application)
 - 2023-09-05 [docs: Learner Credit Management data and routing ADR](https://github.com/openedx/frontend-app-admin-portal/pull/1026) (openedx/frontend-app-admin-portal)
-- 2023-10-04 [fix: ensure circle elements in SVGs get currentColor fill](https://github.com/openedx/paragon/pull/2687) (openedx/paragon) [*bug*]
 
 ## [#](#-adeelehsan) [adeelehsan](https://github.com/adeelehsan)
 - 2019-04-23 [Added military address in CC](https://github.com/openedx/ecommerce/pull/2218) (openedx/ecommerce)
@@ -465,6 +464,12 @@ As of 2023-12-12.
 - 2023-09-27 [feat!: remove Transifex calls for OEP-58](https://github.com/openedx/frontend-app-gradebook/pull/353) (openedx/frontend-app-gradebook) [*open-source-contribution; blocked by other work*]
 - 2023-09-29 [remove Transifex calls for OEP-58](https://github.com/openedx/frontend-app-account/pull/887) (openedx/frontend-app-account) [*blocked by other work; open-source-contribution*]
 - 2023-09-29 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-learning/pull/1198) (openedx/frontend-app-learning) [*open-source-contribution; blocked by other work*]
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/studio-frontend/pull/383) (openedx/studio-frontend) [*open-source-contribution; blocked by other work*]
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-admin-portal/pull/1060) (openedx/frontend-app-admin-portal) [*open-source-contribution; blocked by other work*]
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-program-console/pull/142) (openedx/frontend-app-program-console) [*blocked by other work; open-source-contribution*]
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-ecommerce/pull/341) (openedx/frontend-app-ecommerce) [*blocked by other work; open-source-contribution*]
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-learner-record/pull/200) (openedx/frontend-app-learner-record) [*blocked by other work; open-source-contribution*]
+- 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-support-tools/pull/361) (openedx/frontend-app-support-tools) [*blocked by other work; open-source-contribution*]
 
 ## [#](#-iamsobanjaved) [iamsobanjaved](https://github.com/iamsobanjaved)
 - 2020-09-30 [Celery settings upgrade](https://github.com/openedx/edx-platform/pull/25158) (openedx/edx-platform)
@@ -564,7 +569,7 @@ As of 2023-12-12.
 ## [#](#-jmbowman) [jmbowman](https://github.com/jmbowman)
 - 2021-02-02 [Add ADR for standardization on pytest-style assertions](https://github.com/openedx/edx-platform/pull/26333) (openedx/edx-platform)
 
-## [#](#-johanv26) [johanv26](https://github.com/johanv26)
+## [#](#-johanseto) [johanseto](https://github.com/johanseto)
 - 2021-11-30 [fix: update static_replace import to work with lilac.](https://github.com/openedx/xblock-image-explorer/pull/92) (openedx/xblock-image-explorer)
 
 ## [#](#-johnnagro) [johnnagro](https://github.com/johnnagro)
@@ -994,9 +999,6 @@ As of 2023-12-12.
 - 2023-07-25 [fix: Course outline was not fully published after import (hacky fix)](https://github.com/openedx/edx-platform/pull/32843) (openedx/edx-platform)
 - 2023-07-27 [fix: Don't download PyPI indexes at devpi startup](https://github.com/openedx/configuration/pull/6966) (openedx/configuration)
 - 2023-09-22 [build: Demo of no-setup Makefile (standardized virtualenv handling)](https://github.com/openedx/edx-django-utils/pull/347) (openedx/edx-django-utils)
-
-## [#](#-tobz) [tobz](https://github.com/tobz)
-- 2017-10-03 [Partial incrementalization of AnswerDistribution via Hive](https://github.com/openedx/edx-analytics-pipeline/pull/433) (openedx/edx-analytics-pipeline)
 
 ## [#](#-tpreston2u) [tpreston2u](https://github.com/tpreston2u)
 - 2023-08-08 [feat: game editor frontend](https://github.com/openedx/frontend-lib-content-components/pull/371) (openedx/frontend-lib-content-components)
