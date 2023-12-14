@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2023-12-13.
-697 pull requests, not including bots.
+As of 2023-12-14.
+693 pull requests, not including bots.
 
 ## 25 oldest
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
@@ -434,7 +434,6 @@ As of 2023-12-13.
 - 2021-10-29 [chore: version bump edx-enterprise.](https://github.com/openedx/edx-platform/pull/29166) (openedx/edx-platform)
 
 ## [#](#-hamza442) [Hamza442](https://github.com/Hamza442)
-- 2022-09-26 [chore: just creating a test PR](https://github.com/edx/jenkins-configuration/pull/207) (edx/jenkins-configuration)
 - 2022-12-14 [chore: export unencrypted package for aws](https://github.com/openedx/edx-analytics-exporter/pull/83) (openedx/edx-analytics-exporter)
 - 2022-12-27 [chore: fix error Unread result found](https://github.com/openedx/edx-analytics-exporter/pull/84) (openedx/edx-analytics-exporter)
 - 2023-02-01 [chore: generate hisotrical data package for delftx](https://github.com/openedx/edx-analytics-exporter/pull/85) (openedx/edx-analytics-exporter)
@@ -684,7 +683,6 @@ As of 2023-12-13.
 ## [#](#-macdiesel) [macdiesel](https://github.com/macdiesel)
 - 2017-09-28 [Queue Versioning Support](https://github.com/openedx/tubular/pull/188) (openedx/tubular)
 - 2019-04-22 [Add a numeric prefix to filenames to allow non alphabetical ordering of organizations](https://github.com/openedx/edx-analytics-exporter/pull/40) (openedx/edx-analytics-exporter)
-- 2020-11-03 [remove OEP-10 so this repo is no longer shipped with openedx releases.](https://github.com/openedx/edx-analytics-pipeline/pull/841) (openedx/edx-analytics-pipeline)
 - 2022-06-30 [Add a dbt job to run the enterprise reporting models daily](https://github.com/edx/jenkins-job-dsl/pull/1581) (edx/jenkins-job-dsl)
 - 2023-03-23 [feat: Add some logging to help troubleshoot ENT-6954](https://github.com/openedx/ecommerce/pull/3930) (openedx/ecommerce)
 - 2023-04-04 [chore: update requirements](https://github.com/openedx/edx-enterprise/pull/1734) (openedx/edx-enterprise)
@@ -1029,11 +1027,9 @@ As of 2023-12-13.
 ## [#](#-vladislavkeblysh) [vladislavkeblysh](https://github.com/vladislavkeblysh)
 - 2023-10-10 [feat: Fixed displaying banner and certificates on mobile view](https://github.com/openedx/frontend-app-profile/pull/860) (openedx/frontend-app-profile) [*open-source-contribution*]
 - 2023-10-11 [feat: Profile image on user posts (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/573) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (openedx/frontend-app-discussions) [*product review; open-source-contribution*]
+- 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-12 [feat: Enhancements to page (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/576) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-12 [feat: Enhancements to page](https://github.com/openedx/frontend-app-discussions/pull/577) (openedx/frontend-app-discussions) [*product review; open-source-contribution*]
-- 2023-10-12 [feat: Enhancements to page (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/578) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
+- 2023-10-12 [feat: Enhancements to page](https://github.com/openedx/frontend-app-discussions/pull/577) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
 
 ## [#](#-wasuregusa18) [wasuregusa18](https://github.com/wasuregusa18)
 - 2023-01-11 [Fix/hardcoded currency 135](https://github.com/openedx/ecommerce/pull/3891) (openedx/ecommerce) [*open-source-contribution*]

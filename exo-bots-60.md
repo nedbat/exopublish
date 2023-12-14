@@ -1,6 +1,6 @@
 
 # PRs older than 60 days by bots
-As of 2023-12-13
+As of 2023-12-14
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
@@ -266,7 +266,7 @@ As of 2023-12-13
 - 2022-03-29 [chore(deps): update dependency @testing-library/user-event to v14](https://github.com/openedx/frontend-app-learning/pull/891) (renovate)
 - 2022-03-29 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-learning/pull/892) (renovate)
 - 2022-04-21 [fix(deps): update dependency redux to v4.2.1](https://github.com/openedx/frontend-app-learning/pull/934) (renovate)
-- 2022-04-21 [fix(deps): update react-router monorepo to v6.20.1](https://github.com/openedx/frontend-app-learning/pull/935) (renovate)
+- 2022-04-21 [fix(deps): update react-router monorepo to v6.21.0](https://github.com/openedx/frontend-app-learning/pull/935) (renovate)
 - 2022-05-22 [chore(i18n): update translations](https://github.com/openedx/frontend-app-learning/pull/948) (edx-transifex-bot)
 - 2022-10-27 [chore(deps): bump lodash and es-check](https://github.com/openedx/frontend-app-learning/pull/993) (dependabot) [*dependencies*]
 - 2022-11-15 [chore(deps): bump loader-utils from 1.4.0 to 1.4.2](https://github.com/openedx/frontend-app-learning/pull/1001) (dependabot) [*dependencies*]
@@ -881,7 +881,7 @@ As of 2023-12-13
 - 2023-08-07 [fix(deps): update dependency regenerator-runtime to v0.14.0](https://github.com/openedx/frontend-app-library-authoring/pull/253) (renovate)
 - 2023-09-04 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/frontend-app-library-authoring/pull/291) (renovate)
 - 2023-09-17 [chore(i18n): update translations](https://github.com/openedx/frontend-app-library-authoring/pull/304) (edx-transifex-bot)
-- 2023-09-19 [fix(deps): update react-router monorepo to v6.20.1](https://github.com/openedx/frontend-app-library-authoring/pull/309) (renovate)
+- 2023-09-19 [fix(deps): update react-router monorepo to v6.21.0](https://github.com/openedx/frontend-app-library-authoring/pull/309) (renovate)
 
 ### [#](#-openedxfrontend-components-tinymce-advanced-plugins) [openedx/frontend-components-tinymce-advanced-plugins](https://github.com/openedx/frontend-components-tinymce-advanced-plugins/pulls)
 - 2023-08-30 [Configure Renovate](https://github.com/openedx/frontend-components-tinymce-advanced-plugins/pull/1) (renovate)

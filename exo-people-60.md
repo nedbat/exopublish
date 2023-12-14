@@ -1,6 +1,6 @@
 
 # PRs older than 60 days by people outside the team
-As of 2023-12-13
+As of 2023-12-14
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
@@ -10,18 +10,18 @@ As of 2023-12-13
 | [2u-aurora](#team-2u-aurora) | 36 | [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;dashboard](#-openedxfrontend-app-learner-dashboard)&nbsp;6; [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;5; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;3; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;3; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;3; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;1; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;1; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
 | [2u-cosmonauts](#team-2u-cosmonauts) | 45 | [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;10; [registrar](#-openedxregistrar)&nbsp;8; [edx&#x2011;analytics&#x2011;data&#x2011;api](#-openedxedx-analytics-data-api)&nbsp;4; [frontend&#x2011;lib&#x2011;special&#x2011;exams](#-openedxfrontend-lib-special-exams)&nbsp;3; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;3; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;3; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;3; [completion](#-openedxcompletion)&nbsp;2; [xblock&#x2011;lti&#x2011;consumer](#-openedxxblock-lti-consumer)&nbsp;1; [mockprock](#-openedxmockprock)&nbsp;1; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;1; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;1; [edx&#x2011;exams](#-edxedx-exams)&nbsp;1 |
 | [2u-fed-bom](#team-2u-fed-bom) | 17 | [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;4; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;4; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;2; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;2; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;2; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;1; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;1; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;1 |
-| [2u-infinity](#team-2u-infinity) | 12 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;6; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;3; [cs_comments_service](#-openedxcs-comments-service)&nbsp;3 |
+| [2u-infinity](#team-2u-infinity) | 10 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;4; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;3; [cs_comments_service](#-openedxcs-comments-service)&nbsp;3 |
 | [2u-kubrick](#team-2u-kubrick) | 1 | [edx&#x2011;search](#-openedxedx-search)&nbsp;1 |
 | [2u-markhors](#team-2u-markhors) | 7 | [taxonomy&#x2011;connector](#-openedxtaxonomy-connector)&nbsp;3; [learner&#x2011;pathway&#x2011;progress](#-edxlearner-pathway-progress)&nbsp;2; [xblock&#x2011;skill&#x2011;tagging](#-openedxxblock-skill-tagging)&nbsp;1; [outcome&#x2011;surveys](#-edxoutcome-surveys)&nbsp;1 |
 | [2u-mobile](#team-2u-mobile) | 1 | [edx&#x2011;app&#x2011;ios](#-openedxedx-app-ios)&nbsp;1 |
 | [2u-phoenix](#team-2u-phoenix) | 16 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;7; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;6; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;2; [reactifex](#-openedxreactifex)&nbsp;1 |
 | [2u-purchase](#team-2u-purchase) | 45 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;4; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;3; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;3; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 5 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;5 |
-| [2u-sre](#team-2u-sre) | 60 | [configuration](#-openedxconfiguration)&nbsp;23; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;20; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;9; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [hermes](#-edxhermes)&nbsp;2 |
+| [2u-sre](#team-2u-sre) | 59 | [configuration](#-openedxconfiguration)&nbsp;23; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;20; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;8; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [hermes](#-edxhermes)&nbsp;2 |
 | [2u-titans](#team-2u-titans) | 59 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;14; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 15 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;4; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;2 |
 | [2u-vanguards](#team-2u-vanguards) | 5 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;4; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **501** ||
+| **TOTAL** | **498** ||
 
 ## Team 2u-aperture
 
@@ -442,11 +442,9 @@ As of 2023-12-13
 
 ### [#](#-openedxfrontend-app-discussions) [openedx/frontend-app-discussions](https://github.com/openedx/frontend-app-discussions/pulls)
 - 2023-10-11 [feat: Profile image on user posts (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/573) (vladislavkeblysh) [*product review; open-source-contribution; backport*]
-- 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (vladislavkeblysh) [*product review; open-source-contribution*]
+- 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (vladislavkeblysh) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (vladislavkeblysh) [*product review; open-source-contribution; backport*]
-- 2023-10-12 [feat: Enhancements to page (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/576) (vladislavkeblysh) [*product review; open-source-contribution; backport*]
-- 2023-10-12 [feat: Enhancements to page](https://github.com/openedx/frontend-app-discussions/pull/577) (vladislavkeblysh) [*product review; open-source-contribution*]
-- 2023-10-12 [feat: Enhancements to page (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/578) (vladislavkeblysh) [*product review; open-source-contribution; backport*]
+- 2023-10-12 [feat: Enhancements to page](https://github.com/openedx/frontend-app-discussions/pull/577) (vladislavkeblysh) [*product review; waiting on author; open-source-contribution*]
 
 ## Team 2u-kubrick
 
@@ -584,7 +582,6 @@ As of 2023-12-13
 - 2022-02-24 [feat: upgrade jenkins 44424](https://github.com/edx/jenkins-configuration/pull/196) (oel8man)
 - 2022-02-25 [feat: upgrade jenkins 55917](https://github.com/edx/jenkins-configuration/pull/197) (oel8man)
 - 2022-03-08 [feat: upgrade jenkins 29009](https://github.com/edx/jenkins-configuration/pull/201) (oel8man)
-- 2022-09-26 [chore: just creating a test PR](https://github.com/edx/jenkins-configuration/pull/207) (Hamza442)
 
 ### [#](#-edxjenkins-job-dsl) [edx/jenkins-job-dsl](https://github.com/edx/jenkins-job-dsl/pulls)
 - 2017-05-31 [updated description for sample job](https://github.com/edx/jenkins-job-dsl/pull/161) (hchen15)
