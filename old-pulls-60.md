@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2023-12-14.
-693 pull requests, not including bots.
+As of 2023-12-15.
+700 pull requests, not including bots.
 
 ## 25 oldest
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
@@ -397,7 +397,7 @@ As of 2023-12-14.
 ## [#](#-faraz32123) [Faraz32123](https://github.com/Faraz32123)
 - 2023-08-08 [feat!: add zoom live conference calls settings at organization level](https://github.com/openedx/edx-platform/pull/32942) (openedx/edx-platform)
 - 2023-08-09 [feat!: configure zoom live conference calls settings if exists at organization level](https://github.com/openedx/frontend-app-course-authoring/pull/555) (openedx/frontend-app-course-authoring)
-- 2023-09-25 [fix!: fix course detail page url bug](https://github.com/openedx/ecommerce/pull/4033) (openedx/ecommerce) [*open-source-contribution; needs test run*]
+- 2023-09-25 [fix!: fix course detail page url bug](https://github.com/openedx/ecommerce/pull/4033) (openedx/ecommerce) [*open-source-contribution*]
 
 ## [#](#-farhaanbukhsh) [farhaanbukhsh](https://github.com/farhaanbukhsh)
 - 2022-09-14 [feat: install extra requirements in the tox environments](https://github.com/openedx/ecommerce/pull/3812) (openedx/ecommerce) [*open-source-contribution*]
@@ -469,6 +469,7 @@ As of 2023-12-14.
 - 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-ecommerce/pull/341) (openedx/frontend-app-ecommerce) [*blocked by other work; open-source-contribution*]
 - 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-learner-record/pull/200) (openedx/frontend-app-learner-record) [*blocked by other work; open-source-contribution*]
 - 2023-10-14 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-support-tools/pull/361) (openedx/frontend-app-support-tools) [*blocked by other work; open-source-contribution*]
+- 2023-10-16 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-course-authoring/pull/627) (openedx/frontend-app-course-authoring) [*blocked by other work; open-source-contribution*]
 
 ## [#](#-iamsobanjaved) [iamsobanjaved](https://github.com/iamsobanjaved)
 - 2020-09-30 [Celery settings upgrade](https://github.com/openedx/edx-platform/pull/25158) (openedx/edx-platform)
@@ -510,6 +511,7 @@ As of 2023-12-14.
 - 2022-07-07 [[BD-46]:  style names were updated](https://github.com/edx/brand-edx.org/pull/43) (edx/brand-edx.org) [*blended*]
 - 2023-10-06 [fix: Added maxLength and default tip for email subject](https://github.com/openedx/frontend-app-communications/pull/153) (openedx/frontend-app-communications) [*open-source-contribution; backport*]
 - 2023-10-06 [fix: Added maxLength and default tip for email subject](https://github.com/openedx/frontend-app-communications/pull/154) (openedx/frontend-app-communications) [*waiting on author; open-source-contribution*]
+- 2023-10-16 [Social platform URL update](https://github.com/openedx/edx-platform/pull/33500) (openedx/edx-platform) [*open-source-contribution*]
 
 ## [#](#-irfanuddinahmad) [irfanuddinahmad](https://github.com/irfanuddinahmad)
 - 2020-03-10 [WIP: ENT-2664 added task for inserting course_structure to mysql](https://github.com/openedx/edx-analytics-pipeline/pull/807) (openedx/edx-analytics-pipeline)
@@ -523,6 +525,7 @@ As of 2023-12-14.
 - 2023-09-25 [[Django 4.2]: Upgrade Django to 4.2](https://github.com/openedx/edx-enterprise/pull/1882) (openedx/edx-enterprise)
 - 2023-09-26 [[Django 4.2]: Upgrade Django to 4.2](https://github.com/openedx/edx-ora2/pull/2057) (openedx/edx-ora2)
 - 2023-10-10 [Switch to Ansible-Free Docker Image of cs_comments_service(forums)](https://github.com/openedx/devstack/pull/1205) (openedx/devstack)
+- 2023-10-16 [Switch to Ansible-Free Docker Image for Devstack](https://github.com/openedx/cs_comments_service/pull/420) (openedx/cs_comments_service)
 
 ## [#](#-jajjibhai008) [jajjibhai008](https://github.com/jajjibhai008)
 - 2023-05-04 [chore: updated edx-enterprise version to 3.62.0](https://github.com/openedx/edx-platform/pull/32185) (openedx/edx-platform)
@@ -832,6 +835,7 @@ As of 2023-12-14.
 - 2023-07-24 [feat: due date reminder](https://github.com/openedx/edx-platform/pull/32826) (openedx/edx-platform) [*open-source-contribution; product review*]
 - 2023-07-28 [feat: replace signal handler with event producer config](https://github.com/openedx/xblock-skill-tagging/pull/14) (openedx/xblock-skill-tagging) [*open-source-contribution*]
 - 2023-10-13 [feat: utility to reset application state before processing event](https://github.com/openedx/openedx-events/pull/277) (openedx/openedx-events) [*open-source-contribution*]
+- 2023-10-16 [refactor: use utility from openedex_events to reset application …](https://github.com/openedx/event-bus-redis/pull/56) (openedx/event-bus-redis) [*open-source-contribution*]
 
 ## [#](#-nsprenkle) [nsprenkle](https://github.com/nsprenkle)
 - 2021-09-07 [docs: add dev note about feature toggles](https://github.com/openedx/edx-ora2/pull/1694) (openedx/edx-ora2)
@@ -1030,6 +1034,9 @@ As of 2023-12-14.
 - 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
 - 2023-10-12 [feat: Enhancements to page](https://github.com/openedx/frontend-app-discussions/pull/577) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
+- 2023-10-16 [feat: Editor bar visibility (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/581) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
+- 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
+- 2023-10-16 [feat: Editor bar visibility (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/583) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
 
 ## [#](#-wasuregusa18) [wasuregusa18](https://github.com/wasuregusa18)
 - 2023-01-11 [Fix/hardcoded currency 135](https://github.com/openedx/ecommerce/pull/3891) (openedx/ecommerce) [*open-source-contribution*]
