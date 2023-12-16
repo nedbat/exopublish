@@ -6,8 +6,8 @@ As of 2023-12-15
 | :--- | ---: | :--- |
 | [2u-aperture](#team-2u-aperture) | 6 | [frontend&#x2011;app&#x2011;profile](#-openedxfrontend-app-profile)&nbsp;3; [frontend&#x2011;app&#x2011;learner&#x2011;record](#-openedxfrontend-app-learner-record)&nbsp;1; [credentials&#x2011;themes](#-openedxcredentials-themes)&nbsp;1; [frontend&#x2011;app&#x2011;skills](#-edxfrontend-app-skills)&nbsp;1 |
 | [2u-arbi-bom](#team-2u-arbi-bom) | 2 | [staff_graded&#x2011;xblock](#-openedxstaff-graded-xblock)&nbsp;1; [acid&#x2011;block](#-openedxacid-block)&nbsp;1 |
-| [2u-arch-bom](#team-2u-arch-bom) | 171 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;121; [devstack](#-openedxdevstack)&nbsp;16; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;5; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;4; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;4; [edx&#x2011;cookiecutters](#-openedxedx-cookiecutters)&nbsp;4; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;2; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;2; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;2; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;1; [pytest&#x2011;warnings&#x2011;report](#-openedxpytest-warnings-report)&nbsp;1; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1; [.github](#-edxgithub)&nbsp;1 |
-| [2u-aurora](#team-2u-aurora) | 36 | [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;dashboard](#-openedxfrontend-app-learner-dashboard)&nbsp;6; [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;5; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;3; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;3; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;3; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;1; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;1; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
+| [2u-arch-bom](#team-2u-arch-bom) | 174 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;124; [devstack](#-openedxdevstack)&nbsp;16; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;5; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;4; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;4; [edx&#x2011;cookiecutters](#-openedxedx-cookiecutters)&nbsp;4; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;2; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;2; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;2; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;1; [pytest&#x2011;warnings&#x2011;report](#-openedxpytest-warnings-report)&nbsp;1; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1; [.github](#-edxgithub)&nbsp;1 |
+| [2u-aurora](#team-2u-aurora) | 37 | [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;dashboard](#-openedxfrontend-app-learner-dashboard)&nbsp;6; [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;6; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;3; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;3; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;3; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;1; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;1; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
 | [2u-cosmonauts](#team-2u-cosmonauts) | 45 | [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;10; [registrar](#-openedxregistrar)&nbsp;8; [edx&#x2011;analytics&#x2011;data&#x2011;api](#-openedxedx-analytics-data-api)&nbsp;4; [frontend&#x2011;lib&#x2011;special&#x2011;exams](#-openedxfrontend-lib-special-exams)&nbsp;3; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;3; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;3; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;3; [completion](#-openedxcompletion)&nbsp;2; [xblock&#x2011;lti&#x2011;consumer](#-openedxxblock-lti-consumer)&nbsp;1; [mockprock](#-openedxmockprock)&nbsp;1; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;1; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;1; [edx&#x2011;exams](#-edxedx-exams)&nbsp;1 |
 | [2u-fed-bom](#team-2u-fed-bom) | 17 | [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;4; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;4; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;2; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;2; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;2; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;1; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;1; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;1 |
 | [2u-infinity](#team-2u-infinity) | 14 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;7; [cs_comments_service](#-openedxcs-comments-service)&nbsp;4; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;3 |
@@ -17,11 +17,11 @@ As of 2023-12-15
 | [2u-phoenix](#team-2u-phoenix) | 16 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;7; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;6; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;2; [reactifex](#-openedxreactifex)&nbsp;1 |
 | [2u-purchase](#team-2u-purchase) | 45 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;4; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;3; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;3; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 5 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;5 |
-| [2u-sre](#team-2u-sre) | 59 | [configuration](#-openedxconfiguration)&nbsp;23; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;20; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;8; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [hermes](#-edxhermes)&nbsp;2 |
+| [2u-sre](#team-2u-sre) | 40 | [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;17; [configuration](#-openedxconfiguration)&nbsp;15; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;1; [hermes](#-edxhermes)&nbsp;1 |
 | [2u-titans](#team-2u-titans) | 59 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;14; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 16 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;5; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;2 |
 | [2u-vanguards](#team-2u-vanguards) | 5 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;4; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **505** ||
+| **TOTAL** | **490** ||
 
 ## Team 2u-aperture
 
@@ -135,7 +135,6 @@ As of 2023-12-15
 - 2021-12-16 [TEMP Iamsobanjaved/test regis change](https://github.com/openedx/edx-platform/pull/29629) (iamsobanjaved)
 - 2022-01-05 [fix: Incorrect country value not accepted on registration form](https://github.com/openedx/edx-platform/pull/29710) (sameenfatima78)
 - 2022-01-31 [Iamosbanjaved/chk flaky tests](https://github.com/openedx/edx-platform/pull/29845) (iamsobanjaved)
-- 2022-02-01 [[BB-5819] Make course description editable in certs](https://github.com/openedx/edx-platform/pull/29850) (pkulkark) [*open-source-contribution; product review; core committer*]
 - 2022-05-12 [FC-0001: ecommerce Basket Page -> micro-frontend](https://github.com/openedx/edx-platform/pull/30377) (UvgenGen) [*open-source-contribution; FC*]
 - 2022-05-16 [feat: add learner pathway membership model and tests](https://github.com/openedx/edx-platform/pull/30395) (muneebGH)
 - 2022-07-28 [[WIP][BD-14] feat: add celery task for importing blocks](https://github.com/openedx/edx-platform/pull/30801) (UvgenGen) [*blended*]
@@ -198,7 +197,7 @@ As of 2023-12-15
 - 2023-07-11 [Zshkoor/add pymemcache](https://github.com/openedx/edx-platform/pull/32716) (zubairshakoorarbisoft)
 - 2023-07-14 [feat: pass required context for instructor emails (Palm)](https://github.com/openedx/edx-platform/pull/32742) (DmytroAlipov) [*open-source-contribution; waiting for eng review*]
 - 2023-07-14 [fix: email templates caching](https://github.com/openedx/edx-platform/pull/32744) (DmytroAlipov) [*open-source-contribution*]
-- 2023-07-14 [backport: feat: add ability to notify credentials about honor certificates](https://github.com/openedx/edx-platform/pull/32745) (DmytroAlipov) [*open-source-contribution; product review*]
+- 2023-07-14 [backport: feat: add ability to notify credentials about honor certificates](https://github.com/openedx/edx-platform/pull/32745) (DmytroAlipov) [*open-source-contribution; product review; backport*]
 - 2023-07-21 [feat: add flag to stop using default css](https://github.com/openedx/edx-platform/pull/32810) (leangseu-edx)
 - 2023-07-24 [feat: due date reminder](https://github.com/openedx/edx-platform/pull/32826) (navinkarkera) [*open-source-contribution; product review*]
 - 2023-07-26 [fix: Coordinator Port was accidentally assigned to the Enterprise port #](https://github.com/openedx/edx-platform/pull/32848) (grmartin)
@@ -222,6 +221,10 @@ As of 2023-12-15
 - 2023-10-11 [Revert "Adding fall back method for `sha1` in case default algo is `sha256`"](https://github.com/openedx/edx-platform/pull/33475) (awais786)
 - 2023-10-16 [Social platform URL update](https://github.com/openedx/edx-platform/pull/33500) (Inferato) [*open-source-contribution*]
 - 2023-10-16 [feat: FC-0012 - add atlas pull behind a flag](https://github.com/openedx/edx-platform/pull/33502) (shadinaif) [*open-source-contribution*]
+- 2023-10-16 [fix: support for newer npm and macOS](https://github.com/openedx/edx-platform/pull/33506) (kdmccormick)
+- 2023-10-16 [feat: add extra fields to ORA staff graded serializer](https://github.com/openedx/edx-platform/pull/33507) (nandodev-net) [*open-source-contribution*]
+- 2023-10-16 [chore: updating default algorithm to sha256.](https://github.com/openedx/edx-platform/pull/33510) (awais786)
+- 2023-10-16 [feat: support static reference in LibraryContentBlock](https://github.com/openedx/edx-platform/pull/33511) (connorhaugh)
 
 ### [#](#-openedxedx-rbac) [openedx/edx-rbac](https://github.com/openedx/edx-rbac/pulls)
 - 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/edx-rbac/pull/144) (arbabkhalil)
@@ -269,6 +272,7 @@ As of 2023-12-15
 - 2023-08-09 [chore: bump version for new release](https://github.com/openedx/edx-ora2/pull/2023) (iamsobanjaved)
 - 2023-08-09 [feat: selectable students waiting step](https://github.com/openedx/edx-ora2/pull/2025) (johnvente) [*open-source-contribution; product review; blocked by other work; needs test run; needs maintainer attention*]
 - 2023-09-26 [[Django 4.2]: Upgrade Django to 4.2](https://github.com/openedx/edx-ora2/pull/2057) (irtazaakram)
+- 2023-10-16 [feat: add extra fields to ORA staff graded serializer](https://github.com/openedx/edx-ora2/pull/2076) (nandodev-net) [*open-source-contribution; waiting on author; inactive*]
 
 ### [#](#-openedxedx-submissions) [openedx/edx-submissions](https://github.com/openedx/edx-submissions/pulls)
 - 2022-01-24 [chore: add reserved keywords linter](https://github.com/openedx/edx-submissions/pull/154) (arbabkhalil)
@@ -576,26 +580,15 @@ As of 2023-12-15
 ## Team 2u-sre
 
 ### [#](#-edxhermes) [edx/hermes](https://github.com/edx/hermes/pulls)
-- 2021-03-04 [make permissions match what they are when this repo is deployed](https://github.com/edx/hermes/pull/14) (fredsmith)
 - 2023-01-09 [fix: update org reference in CI](https://github.com/edx/hermes/pull/27) (aht007)
 
 ### [#](#-edxjenkins-configuration) [edx/jenkins-configuration](https://github.com/edx/jenkins-configuration/pulls)
-- 2017-11-28 [Set environment variable values for the jenkins user](https://github.com/edx/jenkins-configuration/pull/73) (jzoldak)
 - 2020-11-12 [Cpappas/build jenkins](https://github.com/edx/jenkins-configuration/pull/166) (christopappas)
-- 2022-02-14 [feat: upgrade jenkins test](https://github.com/edx/jenkins-configuration/pull/193) (oel8man)
-- 2022-02-23 [feat: upgrade jenkins 99640](https://github.com/edx/jenkins-configuration/pull/194) (oel8man)
-- 2022-02-23 [feat: upgrade jenkins 4665](https://github.com/edx/jenkins-configuration/pull/195) (oel8man)
-- 2022-02-24 [feat: upgrade jenkins 44424](https://github.com/edx/jenkins-configuration/pull/196) (oel8man)
-- 2022-02-25 [feat: upgrade jenkins 55917](https://github.com/edx/jenkins-configuration/pull/197) (oel8man)
-- 2022-03-08 [feat: upgrade jenkins 29009](https://github.com/edx/jenkins-configuration/pull/201) (oel8man)
 
 ### [#](#-edxjenkins-job-dsl) [edx/jenkins-job-dsl](https://github.com/edx/jenkins-job-dsl/pulls)
-- 2017-05-31 [updated description for sample job](https://github.com/edx/jenkins-job-dsl/pull/161) (hchen15)
 - 2018-05-22 [[WIP] Fix overzealous parameter-based throttling](https://github.com/edx/jenkins-job-dsl/pull/367) (pwnage101)
 - 2019-10-09 [Create edxCypressTestsJob.groovy](https://github.com/edx/jenkins-job-dsl/pull/811) (kashifch)
 - 2020-03-18 [Send notifications via boto.](https://github.com/edx/jenkins-job-dsl/pull/923) (HassanJaveed84)
-- 2020-11-19 [MICROBA-374 Send data to ITK only if MB data-mart build is successful](https://github.com/edx/jenkins-job-dsl/pull/1190) (oliviaruizknott)
-- 2020-12-08 [make build from snapshot the default](https://github.com/edx/jenkins-job-dsl/pull/1213) (fredsmith)
 - 2021-02-18 [Jazibhumayun/wt ci notification](https://github.com/edx/jenkins-job-dsl/pull/1317) (jazibhumayun)
 - 2021-04-18 [Use rename strategy for EnrollmentByBirthYearToMysqlTask.](https://github.com/edx/jenkins-job-dsl/pull/1366) (HassanJaveed84)
 - 2021-08-27 [WS-2083: delete daily prospectus sandbox job](https://github.com/edx/jenkins-job-dsl/pull/1419) (srwang)
@@ -612,24 +605,16 @@ As of 2023-12-15
 - 2023-10-12 [gitchore: refactor to call secrets manager](https://github.com/edx/jenkins-job-dsl/pull/1676) (katebygrace)
 
 ### [#](#-openedxconfiguration) [openedx/configuration](https://github.com/openedx/configuration/pulls)
-- 2017-10-18 [add discovery to sandboxes](https://github.com/openedx/configuration/pull/4161) (fredsmith)
 - 2018-06-04 [Enable logging for spark in analytics pipeline container](https://github.com/openedx/configuration/pull/4594) (rao-abdul-mannan)
-- 2020-04-08 [Move prospectus vars so same used for stage and prod](https://github.com/openedx/configuration/pull/5730) (AlasdairSwan)
 - 2020-09-01 [Update program console name](https://github.com/openedx/configuration/pull/5987) (Andytr1)
-- 2020-09-04 [add proxied hostname for prospectus proxy](https://github.com/openedx/configuration/pull/5993) (fredsmith)
 - 2020-12-03 [Cpappas/isre 639](https://github.com/openedx/configuration/pull/6190) (christopappas)
-- 2021-02-02 [Adding Admin Portal and Learner Portal Enterprise MFEs to the sandbox](https://github.com/openedx/configuration/pull/6275) (edx-abolger)
 - 2021-04-27 [feat: Install prefect on new analytics jenkins](https://github.com/openedx/configuration/pull/6387) (jazibhumayun)
 - 2021-04-28 [feat: Install python3.8 on New DE Jenkins](https://github.com/openedx/configuration/pull/6389) (jazibhumayun)
 - 2021-05-10 [chore: update jinja2 to latest (v2.11.3)](https://github.com/openedx/configuration/pull/6399) (Ali-D-Akbar)
 - 2021-11-01 [refactor: change language cookie settings name to match edx-platform](https://github.com/openedx/configuration/pull/6603) (iamsobanjaved)
 - 2021-12-07 [chore: add script to download videos from s3](https://github.com/openedx/configuration/pull/6632) (arbabkhalil)
 - 2022-01-08 [upgrade: upgrading flower and celery related packages with python3.8 …](https://github.com/openedx/configuration/pull/6653) (awais786)
-- 2022-02-14 [feat: upgrade jenkins test](https://github.com/openedx/configuration/pull/6683) (oel8man)
 - 2022-02-24 [chore: update firefox and chrome versions](https://github.com/openedx/configuration/pull/6689) (dianekaplan)
-- 2022-02-24 [feat: upgrade jenkins 44424](https://github.com/openedx/configuration/pull/6690) (oel8man)
-- 2022-02-25 [feat: upgrade jenkins 55917](https://github.com/openedx/configuration/pull/6691) (oel8man)
-- 2022-03-04 [feat: jenkins update Automation](https://github.com/openedx/configuration/pull/6696) (oel8man)
 - 2023-07-10 [feat: add authoring mfes to sandboxes](https://github.com/openedx/configuration/pull/6956) (connorhaugh)
 - 2023-07-27 [fix: Don't download PyPI indexes at devpi startup](https://github.com/openedx/configuration/pull/6966) (timmc-edx)
 - 2023-08-16 [chore: code changes to test jenkins upgrade](https://github.com/openedx/configuration/pull/6986) (Hamza442)

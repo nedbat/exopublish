@@ -691,7 +691,7 @@ As of 2023-12-15
 ### [#](#-openedxfrontend-app-enterprise-public-catalog) [openedx/frontend-app-enterprise-public-catalog](https://github.com/openedx/frontend-app-enterprise-public-catalog/pulls)
 - 2021-10-05 [fix(deps): update dependency core-js to v3.34.0](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/126) (renovate)
 - 2022-08-11 [chore(deps): update dependency @testing-library/react-hooks to v8](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/255) (renovate)
-- 2022-10-26 [fix(deps): update dependency regenerator-runtime to v0.14.0](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/264) (renovate)
+- 2022-10-26 [fix(deps): update dependency regenerator-runtime to v0.14.1](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/264) (renovate)
 - 2023-01-30 [Update browserslist DB](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/284) (edx-requirements-bot)
 - 2023-02-18 [chore(deps): update dependency @testing-library/react to v14](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/295) (renovate)
 - 2023-03-25 [chore(deps): update dependency @testing-library/user-event to v14](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/310) (renovate)
@@ -794,7 +794,7 @@ As of 2023-12-15
 - 2021-05-14 [chore(deps): update dependency @testing-library/react-hooks to v5.1.3](https://github.com/openedx/frontend-app-admin-portal/pull/548) (renovate)
 - 2021-05-14 [chore(deps): update dependency dotenv to v8.6.0](https://github.com/openedx/frontend-app-admin-portal/pull/549) (renovate)
 - 2021-05-25 [fix(deps): update dependency classnames to v2.3.2](https://github.com/openedx/frontend-app-admin-portal/pull/562) (renovate)
-- 2021-10-11 [fix(deps): update dependency regenerator-runtime to v0.14.0](https://github.com/openedx/frontend-app-admin-portal/pull/631) (renovate)
+- 2021-10-11 [fix(deps): update dependency regenerator-runtime to v0.14.1](https://github.com/openedx/frontend-app-admin-portal/pull/631) (renovate)
 - 2021-11-03 [build(deps): bump validator from 10.11.0 to 13.7.0](https://github.com/openedx/frontend-app-admin-portal/pull/642) (dependabot) [*dependencies*]
 - 2021-11-03 [fix(deps): update dependency validator to v13 [security]](https://github.com/openedx/frontend-app-admin-portal/pull/643) (renovate)
 - 2022-01-10 [build(deps-dev): bump postcss from 8.1.0 to 8.2.13](https://github.com/openedx/frontend-app-admin-portal/pull/672) (dependabot) [*dependencies*]
@@ -884,7 +884,7 @@ As of 2023-12-15
 ### [#](#-openedxfrontend-app-library-authoring) [openedx/frontend-app-library-authoring](https://github.com/openedx/frontend-app-library-authoring/pulls)
 - 2023-05-18 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-library-authoring/pull/162) (renovate)
 - 2023-07-27 [fix(deps): update dependency core-js to v3.34.0](https://github.com/openedx/frontend-app-library-authoring/pull/242) (renovate)
-- 2023-08-07 [fix(deps): update dependency regenerator-runtime to v0.14.0](https://github.com/openedx/frontend-app-library-authoring/pull/253) (renovate)
+- 2023-08-07 [fix(deps): update dependency regenerator-runtime to v0.14.1](https://github.com/openedx/frontend-app-library-authoring/pull/253) (renovate)
 - 2023-09-04 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/frontend-app-library-authoring/pull/291) (renovate)
 - 2023-09-17 [chore(i18n): update translations](https://github.com/openedx/frontend-app-library-authoring/pull/304) (edx-transifex-bot)
 - 2023-09-19 [fix(deps): update react-router monorepo to v6.21.0](https://github.com/openedx/frontend-app-library-authoring/pull/309) (renovate)
