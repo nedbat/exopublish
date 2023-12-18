@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2023-12-15.
-686 pull requests, not including bots.
+As of 2023-12-18.
+696 pull requests, not including bots.
 
 ## 25 oldest
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
@@ -228,6 +228,8 @@ As of 2023-12-15.
 - 2023-07-26 [Updated CI workflow](https://github.com/openedx/frontend-app-publisher/pull/893) (openedx/frontend-app-publisher)
 - 2023-09-04 [chore: updated edx-ui-toolkit to latest version](https://github.com/openedx/edx-platform/pull/33161) (openedx/edx-platform)
 - 2023-10-09 [feat: update react & react-dom to v17](https://github.com/edx/frontend-app-skills/pull/76) (edx/frontend-app-skills)
+- 2023-10-17 [feat: bumped frontend-platform to v6](https://github.com/openedx/frontend-enterprise/pull/364) (openedx/frontend-enterprise)
+- 2023-10-18 [chore: bumped frontend-platform with relavent edx packages](https://github.com/openedx/frontend-app-profile/pull/881) (openedx/frontend-app-profile)
 
 ## [#](#-bilaltahir21) [bilaltahir21](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abilaltahir21+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-07-05 [feat: executive education card related changes for dashboard](https://github.com/openedx/frontend-app-learner-dashboard/pull/171) (openedx/frontend-app-learner-dashboard)
@@ -246,6 +248,7 @@ As of 2023-12-15.
 
 ## [#](#-bradenmacdonald) [bradenmacdonald](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abradenmacdonald+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-08-12 [Don't install "bundled" dependencies for running tests](https://github.com/openedx/edx-platform/pull/32993) (openedx/edx-platform) [*open-source-contribution*]
+- 2023-10-17 [Convert "Pages & Resources" page to a plugin system](https://github.com/openedx/frontend-app-course-authoring/pull/638) (openedx/frontend-app-course-authoring) [*open-source-contribution*]
 
 ## [#](#-brian-smith-tcril) [brian-smith-tcril](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abrian-smith-tcril+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-09-12 [Test adding fsevents](https://github.com/openedx/edx-platform/pull/30979) (openedx/edx-platform)
@@ -320,6 +323,7 @@ As of 2023-12-15.
 - 2023-09-06 [docs: add "create collection" to usage docs](https://github.com/openedx/blockstore/pull/286) (openedx/blockstore)
 - 2023-09-26 [fix: page routes wildcard which breaks tutor](https://github.com/openedx/frontend-app-library-authoring/pull/322) (openedx/frontend-app-library-authoring)
 - 2023-10-16 [feat: support static reference in LibraryContentBlock](https://github.com/openedx/edx-platform/pull/33511) (openedx/edx-platform)
+- 2023-10-17 [feat: Library Content Block Editor](https://github.com/openedx/frontend-lib-content-components/pull/411) (openedx/frontend-lib-content-components)
 
 ## [#](#-davidjoy) [davidjoy](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Adavidjoy+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2021-05-19 [Upgrading to bootstrap 4.6.0](https://github.com/openedx/edx-platform/pull/27680) (openedx/edx-platform)
@@ -365,6 +369,10 @@ As of 2023-12-15.
 
 ## [#](#-doctoryes) [doctoryes](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Adoctoryes+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2021-08-18 [feat: Add two middlewares to the CMS](https://github.com/openedx/edx-platform/pull/28490) (openedx/edx-platform) [*open-source-contribution; inactive*]
+
+## [#](#-dyudyunov) [dyudyunov](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Adyudyunov+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-10-19 [fix: retirement pipeline pip version](https://github.com/openedx/configuration/pull/7046) (openedx/configuration) [*open-source-contribution*]
+- 2023-10-19 [fix: retirement pipeline pip version](https://github.com/openedx/configuration/pull/7047) (openedx/configuration) [*open-source-contribution; waiting for eng review; backport*]
 
 ## [#](#-e0d) [e0d](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ae0d+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-06-02 [Sample xAPI Mapping](https://github.com/openedx/wg-data/pull/17) (openedx/wg-data)
@@ -515,6 +523,8 @@ As of 2023-12-15.
 - 2023-09-26 [[Django 4.2]: Upgrade Django to 4.2](https://github.com/openedx/edx-ora2/pull/2057) (openedx/edx-ora2)
 - 2023-10-10 [Switch to Ansible-Free Docker Image of cs_comments_service(forums)](https://github.com/openedx/devstack/pull/1205) (openedx/devstack)
 - 2023-10-16 [Switch to Ansible-Free Docker Image for Devstack](https://github.com/openedx/cs_comments_service/pull/420) (openedx/cs_comments_service)
+- 2023-10-19 [[DEPR] xblock.fragment and direct id_generator parameters in xblock.runtime.Runtime](https://github.com/openedx/XBlock/pull/680) (openedx/XBlock)
+- 2023-10-19 [feat: fix runtime deprecation](https://github.com/openedx/xblock-sdk/pull/323) (openedx/xblock-sdk)
 
 ## [#](#-jajjibhai008) [jajjibhai008](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ajajjibhai008+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-05-04 [chore: updated edx-enterprise version to 3.62.0](https://github.com/openedx/edx-platform/pull/32185) (openedx/edx-platform)
@@ -780,6 +790,7 @@ As of 2023-12-15.
 - 2023-10-09 [feat: trigger prefect flow after models successfully transferred to s3](https://github.com/edx/jenkins-job-dsl/pull/1672) (edx/jenkins-job-dsl)
 - 2023-10-12 [fix: Make `contract_end_date` nullable in `EnterpriseAdminSummarizeIn…](https://github.com/openedx/edx-enterprise-data/pull/408) (openedx/edx-enterprise-data)
 - 2023-10-12 [test: test jenkins job changes](https://github.com/edx/jenkins-job-dsl/pull/1674) (edx/jenkins-job-dsl)
+- 2023-10-17 [feat: load data irrespective of column ordering](https://github.com/edx/edx-prefectutils/pull/89) (edx/edx-prefectutils)
 
 ## [#](#-mulby) [mulby](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Amulby+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2016-12-28 [Support a dockerized analyticstack](https://github.com/openedx/edx-analytics-pipeline/pull/337) (openedx/edx-analytics-pipeline)
@@ -962,6 +973,7 @@ As of 2023-12-15.
 - 2023-03-29 [fix: styles not loading issue](https://github.com/openedx/frontend-platform/pull/461) (openedx/frontend-platform)
 - 2023-05-12 [Ali abbas/apply eslint amnesty](https://github.com/openedx/edx-platform/pull/32226) (openedx/edx-platform)
 - 2023-07-10 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-admin-portal/pull/1001) (openedx/frontend-app-admin-portal)
+- 2023-10-17 [chore: coverage test](https://github.com/openedx/frontend-app-publisher/pull/915) (openedx/frontend-app-publisher)
 
 ## [#](#-syedimranhassan) [syedimranhassan](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Asyedimranhassan+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2021-04-22 [Testing jenkins build on PR](https://github.com/openedx/webhook-test-repo/pull/6) (openedx/webhook-test-repo)
@@ -1011,10 +1023,9 @@ As of 2023-12-15.
 - 2023-10-11 [feat: Profile image on user posts (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/573) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
 - 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-12 [feat: Enhancements to page](https://github.com/openedx/frontend-app-discussions/pull/577) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
-- 2023-10-16 [feat: Editor bar visibility (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/581) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
-- 2023-10-16 [feat: Editor bar visibility (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/583) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
+- 2023-10-16 [feat: Editor bar visibility (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/581) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution; backport*]
+- 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution*]
+- 2023-10-16 [feat: Editor bar visibility (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/583) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution; backport*]
 
 ## [#](#-wasuregusa18) [wasuregusa18](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Awasuregusa18+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-01-11 [Fix/hardcoded currency 135](https://github.com/openedx/ecommerce/pull/3891) (openedx/ecommerce) [*open-source-contribution*]
@@ -1085,3 +1096,4 @@ As of 2023-12-15.
 - 2023-08-31 [fix: updated lms and cms mysql dependency to 8.0](https://github.com/openedx/devstack/pull/1165) (openedx/devstack)
 - 2023-09-04 [fix: updated setup.py using script.](https://github.com/openedx/repo-tools/pull/436) (openedx/repo-tools)
 - 2023-09-26 [Open Upgrade Django to 4.2 LTS](https://github.com/edx/edx-exams/pull/184) (edx/edx-exams)
+- 2023-10-18 [Unpin tox, tox-battery and pytest-metadata](https://github.com/openedx/edx-platform/pull/33532) (openedx/edx-platform)
