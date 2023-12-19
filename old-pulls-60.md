@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2023-12-18.
-696 pull requests, not including bots.
+As of 2023-12-19.
+695 pull requests, not including bots.
 
 ## 25 oldest
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
@@ -230,6 +230,7 @@ As of 2023-12-18.
 - 2023-10-09 [feat: update react & react-dom to v17](https://github.com/edx/frontend-app-skills/pull/76) (edx/frontend-app-skills)
 - 2023-10-17 [feat: bumped frontend-platform to v6](https://github.com/openedx/frontend-enterprise/pull/364) (openedx/frontend-enterprise)
 - 2023-10-18 [chore: bumped frontend-platform with relavent edx packages](https://github.com/openedx/frontend-app-profile/pull/881) (openedx/frontend-app-profile)
+- 2023-10-19 [feat: bumped frontend-platform along with relative packages](https://github.com/edx/frontend-lib-learning-assistant/pull/32) (edx/frontend-lib-learning-assistant)
 
 ## [#](#-bilaltahir21) [bilaltahir21](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abilaltahir21+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-07-05 [feat: executive education card related changes for dashboard](https://github.com/openedx/frontend-app-learner-dashboard/pull/171) (openedx/frontend-app-learner-dashboard)
@@ -255,6 +256,7 @@ As of 2023-12-18.
 - 2023-08-01 [fix: ensure lint returns error on failure](https://github.com/openedx/frontend-app-admin-portal/pull/1014) (openedx/frontend-app-admin-portal)
 - 2023-08-01 [fix: ensure prepush lint returns error on failure](https://github.com/openedx/frontend-app-publisher/pull/897) (openedx/frontend-app-publisher)
 - 2023-09-14 [chore: simplify setup-node gh action use](https://github.com/openedx/frontend-app-learning/pull/1185) (openedx/frontend-app-learning)
+- 2023-10-19 [fix: prevent #NaN color picker values](https://github.com/openedx/paragon/pull/2734) (openedx/paragon)
 
 ## [#](#-brianhw) [brianhw](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abrianhw+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (openedx/edx-analytics-pipeline)
@@ -418,7 +420,6 @@ As of 2023-12-18.
 
 ## [#](#-feanil) [feanil](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Afeanil+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-09-12 [feat: Allow guest access to backstage.](https://github.com/openedx/openedx-backstage/pull/6) (openedx/openedx-backstage)
-- 2023-07-12 [build: Remove tox constraint.](https://github.com/openedx/edx-lint/pull/354) (openedx/edx-lint)
 
 ## [#](#-germanolleunlp) [germanolleunlp](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Agermanolleunlp+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-09-18 [fix: Fixed card with longer texts](https://github.com/openedx/frontend-app-course-authoring/pull/605) (openedx/frontend-app-course-authoring)
@@ -543,7 +544,6 @@ As of 2023-12-18.
 - 2021-07-19 [WIP: Add ios payment processor and mobile payment execution flow](https://github.com/openedx/ecommerce/pull/3475) (openedx/ecommerce)
 
 ## [#](#-jawayria) [Jawayria](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AJawayria+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2021-10-12 [feat: Added workflow templates for semantic-release](https://github.com/edx/.github/pull/16) (edx/.github)
 - 2022-04-27 [chore!: drop support for Node 12](https://github.com/openedx/frontend-app-payment/pull/597) (openedx/frontend-app-payment)
 - 2022-06-03 [build: use shared browserslist config](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/238) (openedx/frontend-app-enterprise-public-catalog)
 - 2022-06-17 [fix: Install pip and pip-tools in upgrade script](https://github.com/edx/edx-name-affirmation/pull/94) (edx/edx-name-affirmation)
@@ -724,7 +724,6 @@ As of 2023-12-18.
 - 2023-07-24 [build: update frontend build](https://github.com/openedx/frontend-app-learner-dashboard/pull/180) (openedx/frontend-app-learner-dashboard) [*needs maintainer attention*]
 - 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/324) (openedx/frontend-app-enterprise-public-catalog)
 - 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-lib-content-components/pull/364) (openedx/frontend-lib-content-components)
-- 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-app-library-authoring/pull/238) (openedx/frontend-app-library-authoring)
 - 2023-07-24 [feat: update react & react-dom to v17](https://github.com/openedx/frontend-app-admin-portal/pull/1009) (openedx/frontend-app-admin-portal)
 - 2023-08-25 [refactor: update lock file version](https://github.com/openedx/frontend-app-ora/pull/23) (openedx/frontend-app-ora)
 - 2023-08-25 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-learning/pull/1169) (openedx/frontend-app-learning)
