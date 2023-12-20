@@ -9,6 +9,7 @@ As of 2023-12-20
 | [2u-arch-bom](#team-2u-arch-bom) | 49 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;15; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;4; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;3; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;3; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;3; [pytest&#x2011;repo&#x2011;health](#-openedxpytest-repo-health)&nbsp;2; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;2; [edx&#x2011;celeryutils](#-openedxedx-celeryutils)&nbsp;2; [bok&#x2011;choy](#-openedxbok-choy)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [event&#x2011;bus&#x2011;kafka](#-openedxevent-bus-kafka)&nbsp;1; [edx&#x2011;rest&#x2011;api&#x2011;client](#-openedxedx-rest-api-client)&nbsp;1; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;1; [edx&#x2011;drf&#x2011;extensions](#-openedxedx-drf-extensions)&nbsp;1; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;1; [edx&#x2011;custom&#x2011;a11y&#x2011;rules](#-openedxedx-custom-a11y-rules)&nbsp;1; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1 |
 | [2u-aurora](#team-2u-aurora) | 74 | [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;27; [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;17; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;9; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;6; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;4; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;4; [xqueue&#x2011;watcher](#-openedxxqueue-watcher)&nbsp;3; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;3; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
 | [2u-cosmonauts](#team-2u-cosmonauts) | 63 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;20; [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;12; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;8; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;5; [mockprock](#-openedxmockprock)&nbsp;4; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;2; [edx&#x2011;analytics&#x2011;data&#x2011;api&#x2011;client](#-openedxedx-analytics-data-api-client)&nbsp;2; [registrar](#-openedxregistrar)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [completion](#-openedxcompletion)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [token&#x2011;utils](#-edxtoken-utils)&nbsp;1; [learning&#x2011;assistant](#-edxlearning-assistant)&nbsp;1; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;1; [frontend&#x2011;app&#x2011;exams&#x2011;dashboard](#-edxfrontend-app-exams-dashboard)&nbsp;1; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;1 |
+| [2u-data-de](#team-2u-data-de) | 38 | [edx&#x2011;analytics&#x2011;pipeline](#-openedxedx-analytics-pipeline)&nbsp;8; [dbt&#x2011;schema&#x2011;builder](#-edxdbt-schema-builder)&nbsp;6; [code&#x2011;annotations](#-openedxcode-annotations)&nbsp;5; [edx&#x2011;prefectutils](#-edxedx-prefectutils)&nbsp;5; [edx&#x2011;analytics&#x2011;configuration](#-openedxedx-analytics-configuration)&nbsp;4; [user&#x2011;util](#-openedxuser-util)&nbsp;3; [edx&#x2011;analytics&#x2011;exporter](#-openedxedx-analytics-exporter)&nbsp;3; [luigi](#-edxluigi)&nbsp;2; [event&#x2011;tracking](#-openedxevent-tracking)&nbsp;1; [pyinstrument](#-edxpyinstrument)&nbsp;1 |
 | [2u-fed-bom](#team-2u-fed-bom) | 64 | [edx&#x2011;ui&#x2011;toolkit](#-openedxedx-ui-toolkit)&nbsp;10; [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;9; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;9; [ux&#x2011;pattern&#x2011;library](#-edxux-pattern-library)&nbsp;8; [edx&#x2011;bootstrap](#-openedxedx-bootstrap)&nbsp;7; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;5; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;4; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;3; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;3; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;3; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;2; [eslint&#x2011;config](#-openedxeslint-config)&nbsp;1 |
 | [2u-infinity](#team-2u-infinity) | 14 | [cs_comments_service](#-openedxcs-comments-service)&nbsp;11; [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;2; [platform&#x2011;plugin&#x2011;notices](#-edxplatform-plugin-notices)&nbsp;1 |
 | [2u-kubrick](#team-2u-kubrick) | 3 | [edx&#x2011;search](#-openedxedx-search)&nbsp;2; [ai&#x2011;aside](#-edxai-aside)&nbsp;1 |
@@ -21,7 +22,7 @@ As of 2023-12-20
 | [2u-titans](#team-2u-titans) | 71 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;19; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;17; [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;4; [tincanpython](#-openedxtincanpython)&nbsp;3; [edx&#x2011;enterprise&#x2011;subsidy&#x2011;client](#-openedxedx-enterprise-subsidy-client)&nbsp;1; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;1; [getsmarter&#x2011;api&#x2011;clients](#-edxgetsmarter-api-clients)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 56 | [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;19; [edx&#x2011;organizations](#-openedxedx-organizations)&nbsp;11; [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;8; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;6; [codejail](#-openedxcodejail)&nbsp;4; [openedx&#x2011;chem](#-openedxopenedx-chem)&nbsp;3; [openedx&#x2011;calc](#-openedxopenedx-calc)&nbsp;2; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;1; [frontend&#x2011;components&#x2011;tinymce&#x2011;advanced&#x2011;plugins](#-openedxfrontend-components-tinymce-advanced-plugins)&nbsp;1; [blockstore](#-openedxblockstore)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 10 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;9; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **630** ||
+| **TOTAL** | **668** ||
 
 ## Team 2u-aperture
 
@@ -412,6 +413,66 @@ As of 2023-12-20
 
 ### [#](#-openedxregistrar) [openedx/registrar](https://github.com/openedx/registrar/pulls)
 - 2022-01-06 [Bump celery from 4.4.7 to 5.2.2 in /requirements/monitoring](https://github.com/openedx/registrar/pull/453) (dependabot) [*dependencies*]
+
+## Team 2u-data-de
+
+### [#](#-edxdbt-schema-builder) [edx/dbt-schema-builder](https://github.com/edx/dbt-schema-builder/pulls)
+- 2022-05-01 [Python Requirements Update](https://github.com/edx/dbt-schema-builder/pull/68) (edx-requirements-bot)
+- 2022-05-25 [build(deps): bump pyjwt from 2.3.0 to 2.4.0 in /requirements](https://github.com/edx/dbt-schema-builder/pull/69) (dependabot) [*dependencies*]
+- 2022-12-27 [build(deps): bump setuptools from 60.9.3 to 65.5.1 in /requirements](https://github.com/edx/dbt-schema-builder/pull/74) (dependabot) [*dependencies*]
+- 2023-01-06 [fix: update organization references](https://github.com/edx/dbt-schema-builder/pull/75) (edx-requirements-bot)
+- 2023-02-16 [build(deps): bump werkzeug from 2.0.3 to 2.2.3 in /requirements](https://github.com/edx/dbt-schema-builder/pull/76) (dependabot) [*dependencies*]
+- 2023-09-06 [fix: setup.py update using script](https://github.com/edx/dbt-schema-builder/pull/92) (edx-requirements-bot)
+
+### [#](#-edxedx-prefectutils) [edx/edx-prefectutils](https://github.com/edx/edx-prefectutils/pulls)
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/edx/edx-prefectutils/pull/50) (edx-requirements-bot)
+- 2023-01-06 [fix: update organization references](https://github.com/edx/edx-prefectutils/pull/76) (edx-requirements-bot)
+- 2023-02-13 [build(deps): bump wheel from 0.33.6 to 0.38.1 in /requirements](https://github.com/edx/edx-prefectutils/pull/83) (dependabot) [*dependencies*]
+- 2023-02-13 [build(deps): bump cryptography from 39.0.0 to 39.0.1 in /requirements](https://github.com/edx/edx-prefectutils/pull/84) (dependabot) [*dependencies*]
+- 2023-09-05 [fix: setup.py update using script](https://github.com/edx/edx-prefectutils/pull/88) (edx-requirements-bot)
+
+### [#](#-edxluigi) [edx/luigi](https://github.com/edx/luigi/pulls)
+- 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/edx/luigi/pull/12) (edx-requirements-bot)
+- 2022-09-29 [fix: update organization references](https://github.com/edx/luigi/pull/14) (edx-requirements-bot)
+
+### [#](#-edxpyinstrument) [edx/pyinstrument](https://github.com/edx/pyinstrument/pulls)
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/edx/pyinstrument/pull/2) (edx-requirements-bot)
+
+### [#](#-openedxcode-annotations) [openedx/code-annotations](https://github.com/openedx/code-annotations/pulls)
+- 2021-02-02 [Bump bleach from 3.2.1 to 3.3.0 in /requirements](https://github.com/openedx/code-annotations/pull/63) (dependabot) [*dependencies*]
+- 2021-03-29 [Bump pygments from 2.7.3 to 2.7.4 in /requirements](https://github.com/openedx/code-annotations/pull/67) (dependabot) [*dependencies*]
+- 2021-04-06 [Bump urllib3 from 1.26.2 to 1.26.4 in /requirements](https://github.com/openedx/code-annotations/pull/69) (dependabot) [*dependencies*]
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/openedx/code-annotations/pull/76) (edx-requirements-bot)
+- 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/code-annotations/pull/93) (edx-requirements-bot)
+
+### [#](#-openedxedx-analytics-configuration) [openedx/edx-analytics-configuration](https://github.com/openedx/edx-analytics-configuration/pulls)
+- 2022-12-26 [Bump wheel from 0.37.1 to 0.38.1 in /requirements](https://github.com/openedx/edx-analytics-configuration/pull/106) (dependabot) [*dependencies*]
+- 2023-01-24 [Bump ansible from 6.4.0 to 7.0.0 in /requirements](https://github.com/openedx/edx-analytics-configuration/pull/108) (dependabot) [*dependencies*]
+- 2023-02-08 [Bump cryptography from 38.0.1 to 39.0.1 in /requirements](https://github.com/openedx/edx-analytics-configuration/pull/109) (dependabot) [*dependencies*]
+- 2023-02-24 [build(deps): bump future from 0.17.1 to 0.18.3 in /requirements](https://github.com/openedx/edx-analytics-configuration/pull/112) (dependabot) [*dependencies*]
+
+### [#](#-openedxedx-analytics-exporter) [openedx/edx-analytics-exporter](https://github.com/openedx/edx-analytics-exporter/pulls)
+- 2020-03-13 [Bump python-gnupg from 0.3.6 to 0.4.4](https://github.com/openedx/edx-analytics-exporter/pull/47) (dependabot) [*dependencies*]
+- 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/openedx/edx-analytics-exporter/pull/58) (edx-requirements-bot)
+- 2023-09-06 [fix: setup.py update using script](https://github.com/openedx/edx-analytics-exporter/pull/89) (edx-requirements-bot)
+
+### [#](#-openedxedx-analytics-pipeline) [openedx/edx-analytics-pipeline](https://github.com/openedx/edx-analytics-pipeline/pulls)
+- 2020-08-21 [Python Code Cleanup](https://github.com/openedx/edx-analytics-pipeline/pull/829) (edx-requirements-bot)
+- 2021-01-07 [Bump urllib3 from 1.22 to 1.24.2 in /requirements](https://github.com/openedx/edx-analytics-pipeline/pull/853) (dependabot) [*dependencies*]
+- 2021-01-07 [Bump ecdsa from 0.13 to 0.13.3 in /requirements](https://github.com/openedx/edx-analytics-pipeline/pull/854) (dependabot) [*dependencies*]
+- 2021-08-11 [Bump pygments from 2.5.2 to 2.7.4 in /requirements](https://github.com/openedx/edx-analytics-pipeline/pull/871) (dependabot) [*dependencies*]
+- 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/openedx/edx-analytics-pipeline/pull/874) (edx-requirements-bot)
+- 2021-11-15 [Bump pip from 9.0.1 to 21.1 in /requirements](https://github.com/openedx/edx-analytics-pipeline/pull/875) (dependabot) [*dependencies*]
+- 2022-06-10 [fix: Install pip and pip-tools in upgrade script](https://github.com/openedx/edx-analytics-pipeline/pull/880) (edx-requirements-bot)
+- 2022-12-27 [Bump setuptools from 44.1.1 to 65.5.1 in /requirements](https://github.com/openedx/edx-analytics-pipeline/pull/885) (dependabot) [*dependencies*]
+
+### [#](#-openedxevent-tracking) [openedx/event-tracking](https://github.com/openedx/event-tracking/pulls)
+- 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/event-tracking/pull/238) (edx-requirements-bot)
+
+### [#](#-openedxuser-util) [openedx/user-util](https://github.com/openedx/user-util/pulls)
+- 2021-02-02 [Add Common Constraint](https://github.com/openedx/user-util/pull/13) (edx-requirements-bot)
+- 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/openedx/user-util/pull/15) (edx-requirements-bot)
+- 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/user-util/pull/22) (edx-requirements-bot)
 
 ## Team 2u-fed-bom
 

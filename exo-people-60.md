@@ -9,6 +9,7 @@ As of 2023-12-20
 | [2u-arch-bom](#team-2u-arch-bom) | 173 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;125; [devstack](#-openedxdevstack)&nbsp;16; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;5; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;4; [edx&#x2011;cookiecutters](#-openedxedx-cookiecutters)&nbsp;4; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;3; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;2; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;2; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;2; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;1; [pytest&#x2011;warnings&#x2011;report](#-openedxpytest-warnings-report)&nbsp;1; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1 |
 | [2u-aurora](#team-2u-aurora) | 40 | [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;13; [frontend&#x2011;app&#x2011;learner&#x2011;dashboard](#-openedxfrontend-app-learner-dashboard)&nbsp;7; [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;7; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;4; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;3; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;3; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;1; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;1; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
 | [2u-cosmonauts](#team-2u-cosmonauts) | 47 | [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;10; [registrar](#-openedxregistrar)&nbsp;8; [edx&#x2011;analytics&#x2011;data&#x2011;api](#-openedxedx-analytics-data-api)&nbsp;4; [frontend&#x2011;lib&#x2011;special&#x2011;exams](#-openedxfrontend-lib-special-exams)&nbsp;3; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;3; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;3; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;3; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;3; [completion](#-openedxcompletion)&nbsp;2; [xblock&#x2011;lti&#x2011;consumer](#-openedxxblock-lti-consumer)&nbsp;1; [mockprock](#-openedxmockprock)&nbsp;1; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;1; [edx&#x2011;exams](#-edxedx-exams)&nbsp;1 |
+| [2u-data-de](#team-2u-data-de) | 34 | [edx&#x2011;analytics&#x2011;pipeline](#-openedxedx-analytics-pipeline)&nbsp;15; [edx&#x2011;analytics&#x2011;exporter](#-openedxedx-analytics-exporter)&nbsp;6; [dbt&#x2011;schema&#x2011;builder](#-edxdbt-schema-builder)&nbsp;5; [edx&#x2011;prefectutils](#-edxedx-prefectutils)&nbsp;4; [edx&#x2011;analytics&#x2011;configuration](#-openedxedx-analytics-configuration)&nbsp;2; [vertica_docker](#-edxvertica-docker)&nbsp;1; [snowflake_timetravel_table](#-edxsnowflake-timetravel-table)&nbsp;1 |
 | [2u-fed-bom](#team-2u-fed-bom) | 19 | [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;4; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;4; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;3; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;2; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;2; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;2; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;1; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;1 |
 | [2u-infinity](#team-2u-infinity) | 14 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;7; [cs_comments_service](#-openedxcs-comments-service)&nbsp;4; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;3 |
 | [2u-kubrick](#team-2u-kubrick) | 1 | [edx&#x2011;search](#-openedxedx-search)&nbsp;1 |
@@ -21,7 +22,7 @@ As of 2023-12-20
 | [2u-titans](#team-2u-titans) | 59 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;16; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;14; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;6; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 17 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;6; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;3; [xblock](#-openedxxblock)&nbsp;1; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 5 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;4; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **503** ||
+| **TOTAL** | **537** ||
 
 ## Team 2u-aperture
 
@@ -402,6 +403,56 @@ As of 2023-12-20
 
 ### [#](#-openedxxblock-lti-consumer) [openedx/xblock-lti-consumer](https://github.com/openedx/xblock-lti-consumer/pulls)
 - 2023-04-05 [add pyjwt requirement](https://github.com/openedx/xblock-lti-consumer/pull/349) (mumarkhan999)
+
+## Team 2u-data-de
+
+### [#](#-edxdbt-schema-builder) [edx/dbt-schema-builder](https://github.com/edx/dbt-schema-builder/pulls)
+- 2021-02-12 [Running dbt schema builder tool section added](https://github.com/edx/dbt-schema-builder/pull/38) (jazibhumayun)
+- 2022-01-12 [bump version to 0.4.2 for release](https://github.com/edx/dbt-schema-builder/pull/55) (jazibhumayun)
+- 2022-03-31 [chore: dbt version upgrade 1.0.3](https://github.com/edx/dbt-schema-builder/pull/64) (jazibhumayun)
+- 2023-06-05 [Dnuzz/update to dbt 1 5](https://github.com/edx/dbt-schema-builder/pull/81) (dnuzz)
+- 2023-06-15 [add --piionly flag](https://github.com/edx/dbt-schema-builder/pull/82) (purna2U)
+
+### [#](#-edxedx-prefectutils) [edx/edx-prefectutils](https://github.com/edx/edx-prefectutils/pulls)
+- 2020-12-04 [Record filter](https://github.com/edx/edx-prefectutils/pull/12) (HassanJaveed84)
+- 2021-11-15 [feat: Add logic to enable loading pepped events into Amplitude](https://github.com/edx/edx-prefectutils/pull/52) (pwnage101)
+- 2022-04-19 [feat: add encoding option for snowflake to s3 just in case](https://github.com/edx/edx-prefectutils/pull/70) (alangsto)
+- 2023-10-17 [feat: load data irrespective of column ordering](https://github.com/edx/edx-prefectutils/pull/89) (muhammad-ammar)
+
+### [#](#-edxsnowflake-timetravel-table) [edx/snowflake_timetravel_table](https://github.com/edx/snowflake_timetravel_table/pulls)
+- 2023-07-21 [chore: upgrade dbt version](https://github.com/edx/snowflake_timetravel_table/pull/10) (abdulrafey38)
+
+### [#](#-edxvertica-docker) [edx/vertica_docker](https://github.com/edx/vertica_docker/pulls)
+- 2023-01-09 [fix: update org references in CI workflows](https://github.com/edx/vertica_docker/pull/2) (aht007)
+
+### [#](#-openedxedx-analytics-configuration) [openedx/edx-analytics-configuration](https://github.com/openedx/edx-analytics-configuration/pulls)
+- 2021-08-20 [feat: Added ability to specify custom AMI for EMR.](https://github.com/openedx/edx-analytics-configuration/pull/94) (HassanJaveed84)
+- 2023-02-16 [build: remove future package](https://github.com/openedx/edx-analytics-configuration/pull/110) (UsamaSadiq)
+
+### [#](#-openedxedx-analytics-exporter) [openedx/edx-analytics-exporter](https://github.com/openedx/edx-analytics-exporter/pulls)
+- 2019-04-22 [Add a numeric prefix to filenames to allow non alphabetical ordering of organizations](https://github.com/openedx/edx-analytics-exporter/pull/40) (macdiesel)
+- 2022-03-01 [chore: Use gpg2 for importing gpg keys.](https://github.com/openedx/edx-analytics-exporter/pull/61) (HassanJaveed84)
+- 2022-12-14 [chore: export unencrypted package for aws](https://github.com/openedx/edx-analytics-exporter/pull/83) (Hamza442)
+- 2022-12-27 [chore: fix error Unread result found](https://github.com/openedx/edx-analytics-exporter/pull/84) (Hamza442)
+- 2023-02-01 [chore: generate hisotrical data package for delftx](https://github.com/openedx/edx-analytics-exporter/pull/85) (Hamza442)
+- 2023-08-03 [chore: generate hisotrical data package for imfx](https://github.com/openedx/edx-analytics-exporter/pull/88) (Hamza442)
+
+### [#](#-openedxedx-analytics-pipeline) [openedx/edx-analytics-pipeline](https://github.com/openedx/edx-analytics-pipeline/pulls)
+- 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw)
+- 2016-12-28 [Support a dockerized analyticstack](https://github.com/openedx/edx-analytics-pipeline/pull/337) (mulby)
+- 2017-06-19 [Collect blast information from SailThru](https://github.com/openedx/edx-analytics-pipeline/pull/409) (brianhw)
+- 2017-09-29 [Upgrade some less-problematic packages](https://github.com/openedx/edx-analytics-pipeline/pull/432) (brianhw)
+- 2018-01-24 [WIP-Spark Tasks](https://github.com/openedx/edx-analytics-pipeline/pull/476) (rao-abdul-mannan)
+- 2019-04-19 [Tasks for loading GA data into Snowflake (PART 2)](https://github.com/openedx/edx-analytics-pipeline/pull/722) (pwnage101)
+- 2019-07-17 [Python 2/3 compatibility for finance tasks](https://github.com/openedx/edx-analytics-pipeline/pull/747) (pwnage101)
+- 2019-09-13 [We are using Hive 2.1.1 and NULLIF is supported in 2.3.0 onwards](https://github.com/openedx/edx-analytics-pipeline/pull/758) (ziafazal)
+- 2019-12-04 [requests package upgraded](https://github.com/openedx/edx-analytics-pipeline/pull/783) (adeelehsan)
+- 2020-02-05 [Spike:  copy S3 database/schema data to another location in S3](https://github.com/openedx/edx-analytics-pipeline/pull/800) (brianhw)
+- 2020-03-10 [WIP: ENT-2664 added task for inserting course_structure to mysql](https://github.com/openedx/edx-analytics-pipeline/pull/807) (irfanuddinahmad)
+- 2020-04-17 [Add partitioning for JSON output.](https://github.com/openedx/edx-analytics-pipeline/pull/814) (brianhw)
+- 2020-06-25 [Removed all BigQuery related code.](https://github.com/openedx/edx-analytics-pipeline/pull/819) (HassanJaveed84)
+- 2020-11-23 [Removed overwrite parameter from sqoop import tasks](https://github.com/openedx/edx-analytics-pipeline/pull/845) (HassanJaveed84)
+- 2021-07-27 [Testing: Initial pass at moving to geoip2.](https://github.com/openedx/edx-analytics-pipeline/pull/869) (brianhw)
 
 ## Team 2u-fed-bom
 
