@@ -1,6 +1,6 @@
 
 # PRs older than 60 days by bots
-As of 2023-12-20
+As of 2023-12-21
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |

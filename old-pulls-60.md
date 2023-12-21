@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2023-12-20.
-694 pull requests, not including bots.
+As of 2023-12-21.
+697 pull requests, not including bots.
 
 ## 25 oldest
 - 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
@@ -467,6 +467,8 @@ As of 2023-12-20.
 - 2023-10-21 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-profile/pull/889) (openedx/frontend-app-profile) [*blocked by other work; open-source-contribution*]
 - 2023-10-21 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-component-footer/pull/355) (openedx/frontend-component-footer) [*blocked by other work; open-source-contribution*]
 - 2023-10-21 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-component-header/pull/416) (openedx/frontend-component-header) [*blocked by other work; open-source-contribution*]
+- 2023-10-21 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-authn/pull/1085) (openedx/frontend-app-authn) [*blocked by other work; open-source-contribution*]
+- 2023-10-21 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-library-authoring/pull/351) (openedx/frontend-app-library-authoring) [*blocked by other work; waiting on author; open-source-contribution*]
 
 ## [#](#-iamsobanjaved) [iamsobanjaved](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aiamsobanjaved+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2020-09-30 [Celery settings upgrade](https://github.com/openedx/edx-platform/pull/25158) (openedx/edx-platform)
@@ -580,7 +582,7 @@ As of 2023-12-20.
 - 2023-05-03 [feat: enrollment signals -> eventbus](https://github.com/openedx/edx-platform/pull/32176) (openedx/edx-platform)
 
 ## [#](#-johnvente) [johnvente](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ajohnvente+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2023-08-09 [feat: selectable students waiting step](https://github.com/openedx/edx-ora2/pull/2025) (openedx/edx-ora2) [*open-source-contribution; product review; blocked by other work; needs test run; needs maintainer attention*]
+- 2023-08-09 [feat: selectable students waiting step](https://github.com/openedx/edx-ora2/pull/2025) (openedx/edx-ora2) [*open-source-contribution; waiting on author; product review*]
 - 2023-10-09 [feat: open response assesment detail (problem steps)  UI](https://github.com/openedx/frontend-app-ora-grading/pull/263) (openedx/frontend-app-ora-grading) [*open-source-contribution*]
 - 2023-10-10 [feat: send email students course](https://github.com/openedx/frontend-app-communications/pull/157) (openedx/frontend-app-communications) [*open-source-contribution; waiting for eng review*]
 
@@ -596,7 +598,6 @@ As of 2023-12-20.
 - 2022-06-10 [feat: Add Receipt Page from ecommerce to MFE](https://github.com/openedx/frontend-app-ecommerce/pull/189) (openedx/frontend-app-ecommerce)
 - 2023-02-01 [feat: Initial 3DS implementation and handle requires_action status](https://github.com/openedx/ecommerce/pull/3904) (openedx/ecommerce)
 - 2023-02-20 [refactor: Use Stripe webhook endpoint on payment flow](https://github.com/openedx/ecommerce/pull/3913) (openedx/ecommerce)
-- 2023-09-12 [fix: Internationalization of ErrorPage when no cookies](https://github.com/openedx/frontend-app-ecommerce/pull/331) (openedx/frontend-app-ecommerce)
 
 ## [#](#-kalebjdavenport) [kalebjdavenport](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Akalebjdavenport+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-10-04 [feat: add twitter X icon to list of approved Bootstrap brandIconNames](https://github.com/openedx/paragon/pull/2686) (openedx/paragon)
@@ -678,6 +679,7 @@ As of 2023-12-20.
 - 2023-03-01 [feat: Auth form visual enhancements (master)](https://github.com/openedx/frontend-app-authn/pull/767) (openedx/frontend-app-authn) [*waiting on author; open-source-contribution*]
 - 2023-03-06 [feat: Add grey color for disabled selects during the form submission](https://github.com/openedx/frontend-app-payment/pull/715) (openedx/frontend-app-payment) [*open-source-contribution; waiting for eng review*]
 - 2023-10-11 [fix: Enabling the ability to log in with a username consisting of 2 characters (backport from palm branch)](https://github.com/openedx/frontend-app-authn/pull/1073) (openedx/frontend-app-authn) [*open-source-contribution; waiting for eng review*]
+- 2023-10-21 [fix: Prevent wrong appearance of skeleton after second tab click](https://github.com/openedx/frontend-app-authn/pull/1086) (openedx/frontend-app-authn) [*open-source-contribution*]
 
 ## [#](#-m-pitera) [m-pitera](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Am-pitera+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-08-15 [build: docker tweaks](https://github.com/openedx/edx-cookiecutters/pull/246) (openedx/edx-cookiecutters)
@@ -755,7 +757,7 @@ As of 2023-12-20.
 - 2023-10-05 [refactor: updated README file to reflect template changes](https://github.com/edx/frontend-component-footer-edx/pull/334) (edx/frontend-component-footer-edx)
 
 ## [#](#-mfarhan943) [mfarhan943](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Amfarhan943+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2023-09-27 [Fixing Video Repeating Issue](https://github.com/openedx/edx-platform/pull/33354) (openedx/edx-platform) [*open-source-contribution; needs test run*]
+- 2023-09-27 [Fixing Video Repeating Issue](https://github.com/openedx/edx-platform/pull/33354) (openedx/edx-platform) [*open-source-contribution*]
 
 ## [#](#-michaelroytman) [MichaelRoytman](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AMichaelRoytman+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2020-04-17 [[WIP] Initial Retirement Information Endpoint](https://github.com/openedx/edx-platform/pull/23759) (openedx/edx-platform)
@@ -1024,6 +1026,7 @@ As of 2023-12-20.
 - 2023-10-16 [feat: Editor bar visibility (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/581) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution; backport*]
 - 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution*]
 - 2023-10-16 [feat: Editor bar visibility (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/583) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution; backport*]
+- 2023-10-21 [feat: Assignment and course grade fields validations (palm.master)](https://github.com/openedx/frontend-app-gradebook/pull/361) (openedx/frontend-app-gradebook) [*open-source-contribution*]
 
 ## [#](#-wasuregusa18) [wasuregusa18](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Awasuregusa18+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-01-11 [Fix/hardcoded currency 135](https://github.com/openedx/ecommerce/pull/3891) (openedx/ecommerce) [*open-source-contribution*]
