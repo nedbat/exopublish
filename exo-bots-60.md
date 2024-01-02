@@ -1,17 +1,17 @@
 
 # PRs older than 60 days by bots
-As of 2023-12-21
+As of 2024-01-02
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
-| [2u-aperture](#team-2u-aperture) | 12 | [frontend&#x2011;app&#x2011;skills](#-edxfrontend-app-skills)&nbsp;4; [frontend&#x2011;app&#x2011;profile](#-openedxfrontend-app-profile)&nbsp;3; [edx&#x2011;milestones](#-openedxedx-milestones)&nbsp;2; [credentials](#-openedxcredentials)&nbsp;2; [django&#x2011;wiki](#-openedxdjango-wiki)&nbsp;1 |
+| [2u-aperture](#team-2u-aperture) | 13 | [frontend&#x2011;app&#x2011;skills](#-edxfrontend-app-skills)&nbsp;5; [frontend&#x2011;app&#x2011;profile](#-openedxfrontend-app-profile)&nbsp;3; [edx&#x2011;milestones](#-openedxedx-milestones)&nbsp;2; [credentials](#-openedxcredentials)&nbsp;2; [django&#x2011;wiki](#-openedxdjango-wiki)&nbsp;1 |
 | [2u-arbi-bom](#team-2u-arbi-bom) | 48 | [staff_graded&#x2011;xblock](#-openedxstaff-graded-xblock)&nbsp;6; [xblock&#x2011;submit&#x2011;and&#x2011;compare](#-openedxxblock-submit-and-compare)&nbsp;5; [xblock&#x2011;qualtrics&#x2011;survey](#-openedxxblock-qualtrics-survey)&nbsp;5; [xblock&#x2011;image&#x2011;modal](#-openedxxblock-image-modal)&nbsp;5; [acid&#x2011;block](#-openedxacid-block)&nbsp;4; [AudioXBlock](#-openedxaudioxblock)&nbsp;4; [recommenderxblock](#-openedxrecommenderxblock)&nbsp;3; [crowdsourcehinter](#-openedxcrowdsourcehinter)&nbsp;3; [ccx&#x2011;keys](#-openedxccx-keys)&nbsp;3; [ConceptXBlock](#-openedxconceptxblock)&nbsp;3; [xblock&#x2011;in&#x2011;video&#x2011;quiz](#-openedxxblock-in-video-quiz)&nbsp;2; [xblock&#x2011;free&#x2011;text&#x2011;response](#-openedxxblock-free-text-response)&nbsp;2; [schoolyourself&#x2011;xblock](#-openedxschoolyourself-xblock)&nbsp;2; [api&#x2011;doc&#x2011;tools](#-openedxapi-doc-tools)&nbsp;1 |
-| [2u-arch-bom](#team-2u-arch-bom) | 49 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;15; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;4; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;3; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;3; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;3; [pytest&#x2011;repo&#x2011;health](#-openedxpytest-repo-health)&nbsp;2; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;2; [edx&#x2011;celeryutils](#-openedxedx-celeryutils)&nbsp;2; [bok&#x2011;choy](#-openedxbok-choy)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [event&#x2011;bus&#x2011;kafka](#-openedxevent-bus-kafka)&nbsp;1; [edx&#x2011;rest&#x2011;api&#x2011;client](#-openedxedx-rest-api-client)&nbsp;1; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;1; [edx&#x2011;drf&#x2011;extensions](#-openedxedx-drf-extensions)&nbsp;1; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;1; [edx&#x2011;custom&#x2011;a11y&#x2011;rules](#-openedxedx-custom-a11y-rules)&nbsp;1; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1 |
-| [2u-aurora](#team-2u-aurora) | 74 | [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;27; [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;17; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;9; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;6; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;4; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;4; [xqueue&#x2011;watcher](#-openedxxqueue-watcher)&nbsp;3; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;3; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
+| [2u-arch-bom](#team-2u-arch-bom) | 51 | [edx&#x2011;platform](#-openedxedx-platform)&nbsp;15; [edx&#x2011;lint](#-openedxedx-lint)&nbsp;4; [web&#x2011;fragments](#-openedxweb-fragments)&nbsp;3; [help&#x2011;tokens](#-openedxhelp-tokens)&nbsp;3; [edx&#x2011;repo&#x2011;health](#-openedxedx-repo-health)&nbsp;3; [pytest&#x2011;repo&#x2011;health](#-openedxpytest-repo-health)&nbsp;2; [edx&#x2011;toggles](#-openedxedx-toggles)&nbsp;2; [edx&#x2011;custom&#x2011;a11y&#x2011;rules](#-openedxedx-custom-a11y-rules)&nbsp;2; [edx&#x2011;celeryutils](#-openedxedx-celeryutils)&nbsp;2; [bok&#x2011;choy](#-openedxbok-choy)&nbsp;2; [xss&#x2011;utils](#-openedxxss-utils)&nbsp;1; [repo&#x2011;tools](#-openedxrepo-tools)&nbsp;1; [event&#x2011;routing&#x2011;backends](#-openedxevent-routing-backends)&nbsp;1; [event&#x2011;bus&#x2011;kafka](#-openedxevent-bus-kafka)&nbsp;1; [edx&#x2011;tools](#-openedxedx-tools)&nbsp;1; [edx&#x2011;rest&#x2011;api&#x2011;client](#-openedxedx-rest-api-client)&nbsp;1; [edx&#x2011;rbac](#-openedxedx-rbac)&nbsp;1; [edx&#x2011;drf&#x2011;extensions](#-openedxedx-drf-extensions)&nbsp;1; [edx&#x2011;django&#x2011;utils](#-openedxedx-django-utils)&nbsp;1; [django&#x2011;user&#x2011;tasks](#-openedxdjango-user-tasks)&nbsp;1; [django&#x2011;config&#x2011;models](#-openedxdjango-config-models)&nbsp;1; [auth&#x2011;backends](#-openedxauth-backends)&nbsp;1; [edx&#x2011;arch&#x2011;experiments](#-edxedx-arch-experiments)&nbsp;1 |
+| [2u-aurora](#team-2u-aurora) | 78 | [edx&#x2011;ora2](#-openedxedx-ora2)&nbsp;27; [frontend&#x2011;app&#x2011;learning](#-openedxfrontend-app-learning)&nbsp;17; [frontend&#x2011;app&#x2011;ora&#x2011;grading](#-openedxfrontend-app-ora-grading)&nbsp;11; [frontend&#x2011;app&#x2011;ora](#-openedxfrontend-app-ora)&nbsp;8; [super&#x2011;csv](#-openedxsuper-csv)&nbsp;4; [frontend&#x2011;app&#x2011;gradebook](#-openedxfrontend-app-gradebook)&nbsp;4; [xqueue&#x2011;watcher](#-openedxxqueue-watcher)&nbsp;3; [edx&#x2011;submissions](#-openedxedx-submissions)&nbsp;3; [edx&#x2011;bulk&#x2011;grades](#-openedxedx-bulk-grades)&nbsp;1 |
 | [2u-cosmonauts](#team-2u-cosmonauts) | 63 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;20; [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;12; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;8; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;5; [mockprock](#-openedxmockprock)&nbsp;4; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;2; [edx&#x2011;analytics&#x2011;data&#x2011;api&#x2011;client](#-openedxedx-analytics-data-api-client)&nbsp;2; [registrar](#-openedxregistrar)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;1; [completion](#-openedxcompletion)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [token&#x2011;utils](#-edxtoken-utils)&nbsp;1; [learning&#x2011;assistant](#-edxlearning-assistant)&nbsp;1; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;1; [frontend&#x2011;app&#x2011;exams&#x2011;dashboard](#-edxfrontend-app-exams-dashboard)&nbsp;1; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;1 |
-| [2u-data-de](#team-2u-data-de) | 38 | [edx&#x2011;analytics&#x2011;pipeline](#-openedxedx-analytics-pipeline)&nbsp;8; [dbt&#x2011;schema&#x2011;builder](#-edxdbt-schema-builder)&nbsp;6; [code&#x2011;annotations](#-openedxcode-annotations)&nbsp;5; [edx&#x2011;prefectutils](#-edxedx-prefectutils)&nbsp;5; [edx&#x2011;analytics&#x2011;configuration](#-openedxedx-analytics-configuration)&nbsp;4; [user&#x2011;util](#-openedxuser-util)&nbsp;3; [edx&#x2011;analytics&#x2011;exporter](#-openedxedx-analytics-exporter)&nbsp;3; [luigi](#-edxluigi)&nbsp;2; [event&#x2011;tracking](#-openedxevent-tracking)&nbsp;1; [pyinstrument](#-edxpyinstrument)&nbsp;1 |
-| [2u-fed-bom](#team-2u-fed-bom) | 64 | [edx&#x2011;ui&#x2011;toolkit](#-openedxedx-ui-toolkit)&nbsp;10; [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;9; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;9; [ux&#x2011;pattern&#x2011;library](#-edxux-pattern-library)&nbsp;8; [edx&#x2011;bootstrap](#-openedxedx-bootstrap)&nbsp;7; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;5; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;4; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;3; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;3; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;3; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;2; [eslint&#x2011;config](#-openedxeslint-config)&nbsp;1 |
-| [2u-infinity](#team-2u-infinity) | 14 | [cs_comments_service](#-openedxcs-comments-service)&nbsp;11; [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;2; [platform&#x2011;plugin&#x2011;notices](#-edxplatform-plugin-notices)&nbsp;1 |
+| [2u-data-de](#team-2u-data-de) | 39 | [edx&#x2011;analytics&#x2011;pipeline](#-openedxedx-analytics-pipeline)&nbsp;8; [dbt&#x2011;schema&#x2011;builder](#-edxdbt-schema-builder)&nbsp;6; [code&#x2011;annotations](#-openedxcode-annotations)&nbsp;5; [edx&#x2011;prefectutils](#-edxedx-prefectutils)&nbsp;5; [edx&#x2011;analytics&#x2011;exporter](#-openedxedx-analytics-exporter)&nbsp;4; [edx&#x2011;analytics&#x2011;configuration](#-openedxedx-analytics-configuration)&nbsp;4; [user&#x2011;util](#-openedxuser-util)&nbsp;3; [luigi](#-edxluigi)&nbsp;2; [event&#x2011;tracking](#-openedxevent-tracking)&nbsp;1; [pyinstrument](#-edxpyinstrument)&nbsp;1 |
+| [2u-fed-bom](#team-2u-fed-bom) | 72 | [edx&#x2011;ui&#x2011;toolkit](#-openedxedx-ui-toolkit)&nbsp;10; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;10; [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;9; [edx&#x2011;bootstrap](#-openedxedx-bootstrap)&nbsp;8; [ux&#x2011;pattern&#x2011;library](#-edxux-pattern-library)&nbsp;8; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;5; [eslint&#x2011;config](#-openedxeslint-config)&nbsp;5; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;5; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;4; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;3; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;3; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;2 |
+| [2u-infinity](#team-2u-infinity) | 15 | [cs_comments_service](#-openedxcs-comments-service)&nbsp;11; [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;3; [platform&#x2011;plugin&#x2011;notices](#-edxplatform-plugin-notices)&nbsp;1 |
 | [2u-kubrick](#team-2u-kubrick) | 3 | [edx&#x2011;search](#-openedxedx-search)&nbsp;2; [ai&#x2011;aside](#-edxai-aside)&nbsp;1 |
 | [2u-markhors](#team-2u-markhors) | 2 | [xblock&#x2011;skill&#x2011;tagging](#-openedxxblock-skill-tagging)&nbsp;1; [taxonomy&#x2011;connector](#-openedxtaxonomy-connector)&nbsp;1 |
 | [2u-mobile](#team-2u-mobile) | 5 | [edx&#x2011;app&#x2011;test](#-openedxedx-app-test)&nbsp;5 |
@@ -19,10 +19,10 @@ As of 2023-12-21
 | [2u-purchase](#team-2u-purchase) | 65 | [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;18; [ecommerce](#-openedxecommerce)&nbsp;14; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;13; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;9; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;6; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;5 |
 | [2u-quokkas](#team-2u-quokkas) | 11 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;11 |
 | [2u-sre](#team-2u-sre) | 38 | [configuration](#-openedxconfiguration)&nbsp;13; [tubular](#-openedxtubular)&nbsp;6; [asym&#x2011;crypto&#x2011;yaml](#-edxasym-crypto-yaml)&nbsp;5; [edx&#x2011;django&#x2011;release&#x2011;util](#-openedxedx-django-release-util)&nbsp;3; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;3; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;3; [hermes](#-edxhermes)&nbsp;3; [MongoDBProxy](#-openedxmongodbproxy)&nbsp;1; [zappa&#x2011;manage](#-edxzappa-manage)&nbsp;1 |
-| [2u-titans](#team-2u-titans) | 71 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;19; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;17; [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;8; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;4; [tincanpython](#-openedxtincanpython)&nbsp;3; [edx&#x2011;enterprise&#x2011;subsidy&#x2011;client](#-openedxedx-enterprise-subsidy-client)&nbsp;1; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;1; [getsmarter&#x2011;api&#x2011;clients](#-edxgetsmarter-api-clients)&nbsp;1 |
+| [2u-titans](#team-2u-titans) | 72 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;19; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;17; [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;9; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;4; [tincanpython](#-openedxtincanpython)&nbsp;3; [edx&#x2011;enterprise&#x2011;subsidy&#x2011;client](#-openedxedx-enterprise-subsidy-client)&nbsp;1; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;1; [getsmarter&#x2011;api&#x2011;clients](#-edxgetsmarter-api-clients)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 56 | [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;19; [edx&#x2011;organizations](#-openedxedx-organizations)&nbsp;11; [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;8; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;6; [codejail](#-openedxcodejail)&nbsp;4; [openedx&#x2011;chem](#-openedxopenedx-chem)&nbsp;3; [openedx&#x2011;calc](#-openedxopenedx-calc)&nbsp;2; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;1; [frontend&#x2011;components&#x2011;tinymce&#x2011;advanced&#x2011;plugins](#-openedxfrontend-components-tinymce-advanced-plugins)&nbsp;1; [blockstore](#-openedxblockstore)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 10 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;9; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **668** ||
+| **TOTAL** | **686** ||
 
 ## Team 2u-aperture
 
@@ -31,6 +31,7 @@ As of 2023-12-21
 - 2023-08-28 [fix(deps): update dependency @edx/paragon to v21](https://github.com/edx/frontend-app-skills/pull/48) (renovate) [*blocked by other work*]
 - 2023-09-04 [fix(deps): update react monorepo to v18 (major)](https://github.com/edx/frontend-app-skills/pull/53) (renovate) [*blocked by other work*]
 - 2023-09-04 [fix(deps): update react-router monorepo to v6 (major)](https://github.com/edx/frontend-app-skills/pull/54) (renovate) [*blocked by other work*]
+- 2023-10-30 [chore(deps): update dependency node to v20](https://github.com/edx/frontend-app-skills/pull/89) (renovate)
 
 ### [#](#-openedxcredentials) [openedx/credentials](https://github.com/openedx/credentials/pulls)
 - 2022-01-03 [chore(deps): update dependency jasmine-core to v5](https://github.com/openedx/credentials/pull/1524) (renovate) [*blocked by other work*]
@@ -150,6 +151,7 @@ As of 2023-12-21
 
 ### [#](#-openedxedx-custom-a11y-rules) [openedx/edx-custom-a11y-rules](https://github.com/openedx/edx-custom-a11y-rules/pulls)
 - 2023-09-11 [build(deps): bump actions/checkout from 3 to 4](https://github.com/openedx/edx-custom-a11y-rules/pull/40) (dependabot) [*dependencies*]
+- 2023-10-30 [build(deps): bump actions/setup-node from 3 to 4](https://github.com/openedx/edx-custom-a11y-rules/pull/41) (dependabot) [*dependencies*]
 
 ### [#](#-openedxedx-django-utils) [openedx/edx-django-utils](https://github.com/openedx/edx-django-utils/pulls)
 - 2023-09-06 [fix: setup.py update using script](https://github.com/openedx/edx-django-utils/pull/341) (edx-requirements-bot)
@@ -194,6 +196,9 @@ As of 2023-12-21
 ### [#](#-openedxedx-toggles) [openedx/edx-toggles](https://github.com/openedx/edx-toggles/pulls)
 - 2023-04-26 [build(deps): bump codecov/codecov-action from 1 to 3](https://github.com/openedx/edx-toggles/pull/270) (dependabot) [*dependencies*]
 - 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/edx-toggles/pull/307) (edx-requirements-bot)
+
+### [#](#-openedxedx-tools) [openedx/edx-tools](https://github.com/openedx/edx-tools/pulls)
+- 2023-11-02 [Bump pip from 19.3.0 to 23.3 in /repo-stats/dependencies_state](https://github.com/openedx/edx-tools/pull/39) (dependabot) [*dependencies; python*]
 
 ### [#](#-openedxevent-bus-kafka) [openedx/event-bus-kafka](https://github.com/openedx/event-bus-kafka/pulls)
 - 2023-09-06 [fix: setup.py update using script](https://github.com/openedx/event-bus-kafka/pull/197) (edx-requirements-bot)
@@ -271,7 +276,7 @@ As of 2023-12-21
 - 2022-03-29 [chore(deps): update dependency @testing-library/user-event to v14](https://github.com/openedx/frontend-app-learning/pull/891) (renovate)
 - 2022-03-29 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-learning/pull/892) (renovate)
 - 2022-04-21 [fix(deps): update dependency redux to v4.2.1](https://github.com/openedx/frontend-app-learning/pull/934) (renovate)
-- 2022-04-21 [fix(deps): update react-router monorepo to v6.21.0](https://github.com/openedx/frontend-app-learning/pull/935) (renovate)
+- 2022-04-21 [fix(deps): update react-router monorepo to v6.21.1](https://github.com/openedx/frontend-app-learning/pull/935) (renovate)
 - 2022-05-22 [chore(i18n): update translations](https://github.com/openedx/frontend-app-learning/pull/948) (edx-transifex-bot)
 - 2022-10-27 [chore(deps): bump lodash and es-check](https://github.com/openedx/frontend-app-learning/pull/993) (dependabot) [*dependencies*]
 - 2022-11-15 [chore(deps): bump loader-utils from 1.4.0 to 1.4.2](https://github.com/openedx/frontend-app-learning/pull/1001) (dependabot) [*dependencies*]
@@ -292,6 +297,8 @@ As of 2023-12-21
 - 2023-09-11 [chore(deps): update dependency husky to v8](https://github.com/openedx/frontend-app-ora/pull/37) (renovate)
 - 2023-09-25 [chore(deps): update jest monorepo to v29 (major)](https://github.com/openedx/frontend-app-ora/pull/45) (renovate)
 - 2023-10-02 [chore(deps): update dependency @edx/frontend-build to v13](https://github.com/openedx/frontend-app-ora/pull/50) (renovate)
+- 2023-10-30 [chore(deps): update actions/setup-node action to v4](https://github.com/openedx/frontend-app-ora/pull/70) (renovate)
+- 2023-10-30 [chore(deps): update dependency node to v20](https://github.com/openedx/frontend-app-ora/pull/71) (renovate)
 
 ### [#](#-openedxfrontend-app-ora-grading) [openedx/frontend-app-ora-grading](https://github.com/openedx/frontend-app-ora-grading/pulls)
 - 2023-07-15 [chore(deps): update dependency husky to v8](https://github.com/openedx/frontend-app-ora-grading/pull/235) (renovate)
@@ -303,6 +310,8 @@ As of 2023-12-21
 - 2023-07-16 [fix(deps): update dependency react-intl to v6](https://github.com/openedx/frontend-app-ora-grading/pull/244) (renovate)
 - 2023-09-05 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/frontend-app-ora-grading/pull/258) (renovate)
 - 2023-09-17 [chore(i18n): update translations](https://github.com/openedx/frontend-app-ora-grading/pull/259) (edx-transifex-bot)
+- 2023-10-23 [chore(deps): update actions/setup-node action to v4](https://github.com/openedx/frontend-app-ora-grading/pull/281) (renovate)
+- 2023-10-29 [chore(deps): update dependency @edx/frontend-build to v13](https://github.com/openedx/frontend-app-ora-grading/pull/284) (renovate)
 
 ### [#](#-openedxsuper-csv) [openedx/super-csv](https://github.com/openedx/super-csv/pulls)
 - 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/openedx/super-csv/pull/83) (edx-requirements-bot)
@@ -455,6 +464,7 @@ As of 2023-12-21
 - 2020-03-13 [Bump python-gnupg from 0.3.6 to 0.4.4](https://github.com/openedx/edx-analytics-exporter/pull/47) (dependabot) [*dependencies*]
 - 2021-11-08 [feat: advertise constraints in setup.py](https://github.com/openedx/edx-analytics-exporter/pull/58) (edx-requirements-bot)
 - 2023-09-06 [fix: setup.py update using script](https://github.com/openedx/edx-analytics-exporter/pull/89) (edx-requirements-bot)
+- 2023-11-02 [build(deps): bump pip from 19.2.3 to 23.3](https://github.com/openedx/edx-analytics-exporter/pull/91) (dependabot) [*dependencies*]
 
 ### [#](#-openedxedx-analytics-pipeline) [openedx/edx-analytics-pipeline](https://github.com/openedx/edx-analytics-pipeline/pulls)
 - 2020-08-21 [Python Code Cleanup](https://github.com/openedx/edx-analytics-pipeline/pull/829) (edx-requirements-bot)
@@ -480,6 +490,8 @@ As of 2023-12-21
 - 2021-11-15 [chore(deps): update dependency react-router-dom to v6 - abandoned](https://github.com/edx/frontend-component-footer-edx/pull/114) (renovate)
 - 2022-11-28 [chore(deps): update react monorepo to v18 (major)](https://github.com/edx/frontend-component-footer-edx/pull/226) (renovate)
 - 2023-09-04 [fix(deps): update font awesome to v6.5.1](https://github.com/edx/frontend-component-footer-edx/pull/321) (renovate)
+- 2023-10-30 [chore(deps): update dependency @testing-library/jest-dom to v6](https://github.com/edx/frontend-component-footer-edx/pull/348) (renovate)
+- 2023-10-30 [chore(deps): update dependency @testing-library/react to v14](https://github.com/edx/frontend-component-footer-edx/pull/349) (renovate)
 
 ### [#](#-edxfrontend-component-header-edx) [edx/frontend-component-header-edx](https://github.com/edx/frontend-component-header-edx/pulls)
 - 2022-12-19 [chore(deps): update react monorepo to v18 (major)](https://github.com/edx/frontend-component-header-edx/pull/328) (renovate)
@@ -496,6 +508,7 @@ As of 2023-12-21
 - 2023-07-06 [chore(deps): update dependency prettier to v3](https://github.com/edx/new-relic-source-map-webpack-plugin/pull/31) (renovate)
 - 2023-09-05 [chore(deps): update actions/checkout action to v4](https://github.com/edx/new-relic-source-map-webpack-plugin/pull/34) (renovate)
 - 2023-10-15 [chore(deps): update dependency lint-staged to v15](https://github.com/edx/new-relic-source-map-webpack-plugin/pull/35) (renovate)
+- 2023-10-24 [chore(deps): update actions/setup-node action to v4](https://github.com/edx/new-relic-source-map-webpack-plugin/pull/37) (renovate)
 
 ### [#](#-edxux-pattern-library) [edx/ux-pattern-library](https://github.com/edx/ux-pattern-library/pulls)
 - 2023-04-28 [Bump braces, vinyl-fs, chokidar and webpack-dev-server](https://github.com/edx/ux-pattern-library/pull/398) (dependabot) [*dependencies; javascript*]
@@ -515,13 +528,14 @@ As of 2023-12-21
 - 2023-08-14 [chore(deps): update dependency @edx/stylelint-config-edx to v2.3.3](https://github.com/openedx/edx-bootstrap/pull/246) (renovate)
 - 2023-08-21 [chore(deps): update dependency ubuntu to v22](https://github.com/openedx/edx-bootstrap/pull/250) (renovate)
 - 2023-09-18 [chore(deps): update dependency semantic-release to v22](https://github.com/openedx/edx-bootstrap/pull/256) (renovate)
+- 2023-10-30 [chore(deps): update dependency node to v20](https://github.com/openedx/edx-bootstrap/pull/263) (renovate)
 
 ### [#](#-openedxedx-ui-toolkit) [openedx/edx-ui-toolkit](https://github.com/openedx/edx-ui-toolkit/pulls)
 - 2021-07-12 [chore(deps): update dependency edx-pattern-library to v0.18.1](https://github.com/openedx/edx-ui-toolkit/pull/163) (renovate)
 - 2021-08-16 [fix(deps): update dependency requirejs to v2.3.6](https://github.com/openedx/edx-ui-toolkit/pull/175) (renovate)
 - 2023-04-17 [chore(deps): update dependency del to v7](https://github.com/openedx/edx-ui-toolkit/pull/321) (renovate)
 - 2023-04-24 [chore(deps): update dependency jasmine-core to v5](https://github.com/openedx/edx-ui-toolkit/pull/324) (renovate)
-- 2023-05-29 [chore(deps): update ruby/setup-ruby digest to af848b4](https://github.com/openedx/edx-ui-toolkit/pull/330) (renovate)
+- 2023-05-29 [chore(deps): update ruby/setup-ruby digest to 360dc86](https://github.com/openedx/edx-ui-toolkit/pull/330) (renovate)
 - 2023-06-12 [chore(deps): update dependency jasmine to v5](https://github.com/openedx/edx-ui-toolkit/pull/333) (renovate)
 - 2023-06-12 [chore(deps): update dependency karma-jasmine to v5](https://github.com/openedx/edx-ui-toolkit/pull/335) (renovate)
 - 2023-09-04 [fix(deps): update dependency underscore to ~1.12.0 [security]](https://github.com/openedx/edx-ui-toolkit/pull/358) (renovate)
@@ -530,10 +544,13 @@ As of 2023-12-21
 
 ### [#](#-openedxeslint-config) [openedx/eslint-config](https://github.com/openedx/eslint-config/pulls)
 - 2023-09-11 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/eslint-config/pull/134) (renovate)
+- 2023-10-23 [chore(deps): update dependency eslint to v8.56.0](https://github.com/openedx/eslint-config/pull/136) (renovate)
+- 2023-10-23 [chore(deps): update dependency eslint-plugin-import to v2.29.1](https://github.com/openedx/eslint-config/pull/137) (renovate)
+- 2023-10-30 [chore(deps): update actions/setup-node action to v4](https://github.com/openedx/eslint-config/pull/139) (renovate)
+- 2023-10-30 [chore(deps): update dependency node to v20](https://github.com/openedx/eslint-config/pull/140) (renovate)
 
 ### [#](#-openedxfrontend-app-account) [openedx/frontend-app-account](https://github.com/openedx/frontend-app-account/pulls)
 - 2021-10-11 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-account/pull/530) (renovate)
-- 2023-08-28 [Update browserslist DB](https://github.com/openedx/frontend-app-account/pull/857) (edx-requirements-bot)
 - 2023-09-04 [fix(deps): update dependency @tensorflow-models/blazeface to v0.1.0](https://github.com/openedx/frontend-app-account/pull/868) (renovate)
 
 ### [#](#-openedxfrontend-build) [openedx/frontend-build](https://github.com/openedx/frontend-build/pulls)
@@ -550,19 +567,20 @@ As of 2023-12-21
 ### [#](#-openedxfrontend-component-footer) [openedx/frontend-component-footer](https://github.com/openedx/frontend-component-footer/pulls)
 - 2021-11-08 [chore(deps): update dependency react-router-dom to v6 - abandoned](https://github.com/openedx/frontend-component-footer/pull/158) (renovate)
 - 2022-11-21 [chore(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-component-footer/pull/252) (renovate)
+- 2023-10-30 [chore(deps): update dependency @edx/brand to v1.2.3](https://github.com/openedx/frontend-component-footer/pull/357) (renovate)
 
 ### [#](#-openedxfrontend-component-header) [openedx/frontend-component-header](https://github.com/openedx/frontend-component-header/pulls)
 - 2022-07-11 [chore(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-component-header/pull/239) (renovate)
 - 2022-11-14 [fix(deps): update dependency react-responsive to v9](https://github.com/openedx/frontend-component-header/pull/280) (renovate)
 - 2023-03-06 [chore(deps): update dependency @testing-library/react to v14](https://github.com/openedx/frontend-component-header/pull/311) (renovate)
 - 2023-08-14 [chore(deps): update dependency @testing-library/jest-dom to v6](https://github.com/openedx/frontend-component-header/pull/387) (renovate)
+- 2023-10-30 [chore(deps): update dependency @edx/brand to v1.2.3](https://github.com/openedx/frontend-component-header/pull/418) (renovate)
 
 ### [#](#-openedxfrontend-platform) [openedx/frontend-platform](https://github.com/openedx/frontend-platform/pulls)
 - 2023-05-22 [fix(deps): update dependency axios-cache-interceptor to v1](https://github.com/openedx/frontend-platform/pull/492) (renovate)
 - 2023-05-22 [fix(deps): update dependency glob to v10](https://github.com/openedx/frontend-platform/pull/493) (renovate)
 - 2023-05-29 [fix(deps): update dependency i18n-iso-countries to v7](https://github.com/openedx/frontend-platform/pull/497) (renovate)
 - 2023-05-29 [fix(deps): update formatjs monorepo (major)](https://github.com/openedx/frontend-platform/pull/498) (renovate)
-- 2023-08-21 [fix(deps): update dependency universal-cookie to v6](https://github.com/openedx/frontend-platform/pull/546) (renovate)
 
 ## Team 2u-infinity
 
@@ -585,6 +603,7 @@ As of 2023-12-21
 ### [#](#-openedxfrontend-app-discussions) [openedx/frontend-app-discussions](https://github.com/openedx/frontend-app-discussions/pulls)
 - 2023-09-18 [chore(deps): update dependency glob to v7.2.3](https://github.com/openedx/frontend-app-discussions/pull/565) (renovate) [*On Hold*]
 - 2023-09-25 [fix(deps): update dependency dompurify to v2.4.7](https://github.com/openedx/frontend-app-discussions/pull/569) (renovate) [*On Hold*]
+- 2023-10-23 [fix(deps): update dependency tinymce to v5.10.9](https://github.com/openedx/frontend-app-discussions/pull/587) (renovate) [*On Hold*]
 
 ## Team 2u-kubrick
 
@@ -644,7 +663,7 @@ As of 2023-12-21
 ### [#](#-openedxfrontend-app-support-tools) [openedx/frontend-app-support-tools](https://github.com/openedx/frontend-app-support-tools/pulls)
 - 2020-10-26 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-support-tools/pull/66) (renovate)
 - 2021-01-18 [fix(deps): update font awesome](https://github.com/openedx/frontend-app-support-tools/pull/81) (renovate)
-- 2021-04-05 [fix(deps): update dependency classnames to v2.3.2](https://github.com/openedx/frontend-app-support-tools/pull/103) (renovate)
+- 2021-04-05 [fix(deps): update dependency classnames to v2.5.1](https://github.com/openedx/frontend-app-support-tools/pull/103) (renovate)
 - 2021-04-26 [fix(deps): update dependency redux to v4.2.1](https://github.com/openedx/frontend-app-support-tools/pull/111) (renovate)
 - 2021-05-10 [chore(deps): update dependency glob to v7.2.3](https://github.com/openedx/frontend-app-support-tools/pull/118) (renovate)
 - 2021-05-31 [fix(deps): update dependency react-transition-group to v4.4.5](https://github.com/openedx/frontend-app-support-tools/pull/122) (renovate)
@@ -751,7 +770,7 @@ As of 2023-12-21
 ## Team 2u-quokkas
 
 ### [#](#-openedxfrontend-app-enterprise-public-catalog) [openedx/frontend-app-enterprise-public-catalog](https://github.com/openedx/frontend-app-enterprise-public-catalog/pulls)
-- 2021-10-05 [fix(deps): update dependency core-js to v3.34.0](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/126) (renovate)
+- 2021-10-05 [fix(deps): update dependency core-js to v3.35.0](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/126) (renovate)
 - 2022-08-11 [chore(deps): update dependency @testing-library/react-hooks to v8](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/255) (renovate)
 - 2022-10-26 [fix(deps): update dependency regenerator-runtime to v0.14.1](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/264) (renovate)
 - 2023-01-30 [Update browserslist DB](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/284) (edx-requirements-bot)
@@ -844,6 +863,7 @@ As of 2023-12-21
 - 2022-12-03 [build(deps): bump decode-uri-component from 0.2.0 to 0.2.2](https://github.com/openedx/edx-enterprise/pull/1684) (dependabot) [*dependencies; javascript*]
 - 2023-10-03 [chore(deps): bump postcss, @edx/paragon and css-loader](https://github.com/openedx/edx-enterprise/pull/1894) (dependabot) [*dependencies; javascript*]
 - 2023-10-17 [chore(deps): bump urllib3 from 1.26.16 to 1.26.18 in /requirements](https://github.com/openedx/edx-enterprise/pull/1917) (dependabot) [*dependencies; python*]
+- 2023-10-27 [chore(deps-dev): bump browserify-sign from 4.2.1 to 4.2.2](https://github.com/openedx/edx-enterprise/pull/1928) (dependabot) [*dependencies; javascript*]
 
 ### [#](#-openedxedx-enterprise-subsidy-client) [openedx/edx-enterprise-subsidy-client](https://github.com/openedx/edx-enterprise-subsidy-client/pulls)
 - 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/edx-enterprise-subsidy-client/pull/42) (edx-requirements-bot)
@@ -852,12 +872,12 @@ As of 2023-12-21
 - 2020-12-04 [chore(deps): update dependency mini-css-extract-plugin to v0.12.0](https://github.com/openedx/frontend-app-admin-portal/pull/403) (renovate)
 - 2021-02-18 [chore(deps): update dependency html-webpack-plugin to v4.5.2](https://github.com/openedx/frontend-app-admin-portal/pull/472) (renovate)
 - 2021-02-18 [chore(deps): update dependency webpack-merge to v5.10.0](https://github.com/openedx/frontend-app-admin-portal/pull/474) (renovate)
-- 2021-02-18 [fix(deps): update dependency @babel/plugin-transform-runtime to v7.23.6](https://github.com/openedx/frontend-app-admin-portal/pull/475) (renovate)
+- 2021-02-18 [fix(deps): update dependency @babel/plugin-transform-runtime to v7.23.7](https://github.com/openedx/frontend-app-admin-portal/pull/475) (renovate)
 - 2021-03-08 [fix(deps): update dependency jest-environment-jsdom to v26.6.2](https://github.com/openedx/frontend-app-admin-portal/pull/489) (renovate)
 - 2021-03-29 [fix(deps): update dependency redux-devtools-extension to v2.13.9](https://github.com/openedx/frontend-app-admin-portal/pull/518) (renovate)
 - 2021-05-14 [chore(deps): update dependency @testing-library/react-hooks to v5.1.3](https://github.com/openedx/frontend-app-admin-portal/pull/548) (renovate)
 - 2021-05-14 [chore(deps): update dependency dotenv to v8.6.0](https://github.com/openedx/frontend-app-admin-portal/pull/549) (renovate)
-- 2021-05-25 [fix(deps): update dependency classnames to v2.3.2](https://github.com/openedx/frontend-app-admin-portal/pull/562) (renovate)
+- 2021-05-25 [fix(deps): update dependency classnames to v2.5.1](https://github.com/openedx/frontend-app-admin-portal/pull/562) (renovate)
 - 2021-10-11 [fix(deps): update dependency regenerator-runtime to v0.14.1](https://github.com/openedx/frontend-app-admin-portal/pull/631) (renovate)
 - 2021-11-03 [build(deps): bump validator from 10.11.0 to 13.7.0](https://github.com/openedx/frontend-app-admin-portal/pull/642) (dependabot) [*dependencies*]
 - 2021-11-03 [fix(deps): update dependency validator to v13 [security]](https://github.com/openedx/frontend-app-admin-portal/pull/643) (renovate)
@@ -868,7 +888,7 @@ As of 2023-12-21
 - 2023-02-11 [chore(deps): bump cacheable-request and @edx/frontend-build](https://github.com/openedx/frontend-app-admin-portal/pull/969) (dependabot) [*dependencies*]
 
 ### [#](#-openedxfrontend-app-learner-portal-enterprise) [openedx/frontend-app-learner-portal-enterprise](https://github.com/openedx/frontend-app-learner-portal-enterprise/pulls)
-- 2020-11-30 [fix(deps): update dependency core-js to v3.34.0](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/138) (renovate)
+- 2020-11-30 [fix(deps): update dependency core-js to v3.35.0](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/138) (renovate)
 - 2020-12-02 [fix(deps): update dependency email-prop-type to v3](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/143) (renovate)
 - 2020-12-02 [fix(deps): update dependency history to v5](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/144) (renovate)
 - 2020-12-05 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/154) (renovate)
@@ -893,7 +913,7 @@ As of 2023-12-21
 - 2020-12-01 [chore(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-enterprise/pull/46) (renovate)
 - 2020-12-11 [chore(deps): update dependency @testing-library/react-hooks to v3.7.0](https://github.com/openedx/frontend-enterprise/pull/52) (renovate)
 - 2021-02-18 [chore(deps): update dependency @testing-library/jest-dom to v5.17.0](https://github.com/openedx/frontend-enterprise/pull/62) (renovate)
-- 2021-05-06 [fix(deps): update dependency classnames to v2.3.2](https://github.com/openedx/frontend-enterprise/pull/105) (renovate)
+- 2021-05-06 [fix(deps): update dependency classnames to v2.5.1](https://github.com/openedx/frontend-enterprise/pull/105) (renovate)
 - 2021-05-06 [fix(deps): update dependency prop-types to v15.8.1](https://github.com/openedx/frontend-enterprise/pull/106) (renovate)
 - 2021-05-12 [chore(deps): update dependency @testing-library/user-event to v13.5.0](https://github.com/openedx/frontend-enterprise/pull/116) (renovate)
 - 2022-06-02 [build(deps): bump async from 2.6.3 to 2.6.4](https://github.com/openedx/frontend-enterprise/pull/261) (dependabot) [*dependencies*]
@@ -948,11 +968,11 @@ As of 2023-12-21
 
 ### [#](#-openedxfrontend-app-library-authoring) [openedx/frontend-app-library-authoring](https://github.com/openedx/frontend-app-library-authoring/pulls)
 - 2023-05-18 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-library-authoring/pull/162) (renovate)
-- 2023-07-27 [fix(deps): update dependency core-js to v3.34.0](https://github.com/openedx/frontend-app-library-authoring/pull/242) (renovate)
+- 2023-07-27 [fix(deps): update dependency core-js to v3.35.0](https://github.com/openedx/frontend-app-library-authoring/pull/242) (renovate)
 - 2023-08-07 [fix(deps): update dependency regenerator-runtime to v0.14.1](https://github.com/openedx/frontend-app-library-authoring/pull/253) (renovate)
 - 2023-09-04 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/frontend-app-library-authoring/pull/291) (renovate)
 - 2023-09-17 [chore(i18n): update translations](https://github.com/openedx/frontend-app-library-authoring/pull/304) (edx-transifex-bot)
-- 2023-09-19 [fix(deps): update react-router monorepo to v6.21.0](https://github.com/openedx/frontend-app-library-authoring/pull/309) (renovate)
+- 2023-09-19 [fix(deps): update react-router monorepo to v6.21.1](https://github.com/openedx/frontend-app-library-authoring/pull/309) (renovate)
 
 ### [#](#-openedxfrontend-components-tinymce-advanced-plugins) [openedx/frontend-components-tinymce-advanced-plugins](https://github.com/openedx/frontend-components-tinymce-advanced-plugins/pulls)
 - 2023-08-30 [Configure Renovate](https://github.com/openedx/frontend-components-tinymce-advanced-plugins/pull/1) (renovate)
