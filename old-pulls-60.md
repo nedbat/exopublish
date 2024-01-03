@@ -1,16 +1,12 @@
 
 # Pull requests older than 60 days
-As of 2024-01-02.
-778 pull requests, not including bots.
+As of 2024-01-03.
+772 pull requests, not including bots.
 
 ## 25 oldest
-- 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (brianhw) (openedx/edx-analytics-pipeline)
-- 2016-12-28 [Support a dockerized analyticstack](https://github.com/openedx/edx-analytics-pipeline/pull/337) (mulby) (openedx/edx-analytics-pipeline)
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
-- 2017-06-19 [Collect blast information from SailThru](https://github.com/openedx/edx-analytics-pipeline/pull/409) (brianhw) (openedx/edx-analytics-pipeline)
 - 2017-09-27 [WIP: Hackathon - per deploy queues](https://github.com/openedx/tubular/pull/187) (jdmulloy) (openedx/tubular)
 - 2017-09-28 [Queue Versioning Support](https://github.com/openedx/tubular/pull/188) (macdiesel) (openedx/tubular)
-- 2017-09-29 [Upgrade some less-problematic packages](https://github.com/openedx/edx-analytics-pipeline/pull/432) (brianhw) (openedx/edx-analytics-pipeline)
 - 2018-01-24 [WIP-Spark Tasks](https://github.com/openedx/edx-analytics-pipeline/pull/476) (rao-abdul-mannan) (openedx/edx-analytics-pipeline)
 - 2018-05-22 [[WIP] Fix overzealous parameter-based throttling](https://github.com/edx/jenkins-job-dsl/pull/367) (pwnage101) (edx/jenkins-job-dsl)
 - 2018-06-04 [Enable logging for spark in analytics pipeline container](https://github.com/openedx/configuration/pull/4594) (rao-abdul-mannan) (openedx/configuration)
@@ -29,6 +25,10 @@ As of 2024-01-02.
 - 2019-09-10 [Add db settings overrides](https://github.com/openedx/edx-platform/pull/21615) (jdmulloy) (openedx/edx-platform)
 - 2019-09-13 [We are using Hive 2.1.1 and NULLIF is supported in 2.3.0 onwards](https://github.com/openedx/edx-analytics-pipeline/pull/758) (ziafazal) (openedx/edx-analytics-pipeline)
 - 2019-09-19 [Jdmulloy/fix import depr warning](https://github.com/openedx/edx-platform/pull/21725) (jdmulloy) (openedx/edx-platform)
+- 2019-10-09 [Create edxCypressTestsJob.groovy](https://github.com/edx/jenkins-job-dsl/pull/811) (kashifch) (edx/jenkins-job-dsl)
+- 2019-10-28 [apply typescript](https://github.com/openedx/cypress-e2e-tests/pull/39) (kashifch) (openedx/cypress-e2e-tests)
+- 2019-11-19 [try to remove the flag in a couple places](https://github.com/openedx/ecommerce/pull/2695) (emma-green) (openedx/ecommerce)
+- 2019-12-04 [requests package upgraded](https://github.com/openedx/edx-analytics-pipeline/pull/783) (adeelehsan) (openedx/edx-analytics-pipeline)
 
 ## [#](#-0x29a) [0x29a](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3A0x29a+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-02-05 [feat: allow enrollment api admin to see all enrollments](https://github.com/openedx/edx-enterprise/pull/1714) (openedx/edx-enterprise) [*open-source-contribution*]
@@ -265,9 +265,6 @@ As of 2024-01-02.
 - 2023-11-01 [fix: use react-router to properly handle basepaths for internal links](https://github.com/openedx/frontend-component-header/pull/422) (openedx/frontend-component-header)
 
 ## [#](#-brianhw) [brianhw](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abrianhw+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2015-05-21 [Add tool for performing curation.](https://github.com/openedx/edx-analytics-pipeline/pull/107) (openedx/edx-analytics-pipeline)
-- 2017-06-19 [Collect blast information from SailThru](https://github.com/openedx/edx-analytics-pipeline/pull/409) (openedx/edx-analytics-pipeline)
-- 2017-09-29 [Upgrade some less-problematic packages](https://github.com/openedx/edx-analytics-pipeline/pull/432) (openedx/edx-analytics-pipeline)
 - 2020-02-05 [Spike:  copy S3 database/schema data to another location in S3](https://github.com/openedx/edx-analytics-pipeline/pull/800) (openedx/edx-analytics-pipeline)
 - 2020-04-17 [Add partitioning for JSON output.](https://github.com/openedx/edx-analytics-pipeline/pull/814) (openedx/edx-analytics-pipeline)
 - 2021-07-27 [Testing: Initial pass at moving to geoip2.](https://github.com/openedx/edx-analytics-pipeline/pull/869) (openedx/edx-analytics-pipeline)
@@ -493,7 +490,6 @@ As of 2024-01-02.
 - 2023-10-21 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-library-authoring/pull/351) (openedx/frontend-app-library-authoring) [*blocked by other work; waiting on author; open-source-contribution*]
 
 ## [#](#-hsinkoff) [hsinkoff](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ahsinkoff+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2023-10-27 [create course_roles on django admin dashboard](https://github.com/openedx/edx-platform/pull/33607) (openedx/edx-platform)
 - 2023-10-27 [feat: course_roles setup](https://github.com/openedx/edx-platform/pull/33609) (openedx/edx-platform)
 
 ## [#](#-httpsmenahassan) [httpsmenahassan](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ahttpsmenahassan+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
@@ -656,6 +652,9 @@ As of 2024-01-02.
 - 2022-06-10 [feat: Add Receipt Page from ecommerce to MFE](https://github.com/openedx/frontend-app-ecommerce/pull/189) (openedx/frontend-app-ecommerce)
 - 2023-02-01 [feat: Initial 3DS implementation and handle requires_action status](https://github.com/openedx/ecommerce/pull/3904) (openedx/ecommerce)
 - 2023-02-20 [refactor: Use Stripe webhook endpoint on payment flow](https://github.com/openedx/ecommerce/pull/3913) (openedx/ecommerce)
+
+## [#](#-julianpalmerio) [julianpalmerio](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ajulianpalmerio+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-03 [feat: ROLES-40 create rules permissions](https://github.com/openedx/edx-platform/pull/33654) (openedx/edx-platform)
 
 ## [#](#-kalebjdavenport) [kalebjdavenport](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Akalebjdavenport+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-10-04 [feat: add twitter X icon to list of approved Bootstrap brandIconNames](https://github.com/openedx/paragon/pull/2686) (openedx/paragon)
@@ -858,9 +857,6 @@ As of 2024-01-02.
 - 2023-10-12 [fix: Make `contract_end_date` nullable in `EnterpriseAdminSummarizeIn…](https://github.com/openedx/edx-enterprise-data/pull/408) (openedx/edx-enterprise-data)
 - 2023-10-12 [test: test jenkins job changes](https://github.com/edx/jenkins-job-dsl/pull/1674) (edx/jenkins-job-dsl)
 - 2023-10-17 [feat: load data irrespective of column ordering](https://github.com/edx/edx-prefectutils/pull/89) (edx/edx-prefectutils)
-
-## [#](#-mulby) [mulby](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Amulby+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2016-12-28 [Support a dockerized analyticstack](https://github.com/openedx/edx-analytics-pipeline/pull/337) (openedx/edx-analytics-pipeline)
 
 ## [#](#-mumarkhan999) [mumarkhan999](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Amumarkhan999+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-04-05 [add pyjwt requirement](https://github.com/openedx/xblock-lti-consumer/pull/349) (openedx/xblock-lti-consumer)
@@ -1114,9 +1110,7 @@ As of 2024-01-02.
 - 2023-10-11 [feat: Profile image on user posts (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/573) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
 - 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-16 [feat: Editor bar visibility (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/581) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution; backport*]
 - 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution*]
-- 2023-10-16 [feat: Editor bar visibility (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/583) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution; backport*]
 - 2023-10-21 [feat: Assignment and course grade fields validations (palm.master)](https://github.com/openedx/frontend-app-gradebook/pull/361) (openedx/frontend-app-gradebook) [*open-source-contribution*]
 - 2023-10-24 [feat: Assignment and course grade fields validations](https://github.com/openedx/frontend-app-gradebook/pull/366) (openedx/frontend-app-gradebook) [*open-source-contribution; waiting for eng review*]
 - 2023-10-24 [feat: Assignment and course grade fields validations (quince.master)](https://github.com/openedx/frontend-app-gradebook/pull/367) (openedx/frontend-app-gradebook) [*open-source-contribution; waiting for eng review; backport*]
