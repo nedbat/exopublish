@@ -1,6 +1,6 @@
 
 # PRs older than 60 days by people outside the team
-As of 2024-01-03
+As of 2024-01-04
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
@@ -19,10 +19,10 @@ As of 2024-01-03
 | [2u-purchase](#team-2u-purchase) | 50 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;6; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;5; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;4; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 6 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;6 |
 | [2u-sre](#team-2u-sre) | 43 | [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;18; [configuration](#-openedxconfiguration)&nbsp;17; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;1; [hermes](#-edxhermes)&nbsp;1 |
-| [2u-titans](#team-2u-titans) | 62 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;16; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;15; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;10; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;6; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;3; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
+| [2u-titans](#team-2u-titans) | 63 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;16; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;15; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;10; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;6; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;4; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 20 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;6; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;4; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;3; [xblock](#-openedxxblock)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 12 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;10; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;2 |
-| **TOTAL** | **614** ||
+| **TOTAL** | **615** ||
 
 ## Team 2u-aperture
 
@@ -811,6 +811,7 @@ As of 2024-01-03
 - 2021-02-22 [[WIP] Work in progress branch for graphql endpoints](https://github.com/openedx/enterprise-catalog/pull/256) (kellmarie)
 - 2022-07-04 [feat: add pathway association in algolia objects and sort results](https://github.com/openedx/enterprise-catalog/pull/475) (muneebGH)
 - 2023-09-26 [Upgrading history package](https://github.com/openedx/enterprise-catalog/pull/678) (awais786)
+- 2023-11-05 [feat: Added ADR for academies relationships](https://github.com/openedx/enterprise-catalog/pull/712) (irfanuddinahmad)
 
 ### [#](#-openedxfrontend-app-admin-portal) [openedx/frontend-app-admin-portal](https://github.com/openedx/frontend-app-admin-portal/pulls)
 - 2020-08-07 [Added Data visualizations using D3 Library](https://github.com/openedx/frontend-app-admin-portal/pull/318) (sameenfatima78)

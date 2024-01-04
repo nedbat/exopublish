@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2024-01-03.
-772 pull requests, not including bots.
+As of 2024-01-04.
+773 pull requests, not including bots.
 
 ## 25 oldest
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
@@ -575,6 +575,7 @@ As of 2024-01-03.
 - 2022-03-22 [feat: ENT-5528 Added plotly based analytics page](https://github.com/openedx/frontend-app-admin-portal/pull/737) (openedx/frontend-app-admin-portal)
 - 2023-05-25 [feat: updated exception path for CourseHomeUrlCreationStarted filter](https://github.com/edx/federated-content-connector/pull/2) (edx/federated-content-connector)
 - 2023-10-23 [feat: ENT-7536 Added demo serializers for the viewsets](https://github.com/openedx/edx-enterprise-data/pull/413) (openedx/edx-enterprise-data)
+- 2023-11-05 [feat: Added ADR for academies relationships](https://github.com/openedx/enterprise-catalog/pull/712) (openedx/enterprise-catalog)
 
 ## [#](#-irtazaakram) [irtazaakram](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Airtazaakram+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-09-25 [[Django 4.2]: Upgrade Django to 4.2](https://github.com/openedx/edx-enterprise/pull/1882) (openedx/edx-enterprise)
