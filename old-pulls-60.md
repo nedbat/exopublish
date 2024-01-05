@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2024-01-04.
-773 pull requests, not including bots.
+As of 2024-01-05.
+772 pull requests, not including bots.
 
 ## 25 oldest
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
@@ -790,7 +790,6 @@ As of 2024-01-04.
 - 2023-07-24 [build: update frontend build](https://github.com/openedx/frontend-app-learner-dashboard/pull/180) (openedx/frontend-app-learner-dashboard) [*needs maintainer attention*]
 - 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-app-enterprise-public-catalog/pull/324) (openedx/frontend-app-enterprise-public-catalog)
 - 2023-07-24 [build: update frontend-build](https://github.com/openedx/frontend-lib-content-components/pull/364) (openedx/frontend-lib-content-components)
-- 2023-07-24 [feat: update react & react-dom to v17](https://github.com/openedx/frontend-app-admin-portal/pull/1009) (openedx/frontend-app-admin-portal)
 - 2023-08-25 [refactor: update lock file version](https://github.com/openedx/frontend-app-ora/pull/23) (openedx/frontend-app-ora)
 - 2023-08-25 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-learning/pull/1169) (openedx/frontend-app-learning)
 - 2023-08-25 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-ora-grading/pull/247) (openedx/frontend-app-ora-grading)
@@ -1041,7 +1040,6 @@ As of 2024-01-04.
 - 2023-07-10 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-admin-portal/pull/1001) (openedx/frontend-app-admin-portal)
 - 2023-10-17 [chore: coverage test](https://github.com/openedx/frontend-app-publisher/pull/915) (openedx/frontend-app-publisher)
 - 2023-10-30 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/861) (openedx/frontend-app-learner-portal-enterprise)
-- 2023-11-02 [chore: use AppContext to fetch users metadata](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/865) (openedx/frontend-app-learner-portal-enterprise)
 
 ## [#](#-syedimranhassan) [syedimranhassan](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Asyedimranhassan+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2021-04-22 [Testing jenkins build on PR](https://github.com/openedx/webhook-test-repo/pull/6) (openedx/webhook-test-repo)
@@ -1111,10 +1109,11 @@ As of 2024-01-04.
 - 2023-10-11 [feat: Profile image on user posts (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/573) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
 - 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (openedx/frontend-app-discussions) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (openedx/frontend-app-discussions) [*product review; open-source-contribution; backport*]
-- 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (openedx/frontend-app-discussions) [*waiting on author; open-source-contribution*]
 - 2023-10-21 [feat: Assignment and course grade fields validations (palm.master)](https://github.com/openedx/frontend-app-gradebook/pull/361) (openedx/frontend-app-gradebook) [*open-source-contribution*]
 - 2023-10-24 [feat: Assignment and course grade fields validations](https://github.com/openedx/frontend-app-gradebook/pull/366) (openedx/frontend-app-gradebook) [*open-source-contribution; waiting for eng review*]
 - 2023-10-24 [feat: Assignment and course grade fields validations (quince.master)](https://github.com/openedx/frontend-app-gradebook/pull/367) (openedx/frontend-app-gradebook) [*open-source-contribution; waiting for eng review; backport*]
+- 2023-11-05 [feat: Fixed delete for additional video url fields](https://github.com/openedx/frontend-lib-content-components/pull/418) (openedx/frontend-lib-content-components) [*open-source-contribution*]
+- 2023-11-05 [feat: Validation for Start time and Stop time fields](https://github.com/openedx/frontend-lib-content-components/pull/419) (openedx/frontend-lib-content-components) [*open-source-contribution*]
 
 ## [#](#-wasuregusa18) [wasuregusa18](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Awasuregusa18+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-01-11 [Fix/hardcoded currency 135](https://github.com/openedx/ecommerce/pull/3891) (openedx/ecommerce) [*open-source-contribution*]

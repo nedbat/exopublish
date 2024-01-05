@@ -1,6 +1,6 @@
 
 # PRs older than 60 days by people outside the team
-As of 2024-01-04
+As of 2024-01-05
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
@@ -11,7 +11,7 @@ As of 2024-01-04
 | [2u-cosmonauts](#team-2u-cosmonauts) | 53 | [edx&#x2011;analytics&#x2011;dashboard](#-openedxedx-analytics-dashboard)&nbsp;11; [registrar](#-openedxregistrar)&nbsp;8; [frontend&#x2011;lib&#x2011;special&#x2011;exams](#-openedxfrontend-lib-special-exams)&nbsp;4; [frontend&#x2011;app&#x2011;program&#x2011;console](#-openedxfrontend-app-program-console)&nbsp;4; [edx&#x2011;analytics&#x2011;data&#x2011;api](#-openedxedx-analytics-data-api)&nbsp;4; [edx&#x2011;proctoring](#-openedxedx-proctoring)&nbsp;3; [frontend&#x2011;lib&#x2011;learning&#x2011;assistant](#-edxfrontend-lib-learning-assistant)&nbsp;3; [edx&#x2011;name&#x2011;affirmation](#-edxedx-name-affirmation)&nbsp;3; [xblock&#x2011;lti&#x2011;consumer](#-openedxxblock-lti-consumer)&nbsp;2; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;programs](#-openedxfrontend-app-learner-portal-programs)&nbsp;2; [django&#x2011;lang&#x2011;pref&#x2011;middleware](#-openedxdjango-lang-pref-middleware)&nbsp;2; [completion](#-openedxcompletion)&nbsp;2; [mockprock](#-openedxmockprock)&nbsp;1; [edx&#x2011;when](#-openedxedx-when)&nbsp;1; [cc2olx](#-openedxcc2olx)&nbsp;1; [gatsby&#x2011;source&#x2011;portal&#x2011;designer](#-edxgatsby-source-portal-designer)&nbsp;1; [edx&#x2011;exams](#-edxedx-exams)&nbsp;1 |
 | [2u-data-de](#team-2u-data-de) | 31 | [edx&#x2011;analytics&#x2011;pipeline](#-openedxedx-analytics-pipeline)&nbsp;11; [edx&#x2011;analytics&#x2011;exporter](#-openedxedx-analytics-exporter)&nbsp;6; [dbt&#x2011;schema&#x2011;builder](#-edxdbt-schema-builder)&nbsp;5; [edx&#x2011;prefectutils](#-edxedx-prefectutils)&nbsp;4; [edx&#x2011;analytics&#x2011;configuration](#-openedxedx-analytics-configuration)&nbsp;2; [event&#x2011;tracking](#-openedxevent-tracking)&nbsp;1; [vertica_docker](#-edxvertica-docker)&nbsp;1; [snowflake_timetravel_table](#-edxsnowflake-timetravel-table)&nbsp;1 |
 | [2u-fed-bom](#team-2u-fed-bom) | 20 | [frontend&#x2011;build](#-openedxfrontend-build)&nbsp;5; [frontend&#x2011;app&#x2011;account](#-openedxfrontend-app-account)&nbsp;4; [frontend&#x2011;component&#x2011;header](#-openedxfrontend-component-header)&nbsp;3; [frontend&#x2011;platform](#-openedxfrontend-platform)&nbsp;2; [frontend&#x2011;component&#x2011;footer](#-openedxfrontend-component-footer)&nbsp;2; [frontend&#x2011;component&#x2011;header&#x2011;edx](#-edxfrontend-component-header-edx)&nbsp;2; [new&#x2011;relic&#x2011;source&#x2011;map&#x2011;webpack&#x2011;plugin](#-edxnew-relic-source-map-webpack-plugin)&nbsp;1; [frontend&#x2011;component&#x2011;footer&#x2011;edx](#-edxfrontend-component-footer-edx)&nbsp;1 |
-| [2u-infinity](#team-2u-infinity) | 13 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;5; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;4; [cs_comments_service](#-openedxcs-comments-service)&nbsp;4 |
+| [2u-infinity](#team-2u-infinity) | 12 | [frontend&#x2011;app&#x2011;discussions](#-openedxfrontend-app-discussions)&nbsp;4; [frontend&#x2011;app&#x2011;communications](#-openedxfrontend-app-communications)&nbsp;4; [cs_comments_service](#-openedxcs-comments-service)&nbsp;4 |
 | [2u-kubrick](#team-2u-kubrick) | 1 | [edx&#x2011;search](#-openedxedx-search)&nbsp;1 |
 | [2u-markhors](#team-2u-markhors) | 8 | [taxonomy&#x2011;connector](#-openedxtaxonomy-connector)&nbsp;3; [xblock&#x2011;skill&#x2011;tagging](#-openedxxblock-skill-tagging)&nbsp;2; [learner&#x2011;pathway&#x2011;progress](#-edxlearner-pathway-progress)&nbsp;2; [outcome&#x2011;surveys](#-edxoutcome-surveys)&nbsp;1 |
 | [2u-mobile](#team-2u-mobile) | 1 | [edx&#x2011;app&#x2011;ios](#-openedxedx-app-ios)&nbsp;1 |
@@ -19,10 +19,10 @@ As of 2024-01-04
 | [2u-purchase](#team-2u-purchase) | 50 | [ecommerce](#-openedxecommerce)&nbsp;33; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;6; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;5; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;4; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 6 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;6 |
 | [2u-sre](#team-2u-sre) | 43 | [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;18; [configuration](#-openedxconfiguration)&nbsp;17; [tubular](#-openedxtubular)&nbsp;4; [testeng&#x2011;ci](#-openedxtesteng-ci)&nbsp;2; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;1; [hermes](#-edxhermes)&nbsp;1 |
-| [2u-titans](#team-2u-titans) | 63 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;16; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;15; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;10; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;6; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;4; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
-| [2u-tnl](#team-2u-tnl) | 20 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;6; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;4; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;3; [xblock](#-openedxxblock)&nbsp;1 |
+| [2u-titans](#team-2u-titans) | 61 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;16; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;14; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;9; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;6; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;4; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1; [braze&#x2011;client](#-edxbraze-client)&nbsp;1 |
+| [2u-tnl](#team-2u-tnl) | 22 | [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;6; [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;6; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;3; [xblock](#-openedxxblock)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 12 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;10; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;2 |
-| **TOTAL** | **615** ||
+| **TOTAL** | **614** ||
 
 ## Team 2u-aperture
 
@@ -579,7 +579,6 @@ As of 2024-01-04
 - 2023-10-11 [feat: Profile image on user posts (palm.master)](https://github.com/openedx/frontend-app-discussions/pull/573) (vladislavkeblysh) [*product review; open-source-contribution; backport*]
 - 2023-10-11 [feat: Profile image on user posts](https://github.com/openedx/frontend-app-discussions/pull/574) (vladislavkeblysh) [*product review; waiting on author; open-source-contribution*]
 - 2023-10-12 [feat: Profile image on user posts (quince.master)](https://github.com/openedx/frontend-app-discussions/pull/575) (vladislavkeblysh) [*product review; open-source-contribution; backport*]
-- 2023-10-16 [feat: Editor bar visibility](https://github.com/openedx/frontend-app-discussions/pull/582) (vladislavkeblysh) [*waiting on author; open-source-contribution*]
 - 2023-10-20 [feat!: remove Transifex calls for OEP-58 \| FC-0012](https://github.com/openedx/frontend-app-discussions/pull/586) (hopewise) [*blocked by other work; open-source-contribution*]
 
 ## Team 2u-kubrick
@@ -822,7 +821,6 @@ As of 2024-01-04
 - 2022-10-14 [refactor: migrate off paragon modal deprecated migration](https://github.com/openedx/frontend-app-admin-portal/pull/872) (Mashal-m) [*engineering review*]
 - 2022-12-28 [Paragon form component deprecations](https://github.com/openedx/frontend-app-admin-portal/pull/933) (Mashal-m)
 - 2023-07-10 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-admin-portal/pull/1001) (Syed-Ali-Abbas-Zaidi)
-- 2023-07-24 [feat: update react & react-dom to v17](https://github.com/openedx/frontend-app-admin-portal/pull/1009) (Mashal-m)
 - 2023-08-01 [fix: ensure lint returns error on failure](https://github.com/openedx/frontend-app-admin-portal/pull/1014) (brian-smith-tcril)
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-admin-portal/pull/1023) (Mashal-m)
 - 2023-09-12 [WIP: feat: Conditionally filter the budget enrollments](https://github.com/openedx/frontend-app-admin-portal/pull/1028) (zamanafzal)
@@ -840,7 +838,6 @@ As of 2024-01-04
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/813) (Mashal-m)
 - 2023-08-29 [feat: added dropdowns for v2](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/815) (zamanafzal)
 - 2023-10-30 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/861) (Syed-Ali-Abbas-Zaidi)
-- 2023-11-02 [chore: use AppContext to fetch users metadata](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/865) (Syed-Ali-Abbas-Zaidi)
 
 ### [#](#-openedxfrontend-enterprise) [openedx/frontend-enterprise](https://github.com/openedx/frontend-enterprise/pulls)
 - 2022-02-23 [feat: add key for suggestion items](https://github.com/openedx/frontend-enterprise/pull/223) (muneebGH)
@@ -873,6 +870,8 @@ As of 2024-01-04
 - 2023-08-08 [feat: game editor frontend](https://github.com/openedx/frontend-lib-content-components/pull/371) (tpreston2u)
 - 2023-08-28 [refactor: updated lock file version check to use new workflow](https://github.com/openedx/frontend-lib-content-components/pull/381) (Mashal-m)
 - 2023-11-02 [fix: Show advanced settings button color](https://github.com/openedx/frontend-lib-content-components/pull/417) (Lunyachek) [*open-source-contribution*]
+- 2023-11-05 [feat: Fixed delete for additional video url fields](https://github.com/openedx/frontend-lib-content-components/pull/418) (vladislavkeblysh) [*open-source-contribution*]
+- 2023-11-05 [feat: Validation for Start time and Stop time fields](https://github.com/openedx/frontend-lib-content-components/pull/419) (vladislavkeblysh) [*open-source-contribution*]
 
 ### [#](#-openedxopaque-keys) [openedx/opaque-keys](https://github.com/openedx/opaque-keys/pulls)
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi)
