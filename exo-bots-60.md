@@ -180,7 +180,7 @@ As of 2024-01-08
 - 2023-10-16 [build(deps): bump supercharge/mongodb-github-action from 1.7.0 to 1.10.0](https://github.com/openedx/edx-platform/pull/33495) (dependabot) [*dependencies*]
 - 2023-10-16 [build(deps): bump docker/setup-buildx-action from 2 to 3](https://github.com/openedx/edx-platform/pull/33496) (dependabot) [*dependencies*]
 - 2023-10-16 [build(deps): bump docker/setup-qemu-action from 2 to 3](https://github.com/openedx/edx-platform/pull/33498) (dependabot) [*dependencies*]
-- 2023-10-20 [fix: Replaced whitelist_externals with allowlist_externals in tox](https://github.com/openedx/edx-platform/pull/33548) (edx-requirements-bot)
+- 2023-10-20 [fix: Replaced whitelist_externals with allowlist_externals in tox](https://github.com/openedx/edx-platform/pull/33548) **draft** (edx-requirements-bot)
 
 ### [#](#-openedxedx-rbac) [openedx/edx-rbac](https://github.com/openedx/edx-rbac/pulls)
 - 2023-09-05 [fix: setup.py update using script](https://github.com/openedx/edx-rbac/pull/254) (edx-requirements-bot)
