@@ -1,6 +1,6 @@
 
 # PRs older than 60 days by bots
-As of 2024-01-05
+As of 2024-01-08
 
 | Team | PRs | Repos |
 | :--- | ---: | :--- |
@@ -15,14 +15,14 @@ As of 2024-01-05
 | [2u-kubrick](#team-2u-kubrick) | 3 | [edx&#x2011;search](#-openedxedx-search)&nbsp;2; [ai&#x2011;aside](#-edxai-aside)&nbsp;1 |
 | [2u-markhors](#team-2u-markhors) | 2 | [xblock&#x2011;skill&#x2011;tagging](#-openedxxblock-skill-tagging)&nbsp;1; [taxonomy&#x2011;connector](#-openedxtaxonomy-connector)&nbsp;1 |
 | [2u-mobile](#team-2u-mobile) | 5 | [edx&#x2011;app&#x2011;test](#-openedxedx-app-test)&nbsp;5 |
-| [2u-phoenix](#team-2u-phoenix) | 45 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;19; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;18; [i18n&#x2011;tools](#-openedxi18n-tools)&nbsp;5; [edx&#x2011;val](#-openedxedx-val)&nbsp;2; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;1 |
+| [2u-phoenix](#team-2u-phoenix) | 46 | [frontend&#x2011;app&#x2011;support&#x2011;tools](#-openedxfrontend-app-support-tools)&nbsp;19; [frontend&#x2011;app&#x2011;publisher](#-openedxfrontend-app-publisher)&nbsp;19; [i18n&#x2011;tools](#-openedxi18n-tools)&nbsp;5; [edx&#x2011;val](#-openedxedx-val)&nbsp;2; [course&#x2011;discovery](#-openedxcourse-discovery)&nbsp;1 |
 | [2u-purchase](#team-2u-purchase) | 65 | [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;18; [ecommerce](#-openedxecommerce)&nbsp;14; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;13; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;9; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;6; [py&#x2011;opt&#x2011;cli](#-edxpy-opt-cli)&nbsp;5 |
 | [2u-quokkas](#team-2u-quokkas) | 11 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;11 |
 | [2u-sre](#team-2u-sre) | 38 | [configuration](#-openedxconfiguration)&nbsp;13; [tubular](#-openedxtubular)&nbsp;6; [asym&#x2011;crypto&#x2011;yaml](#-edxasym-crypto-yaml)&nbsp;5; [edx&#x2011;django&#x2011;release&#x2011;util](#-openedxedx-django-release-util)&nbsp;3; [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;3; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;3; [hermes](#-edxhermes)&nbsp;3; [MongoDBProxy](#-openedxmongodbproxy)&nbsp;1; [zappa&#x2011;manage](#-edxzappa-manage)&nbsp;1 |
 | [2u-titans](#team-2u-titans) | 72 | [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;19; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;17; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;17; [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;9; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;4; [tincanpython](#-openedxtincanpython)&nbsp;3; [edx&#x2011;enterprise&#x2011;subsidy&#x2011;client](#-openedxedx-enterprise-subsidy-client)&nbsp;1; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;1; [getsmarter&#x2011;api&#x2011;clients](#-edxgetsmarter-api-clients)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 56 | [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;19; [edx&#x2011;organizations](#-openedxedx-organizations)&nbsp;11; [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;8; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;6; [codejail](#-openedxcodejail)&nbsp;4; [openedx&#x2011;chem](#-openedxopenedx-chem)&nbsp;3; [openedx&#x2011;calc](#-openedxopenedx-calc)&nbsp;2; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;1; [frontend&#x2011;components&#x2011;tinymce&#x2011;advanced&#x2011;plugins](#-openedxfrontend-components-tinymce-advanced-plugins)&nbsp;1; [blockstore](#-openedxblockstore)&nbsp;1 |
 | [2u-vanguards](#team-2u-vanguards) | 10 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;9; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;1 |
-| **TOTAL** | **686** ||
+| **TOTAL** | **687** ||
 
 ## Team 2u-aperture
 
@@ -659,6 +659,7 @@ As of 2024-01-05
 - 2023-05-16 [chore(deps): update dependency husky to v8](https://github.com/openedx/frontend-app-publisher/pull/876) (renovate)
 - 2023-05-16 [fix(deps): update dependency query-string to v8](https://github.com/openedx/frontend-app-publisher/pull/877) (renovate)
 - 2023-08-23 [chore(deps): update dependency @edx/stylelint-config-edx to v2.3.3](https://github.com/openedx/frontend-app-publisher/pull/906) (renovate)
+- 2023-11-07 [chore(deps): update actions/checkout action to v4](https://github.com/openedx/frontend-app-publisher/pull/928) (renovate)
 
 ### [#](#-openedxfrontend-app-support-tools) [openedx/frontend-app-support-tools](https://github.com/openedx/frontend-app-support-tools/pulls)
 - 2020-10-26 [fix(deps): update react monorepo to v18 (major)](https://github.com/openedx/frontend-app-support-tools/pull/66) (renovate)
@@ -679,7 +680,7 @@ As of 2024-01-05
 - 2023-01-06 [build(deps): bump json5 from 1.0.1 to 1.0.2](https://github.com/openedx/frontend-app-support-tools/pull/296) (dependabot) [*dependencies*]
 - 2023-01-17 [build(deps): bump loader-utils from 1.4.0 to 1.4.2](https://github.com/openedx/frontend-app-support-tools/pull/300) (dependabot) [*dependencies*]
 - 2023-08-14 [chore(deps): update dependency @testing-library/react to v12.1.5](https://github.com/openedx/frontend-app-support-tools/pull/350) (renovate)
-- 2023-08-14 [chore(deps): update dependency @types/react-table to v7.7.18](https://github.com/openedx/frontend-app-support-tools/pull/351) (renovate)
+- 2023-08-14 [chore(deps): update dependency @types/react-table to v7.7.19](https://github.com/openedx/frontend-app-support-tools/pull/351) (renovate)
 
 ### [#](#-openedxi18n-tools) [openedx/i18n-tools](https://github.com/openedx/i18n-tools/pulls)
 - 2021-11-09 [feat: advertise constraints in setup.py](https://github.com/openedx/i18n-tools/pull/106) (edx-requirements-bot)
@@ -905,7 +906,7 @@ As of 2024-01-05
 - 2023-01-05 [build(deps): bump json5 from 1.0.1 to 1.0.2](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/662) (dependabot) [*dependencies*]
 - 2023-01-24 [build(deps): bump cookiejar from 2.1.3 to 2.1.4](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/673) (dependabot) [*dependencies*]
 - 2023-10-03 [chore(deps): update dependency @edx/frontend-build to v12.9.17](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/841) (renovate)
-- 2023-10-10 [fix(deps): update dependency @edx/frontend-enterprise-logistration to v4](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/845) (renovate)
+- 2023-10-10 [fix(deps): update dependency @edx/frontend-enterprise-logistration to v4.0.4](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/845) (renovate)
 - 2023-10-17 [fix(deps): update dependency dayjs to v1.11.10](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/854) (renovate)
 
 ### [#](#-openedxfrontend-enterprise) [openedx/frontend-enterprise](https://github.com/openedx/frontend-enterprise/pulls)
