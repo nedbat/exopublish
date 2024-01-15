@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2024-01-12.
-708 pull requests, not including bots.
+As of 2024-01-15.
+715 pull requests, not including bots.
 
 ## 25 oldest
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
@@ -18,10 +18,8 @@ As of 2024-01-12.
 - 2019-04-23 [Added military address in CC](https://github.com/openedx/ecommerce/pull/2218) (adeelehsan) (openedx/ecommerce)
 - 2019-05-30 [Logout flow updated](https://github.com/openedx/auth-backends/pull/65) (adeelehsan) (openedx/auth-backends)
 - 2019-07-17 [Python 2/3 compatibility for finance tasks](https://github.com/openedx/edx-analytics-pipeline/pull/747) (pwnage101) (openedx/edx-analytics-pipeline)
-- 2019-07-18 [Bumped edx-enterprise version](https://github.com/openedx/edx-platform/pull/21157) (ziafazal) (openedx/edx-platform)
 - 2019-08-07 [WIP: changed logout fromt get to post](https://github.com/openedx/ecommerce/pull/2528) (adeelehsan) (openedx/ecommerce)
 - 2019-09-10 [Add db settings overrides](https://github.com/openedx/edx-platform/pull/21615) (jdmulloy) (openedx/edx-platform)
-- 2019-09-13 [We are using Hive 2.1.1 and NULLIF is supported in 2.3.0 onwards](https://github.com/openedx/edx-analytics-pipeline/pull/758) (ziafazal) (openedx/edx-analytics-pipeline)
 - 2019-09-19 [Jdmulloy/fix import depr warning](https://github.com/openedx/edx-platform/pull/21725) (jdmulloy) (openedx/edx-platform)
 - 2019-10-09 [Create edxCypressTestsJob.groovy](https://github.com/edx/jenkins-job-dsl/pull/811) (kashifch) (edx/jenkins-job-dsl)
 - 2019-10-28 [apply typescript](https://github.com/openedx/cypress-e2e-tests/pull/39) (kashifch) (openedx/cypress-e2e-tests)
@@ -29,6 +27,8 @@ As of 2024-01-12.
 - 2019-12-04 [requests package upgraded](https://github.com/openedx/edx-analytics-pipeline/pull/783) (adeelehsan) (openedx/edx-analytics-pipeline)
 - 2020-01-28 [iOS - Update web view cookie with in-app selected language](https://github.com/openedx/edx-app-ios/pull/1333) **draft** (mumer92) (openedx/edx-app-ios)
 - 2020-02-05 [Add monitoring script helm chart](https://github.com/edx/helm-charts/pull/16) (jdmulloy) (edx/helm-charts)
+- 2020-02-05 [Spike:  copy S3 database/schema data to another location in S3](https://github.com/openedx/edx-analytics-pipeline/pull/800) (brianhw) (openedx/edx-analytics-pipeline)
+- 2020-02-12 [Cpappas/hackathonxxiii messaging](https://github.com/openedx/registrar/pull/259) (christopappas) (openedx/registrar)
 
 ## [#](#-0x29a) [0x29a](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3A0x29a+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-02-05 [feat: allow enrollment api admin to see all enrollments](https://github.com/openedx/edx-enterprise/pull/1714) (openedx/edx-enterprise) [*open-source-contribution*]
@@ -115,7 +115,6 @@ As of 2024-01-12.
 - 2022-01-18 [chore: add reserved keywords linter](https://github.com/openedx/django-lang-pref-middleware/pull/112) (openedx/django-lang-pref-middleware)
 - 2022-01-18 [chore: add reserved keywords linter](https://github.com/openedx/edx-django-sites-extensions/pull/40) (openedx/edx-django-sites-extensions)
 - 2022-01-18 [chore: add reserved keywords linter](https://github.com/openedx/opaque-keys/pull/215) (openedx/opaque-keys)
-- 2022-01-24 [chore: add reserved keywords linter](https://github.com/openedx/auth-backends/pull/166) (openedx/auth-backends)
 - 2022-01-24 [chore: add reserved keywords linter](https://github.com/openedx/edx-submissions/pull/154) (openedx/edx-submissions)
 - 2022-01-24 [chore: add reserved keywords linter](https://github.com/openedx/edx-search/pull/119) (openedx/edx-search)
 - 2022-01-24 [chore: add reserved keywords linter](https://github.com/openedx/edx-analytics-dashboard/pull/1247) (openedx/edx-analytics-dashboard)
@@ -127,14 +126,11 @@ As of 2024-01-12.
 - 2022-01-25 [chore: add reserved keywords linter](https://github.com/openedx/edx-when/pull/133) (openedx/edx-when)
 - 2022-01-25 [chore: add reserved keywords linter](https://github.com/openedx/completion/pull/178) (openedx/completion)
 - 2022-01-25 [chore: add reserved keywords linter](https://github.com/openedx/edx-ora2/pull/1792) (openedx/edx-ora2)
-- 2022-01-25 [chore: add reserved keywords linter](https://github.com/openedx/django-config-models/pull/197) (openedx/django-config-models)
 - 2022-01-25 [chore: add reserved keywords linter](https://github.com/openedx/web-fragments/pull/46) (openedx/web-fragments)
 - 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/super-csv/pull/90) (openedx/super-csv)
 - 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/taxonomy-connector/pull/74) (openedx/taxonomy-connector)
 - 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/edx-proctoring/pull/1022) (openedx/edx-proctoring)
 - 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/xss-utils/pull/88) (openedx/xss-utils)
-- 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/edx-rbac/pull/144) (openedx/edx-rbac)
-- 2022-01-26 [chore: add reserved keywords linter](https://github.com/openedx/help-tokens/pull/46) (openedx/help-tokens)
 - 2022-01-26 [chore: add reserved keywords linter](https://github.com/edx/edx-name-affirmation/pull/75) (edx/edx-name-affirmation)
 
 ## [#](#-arbrandes) [arbrandes](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aarbrandes+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
@@ -231,6 +227,8 @@ As of 2024-01-12.
 - 2023-10-05 [feat: add brand_color variable for the email templates](https://github.com/openedx/edx-platform/pull/33420) (openedx/edx-platform) [*open-source-contribution; backport*]
 - 2023-10-05 [feat: add brand_color variable for the email templates](https://github.com/openedx/edx-platform/pull/33421) (openedx/edx-platform) [*open-source-contribution*]
 - 2023-10-27 [feat: add brand_color variable for the email templates](https://github.com/openedx/edx-platform/pull/33606) (openedx/edx-platform) [*open-source-contribution; backport*]
+- 2023-11-14 [feat: course about page markup and styles improvements](https://github.com/openedx/edx-platform/pull/33711) (openedx/edx-platform) [*open-source-contribution; backport*]
+- 2023-11-14 [feat: course about page markup and styles improvements](https://github.com/openedx/edx-platform/pull/33712) (openedx/edx-platform) [*open-source-contribution*]
 
 ## [#](#-cdeery) [cdeery](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Acdeery+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2021-07-21 [docs: update PyCharm integration](https://github.com/openedx/devstack/pull/802) (openedx/devstack)
@@ -271,6 +269,7 @@ As of 2024-01-12.
 - 2023-10-16 [feat: support static reference in LibraryContentBlock](https://github.com/openedx/edx-platform/pull/33511) (openedx/edx-platform)
 - 2023-10-17 [feat: Library Content Block Editor](https://github.com/openedx/frontend-lib-content-components/pull/411) (openedx/frontend-lib-content-components)
 - 2023-10-26 [feat: create runtime mapping for v1 lib keys to v2](https://github.com/openedx/edx-platform/pull/33604) (openedx/edx-platform)
+- 2023-11-15 [Feat: add library page redirects](https://github.com/openedx/edx-platform/pull/33723) (openedx/edx-platform)
 
 ## [#](#-dcoa) [dcoa](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Adcoa+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-11-07 [feat: allow instructors to manage certificates](https://github.com/openedx/edx-platform/pull/31265) (openedx/edx-platform) [*open-source-contribution; product review*]
@@ -299,6 +298,11 @@ As of 2024-01-12.
 - 2023-11-08 [fix: ORA response with attached file (for Quince)](https://github.com/openedx/edx-platform/pull/33676) (openedx/edx-platform) [*open-source-contribution; backport*]
 - 2023-11-08 [fix: ORA response with attached file (for master)](https://github.com/openedx/edx-platform/pull/33677) (openedx/edx-platform) [*open-source-contribution*]
 - 2023-11-08 [Fix ORA uploaded response (for Palm)](https://github.com/openedx/edx-platform/pull/33678) (openedx/edx-platform) [*open-source-contribution; backport*]
+- 2023-11-13 [Fix: 500 error during opening program certificate page](https://github.com/openedx/course-discovery/pull/4181) (openedx/course-discovery) [*open-source-contribution; backport*]
+- 2023-11-13 [fix: 500 error during opening program certificate page (Quince)](https://github.com/openedx/course-discovery/pull/4183) (openedx/course-discovery) [*open-source-contribution; backport*]
+- 2023-11-14 [fix: request error for empty user list responses](https://github.com/openedx/frontend-app-ora-grading/pull/289) (openedx/frontend-app-ora-grading) [*open-source-contribution; waiting for eng review; backport*]
+- 2023-11-14 [fix: request error for empty user list responses](https://github.com/openedx/frontend-app-ora-grading/pull/290) (openedx/frontend-app-ora-grading) [*open-source-contribution; waiting for eng review; backport*]
+- 2023-11-14 [fix: request error for empty user list responses](https://github.com/openedx/frontend-app-ora-grading/pull/291) (openedx/frontend-app-ora-grading) [*open-source-contribution; waiting for eng review*]
 
 ## [#](#-dnunez24) [dnunez24](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Adnunez24+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-01-12 [Add protection against undefined files arrays for webpack 4](https://github.com/edx/new-relic-source-map-webpack-plugin/pull/27) (edx/new-relic-source-map-webpack-plugin) [*open-source-contribution*]
@@ -622,6 +626,7 @@ As of 2024-01-12.
 - 2023-07-09 [build: consolidate xmodule/js into xmodule/assets (WIP)](https://github.com/openedx/edx-platform/pull/32691) **draft** (openedx/edx-platform)
 - 2023-08-11 [feat: sync metadata from catalog-info.yaml with repo_checks (WIP)](https://github.com/openedx/repo-tools/pull/428) **draft** (openedx/repo-tools)
 - 2023-10-16 [fix: support for newer npm and macOS](https://github.com/openedx/edx-platform/pull/33506) **draft** (openedx/edx-platform)
+- 2023-11-15 [feat: XBlock.usage_key, XBlock.context_key convenience props](https://github.com/openedx/XBlock/pull/690) (openedx/XBlock)
 
 ## [#](#-kelketek) [Kelketek](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AKelketek+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-08-17 [feat: Support web-based LMS OAuth.](https://github.com/openedx/openedx-app-ios/pull/65) (openedx/openedx-app-ios) [*enhancement; open-source-contribution; product review*]
@@ -828,6 +833,7 @@ As of 2024-01-12.
 - 2023-10-22 [feat!: upgrade to mathjax v3](https://github.com/openedx/edx-platform/pull/33555) (openedx/edx-platform) [*open-source-contribution*]
 - 2023-10-26 [feat: upgrade mathjax from v2 to v3](https://github.com/openedx/frontend-app-library-authoring/pull/352) (openedx/frontend-app-library-authoring) [*waiting on author; open-source-contribution; core contributor; jira:2u*]
 - 2023-11-02 [feat: filter courses by user language by default](https://github.com/openedx/edx-platform/pull/33647) (openedx/edx-platform) [*open-source-contribution; waiting for eng review*]
+- 2023-11-13 [chore: add ENABLE_COURSE_DISCOVERY_DEFAULT_LANGUAGE_FILTER flag](https://github.com/openedx/edx-documentation/pull/2210) (openedx/edx-documentation) [*open-source-contribution*]
 
 ## [#](#-nixknight) [NIXKnight](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3ANIXKnight+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-08-09 [feat: initial PR for tracking logs of edx-platform](https://github.com/edx/helm-charts/pull/97) (edx/helm-charts)
@@ -844,7 +850,6 @@ As of 2024-01-12.
 
 ## [#](#-omarithawi) [OmarIthawi](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AOmarIthawi+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-09-26 [feat!: remove Transifex calls for FC-0012](https://github.com/openedx/xblock-drag-and-drop-v2/pull/352) **draft** (openedx/xblock-drag-and-drop-v2) [*open-source-contribution; blocked by other work; core contributor*]
-- 2023-11-10 [feat: `atlas pull` for XBlock translations \| FC-0012](https://github.com/openedx/edx-platform/pull/33698) (openedx/edx-platform) [*open-source-contribution*]
 - 2023-11-12 [feat: use XBlockI18NService js translations \| FC-0012](https://github.com/openedx/xblock-drag-and-drop-v2/pull/365) (openedx/xblock-drag-and-drop-v2) [*open-source-contribution; core contributor; waiting for eng review*]
 
 ## [#](#-ormsbee) [ormsbee](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aormsbee+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
@@ -883,6 +888,9 @@ As of 2024-01-12.
 - 2021-11-15 [feat: Add logic to enable loading pepped events into Amplitude](https://github.com/edx/edx-prefectutils/pull/52) **draft** (edx/edx-prefectutils)
 - 2023-02-24 [[IDEA] feat: add a helper function to generate a django-rules predicate](https://github.com/openedx/edx-rbac/pull/208) **draft** (openedx/edx-rbac)
 
+## [#](#-qtw97) [qtw97](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aqtw97+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-15 [search bar](https://github.com/openedx/edx-platform/pull/33714) **draft** (openedx/edx-platform) [*open-source-contribution*]
+
 ## [#](#-rao-abdul-mannan) [rao-abdul-mannan](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Arao-abdul-mannan+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2018-01-24 [WIP-Spark Tasks](https://github.com/openedx/edx-analytics-pipeline/pull/476) (openedx/edx-analytics-pipeline)
 - 2018-06-04 [Enable logging for spark in analytics pipeline container](https://github.com/openedx/configuration/pull/4594) (openedx/configuration)
@@ -920,6 +928,9 @@ As of 2024-01-12.
 - 2023-07-13 [Docker multi-arch images push for linux/amd64, linux/arm64](https://github.com/openedx/course-discovery/pull/4018) (openedx/course-discovery)
 - 2023-08-04 [fix: unpin pyyaml](https://github.com/openedx/django-user-tasks/pull/298) **draft** (openedx/django-user-tasks)
 
+## [#](#-sarina) [sarina](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Asarina+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-15 [Updates to the Developer Guide (Testing & Extending sections)](https://github.com/openedx/docs.openedx.org/pull/432) (openedx/docs.openedx.org)
+
 ## [#](#-schenedx) [schenedx](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aschenedx+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2018-07-27 [Add CSRF exempt authentication to the batch_completion api](https://github.com/openedx/completion/pull/24) (openedx/completion)
 - 2018-09-04 [Add sailthru tag script for lead capture and about page](https://github.com/openedx/ecommerce-scripts/pull/91) (openedx/ecommerce-scripts)
@@ -956,7 +967,7 @@ As of 2024-01-12.
 ## [#](#-syed-ali-abbas-zaidi) [Syed-Ali-Abbas-Zaidi](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3ASyed-Ali-Abbas-Zaidi+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-03-29 [fix: styles not loading issue](https://github.com/openedx/frontend-platform/pull/461) (openedx/frontend-platform)
 - 2023-05-12 [Ali abbas/apply eslint amnesty](https://github.com/openedx/edx-platform/pull/32226) **draft** (openedx/edx-platform)
-- 2023-07-10 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-admin-portal/pull/1001) **draft** (openedx/frontend-app-admin-portal)
+- 2023-07-10 [feat: upgrade react router to v6](https://github.com/openedx/frontend-app-admin-portal/pull/1001) (openedx/frontend-app-admin-portal)
 - 2023-10-17 [chore: coverage test](https://github.com/openedx/frontend-app-publisher/pull/915) **draft** (openedx/frontend-app-publisher)
 
 ## [#](#-syedimranhassan) [syedimranhassan](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Asyedimranhassan+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
@@ -996,12 +1007,17 @@ As of 2024-01-12.
 ## [#](#-tpreston2u) [tpreston2u](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Atpreston2u+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-08-08 [feat: game editor frontend](https://github.com/openedx/frontend-lib-content-components/pull/371) **draft** (openedx/frontend-lib-content-components)
 
+## [#](#-tspring5000) [tspring5000](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Atspring5000+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-15 [fix: Open Responses Styling and Layout](https://github.com/openedx/edx-platform/pull/33717) (openedx/edx-platform) [*open-source-contribution; waiting for eng review*]
+
 ## [#](#-usamasadiq) [UsamaSadiq](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AUsamaSadiq+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-02-16 [build: remove future package](https://github.com/openedx/edx-analytics-configuration/pull/110) (openedx/edx-analytics-configuration)
 - 2023-05-25 [Update to python310](https://github.com/openedx/tubular/pull/668) **draft** (openedx/tubular)
 - 2023-09-19 [feat!: Upgrade to Django 4.2](https://github.com/openedx/edx-analytics-dashboard/pull/1503) (openedx/edx-analytics-dashboard)
 - 2023-11-10 [Tox4 config update](https://github.com/edx/braze-client/pull/20) (edx/braze-client)
 - 2023-11-10 [fix: add tox 4 support](https://github.com/openedx/xblock-skill-tagging/pull/23) (openedx/xblock-skill-tagging)
+- 2023-11-13 [Remove pillow constraint](https://github.com/openedx/edx-platform/pull/33704) **draft** (openedx/edx-platform)
+- 2023-11-16 [fix: include constraints in test.txt](https://github.com/openedx/xblock-image-modal/pull/141) (openedx/xblock-image-modal)
 
 ## [#](#-uvgengen) [UvgenGen](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AUvgenGen+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-05-12 [FC-0001: ecommerce Basket Page -> micro-frontend](https://github.com/openedx/ecommerce/pull/3718) (openedx/ecommerce) [*open-source-contribution*]
@@ -1061,7 +1077,6 @@ As of 2024-01-12.
 
 ## [#](#-zainab-amir) [zainab-amir](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Azainab-amir+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-05-17 [docs: ADR to enable 2FA for course team accounts](https://github.com/openedx/frontend-app-authn/pull/574) (openedx/frontend-app-authn)
-- 2022-12-13 [feat: add bottom widget container](https://github.com/openedx/frontend-app-learner-dashboard/pull/93) (openedx/frontend-app-learner-dashboard) [*waiting on author*]
 - 2023-01-28 [docs: adr to add new recommendations app](https://github.com/openedx/edx-platform/pull/31665) (openedx/edx-platform)
 - 2023-05-11 [Refactor login page to use functional component](https://github.com/openedx/frontend-app-authn/pull/899) (openedx/frontend-app-authn)
 - 2023-08-24 [Embeddable registration form](https://github.com/openedx/frontend-app-authn/pull/1045) **draft** (openedx/frontend-app-authn)
@@ -1077,10 +1092,6 @@ As of 2024-01-12.
 - 2023-04-10 [refactor: refactor formatting of data before sending to the backend](https://github.com/openedx/frontend-app-publisher/pull/864) (openedx/frontend-app-publisher)
 - 2023-04-26 [chore: update prompt for user retirement](https://github.com/openedx/frontend-app-support-tools/pull/330) (openedx/frontend-app-support-tools)
 - 2023-05-09 [feat: add status fields for external courses](https://github.com/openedx/course-discovery/pull/3932) (openedx/course-discovery)
-
-## [#](#-ziafazal) [ziafazal](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aziafazal+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2019-07-18 [Bumped edx-enterprise version](https://github.com/openedx/edx-platform/pull/21157) (openedx/edx-platform)
-- 2019-09-13 [We are using Hive 2.1.1 and NULLIF is supported in 2.3.0 onwards](https://github.com/openedx/edx-analytics-pipeline/pull/758) (openedx/edx-analytics-pipeline)
 
 ## [#](#-zizytd) [zizytd](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Azizytd+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-11-26 [Updating client.py with audience keyword and modifying the recipient keyword](https://github.com/edx/braze-client/pull/11) (edx/braze-client) [*open-source-contribution*]
