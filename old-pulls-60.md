@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2024-01-15.
-715 pull requests, not including bots.
+As of 2024-01-16.
+717 pull requests, not including bots.
 
 ## 25 oldest
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
@@ -144,8 +144,14 @@ As of 2024-01-15.
 ## [#](#-asadiqbal08) [asadiqbal08](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aasadiqbal08+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-01-07 [Reverting back to anchor tag as Link causing an error](https://github.com/openedx/frontend-app-learning/pull/793) (openedx/frontend-app-learning)
 
+## [#](#-ashultz0) [ashultz0](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aashultz0+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-16 [feat: add logging after ES to go with the full arg log](https://github.com/openedx/edx-search/pull/141) (openedx/edx-search)
+
 ## [#](#-attiyaishaque) [attiyaIshaque](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AattiyaIshaque+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-05-24 [fix: testing insitution](https://github.com/openedx/frontend-app-authn/pull/920) **draft** (openedx/frontend-app-authn)
+
+## [#](#-awais-ansari) [awais-ansari](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aawais-ansari+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-16 [feat: updated MFE structure and reduced re-rendering for sidebar](https://github.com/openedx/frontend-app-discussions/pull/606) **draft** (openedx/frontend-app-discussions)
 
 ## [#](#-awais786) [awais786](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aawais786+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-03-21 [test: adding tests cases.](https://github.com/openedx/DoneXBlock/pull/125) (openedx/DoneXBlock)
@@ -182,6 +188,7 @@ As of 2024-01-15.
 - 2023-10-26 [chore: bumped frontend-platform to v6 with respective edx packages](https://github.com/openedx/frontend-app-payment/pull/822) **draft** (openedx/frontend-app-payment)
 - 2023-10-26 [chore: bumped frontend-platform to v6 with respective edx packages](https://github.com/openedx/frontend-app-ecommerce/pull/345) **draft** (openedx/frontend-app-ecommerce)
 - 2023-10-30 [chore: bumped frontend-platform to v6](https://github.com/openedx/frontend-app-authn/pull/1097) **draft** (openedx/frontend-app-authn)
+- 2023-11-16 [feat: updated axios to v1 along with respective packages](https://github.com/openedx/frontend-platform/pull/604) **draft** (openedx/frontend-platform)
 
 ## [#](#-bmedx) [bmedx](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Abmedx+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2018-11-06 [Change retirement archive to use the Jenkins AWS assumed role](https://github.com/openedx/tubular/pull/289) (openedx/tubular)
@@ -557,6 +564,7 @@ As of 2024-01-15.
 - 2019-09-19 [Jdmulloy/fix import depr warning](https://github.com/openedx/edx-platform/pull/21725) (openedx/edx-platform)
 - 2020-02-05 [Add monitoring script helm chart](https://github.com/edx/helm-charts/pull/16) (edx/helm-charts)
 - 2023-09-20 [fix: Pin tox](https://github.com/openedx/tubular/pull/701) (openedx/tubular)
+- 2023-11-16 [feat: Output table sizes while calculating](https://github.com/openedx/configuration/pull/7065) (openedx/configuration)
 
 ## [#](#-jesperhodge) [jesperhodge](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Ajesperhodge+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-10-04 [Update paragon to 21.3.1 - attempt 2](https://github.com/openedx/frontend-lib-content-components/pull/399) **draft** (openedx/frontend-lib-content-components)
@@ -850,7 +858,6 @@ As of 2024-01-15.
 
 ## [#](#-omarithawi) [OmarIthawi](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AOmarIthawi+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-09-26 [feat!: remove Transifex calls for FC-0012](https://github.com/openedx/xblock-drag-and-drop-v2/pull/352) **draft** (openedx/xblock-drag-and-drop-v2) [*open-source-contribution; blocked by other work; core contributor*]
-- 2023-11-12 [feat: use XBlockI18NService js translations \| FC-0012](https://github.com/openedx/xblock-drag-and-drop-v2/pull/365) (openedx/xblock-drag-and-drop-v2) [*open-source-contribution; core contributor; waiting for eng review*]
 
 ## [#](#-ormsbee) [ormsbee](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aormsbee+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-09-25 [Remove MATLAB support [DEPR]](https://github.com/openedx/edx-platform/pull/33337) **draft** (openedx/edx-platform)
@@ -1103,7 +1110,6 @@ As of 2024-01-15.
 - 2022-09-07 [Refactor:  detect changed translations issue](https://github.com/openedx/ecommerce/pull/3808) (openedx/ecommerce)
 - 2023-08-21 [Fix: Resolved Security Vulnerability in xmlhttprequest-ssl](https://github.com/openedx/ecommerce/pull/4019) (openedx/ecommerce)
 - 2023-11-08 [[Draft] Django Oscar upgrade to version 3.2](https://github.com/openedx/ecommerce/pull/4049) **draft** (openedx/ecommerce)
-- 2023-11-12 [Django Oscar Upgrade to version 3.1](https://github.com/openedx/ecommerce/pull/4050) (openedx/ecommerce)
 
 ## [#](#-zubairshakoorarbisoft) [zubairshakoorarbisoft](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Azubairshakoorarbisoft+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2022-11-10 [-t flag added in pull translation command](https://github.com/edx/outcome-surveys/pull/4) (edx/outcome-surveys)
