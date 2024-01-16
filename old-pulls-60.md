@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
 As of 2024-01-16.
-717 pull requests, not including bots.
+716 pull requests, not including bots.
 
 ## 25 oldest
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
@@ -31,7 +31,6 @@ As of 2024-01-16.
 - 2020-02-12 [Cpappas/hackathonxxiii messaging](https://github.com/openedx/registrar/pull/259) (christopappas) (openedx/registrar)
 
 ## [#](#-0x29a) [0x29a](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3A0x29a+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2023-02-05 [feat: allow enrollment api admin to see all enrollments](https://github.com/openedx/edx-enterprise/pull/1714) (openedx/edx-enterprise) [*open-source-contribution*]
 - 2023-06-26 [fix: give superusers all studio permissions [BB-7481]](https://github.com/openedx/edx-platform/pull/32569) (openedx/edx-platform) [*open-source-contribution; waiting for eng review*]
 
 ## [#](#-abdouseck) [AbdouSeck](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AAbdouSeck+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)

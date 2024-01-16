@@ -19,10 +19,10 @@ As of 2024-01-16
 | [2u-purchase](#team-2u-purchase) | 46 | [ecommerce](#-openedxecommerce)&nbsp;30; [frontend&#x2011;app&#x2011;payment](#-openedxfrontend-app-payment)&nbsp;6; [frontend&#x2011;app&#x2011;ecommerce](#-openedxfrontend-app-ecommerce)&nbsp;5; [ecommerce&#x2011;worker](#-openedxecommerce-worker)&nbsp;4; [ecommerce&#x2011;scripts](#-openedxecommerce-scripts)&nbsp;1 |
 | [2u-quokkas](#team-2u-quokkas) | 5 | [frontend&#x2011;app&#x2011;enterprise&#x2011;public&#x2011;catalog](#-openedxfrontend-app-enterprise-public-catalog)&nbsp;5 |
 | [2u-sre](#team-2u-sre) | 36 | [jenkins&#x2011;job&#x2011;dsl](#-edxjenkins-job-dsl)&nbsp;17; [configuration](#-openedxconfiguration)&nbsp;14; [tubular](#-openedxtubular)&nbsp;3; [jenkins&#x2011;configuration](#-edxjenkins-configuration)&nbsp;1; [hermes](#-edxhermes)&nbsp;1 |
-| [2u-titans](#team-2u-titans) | 48 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;15; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;9; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;4; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;2; [braze&#x2011;client](#-edxbraze-client)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1 |
+| [2u-titans](#team-2u-titans) | 47 | [edx&#x2011;enterprise](#-openedxedx-enterprise)&nbsp;14; [frontend&#x2011;app&#x2011;admin&#x2011;portal](#-openedxfrontend-app-admin-portal)&nbsp;9; [frontend&#x2011;app&#x2011;learner&#x2011;portal&#x2011;enterprise](#-openedxfrontend-app-learner-portal-enterprise)&nbsp;7; [frontend&#x2011;enterprise](#-openedxfrontend-enterprise)&nbsp;5; [enterprise&#x2011;catalog](#-openedxenterprise-catalog)&nbsp;4; [edx&#x2011;django&#x2011;sites&#x2011;extensions](#-openedxedx-django-sites-extensions)&nbsp;2; [cypress&#x2011;e2e&#x2011;tests](#-openedxcypress-e2e-tests)&nbsp;2; [braze&#x2011;client](#-edxbraze-client)&nbsp;2; [license&#x2011;manager](#-openedxlicense-manager)&nbsp;1; [enterprise&#x2011;access](#-openedxenterprise-access)&nbsp;1 |
 | [2u-tnl](#team-2u-tnl) | 23 | [frontend&#x2011;app&#x2011;course&#x2011;authoring](#-openedxfrontend-app-course-authoring)&nbsp;7; [frontend&#x2011;lib&#x2011;content&#x2011;components](#-openedxfrontend-lib-content-components)&nbsp;6; [studio&#x2011;frontend](#-openedxstudio-frontend)&nbsp;3; [frontend&#x2011;app&#x2011;library&#x2011;authoring](#-openedxfrontend-app-library-authoring)&nbsp;3; [xblock](#-openedxxblock)&nbsp;2; [opaque&#x2011;keys](#-openedxopaque-keys)&nbsp;2 |
 | [2u-vanguards](#team-2u-vanguards) | 12 | [frontend&#x2011;app&#x2011;authn](#-openedxfrontend-app-authn)&nbsp;10; [edx&#x2011;ace](#-openedxedx-ace)&nbsp;2 |
-| **TOTAL** | **565** ||
+| **TOTAL** | **564** ||
 
 ## Team 2u-aperture
 
@@ -740,7 +740,6 @@ As of 2024-01-16
 
 ### [#](#-openedxedx-enterprise) [openedx/edx-enterprise](https://github.com/openedx/edx-enterprise/pulls)
 - 2020-11-20 [ENT-2663 Plumb detail_fields query param from the api enterpriseCustomerCatalogByUuid gateway.](https://github.com/openedx/edx-enterprise/pull/1049) (zamanafzal)
-- 2023-02-05 [feat: allow enrollment api admin to see all enrollments](https://github.com/openedx/edx-enterprise/pull/1714) (0x29a) [*open-source-contribution*]
 - 2023-05-07 [feat: handle enrollments for "Invite Only" courses](https://github.com/openedx/edx-enterprise/pull/1748) (tecoholic) [*open-source-contribution; waiting for eng review*]
 - 2023-05-24 [feat: course metadata overrides](https://github.com/openedx/edx-enterprise/pull/1760) **draft** (muhammad-ammar)
 - 2023-06-22 [feat: add button to retransmit courses metadata](https://github.com/openedx/edx-enterprise/pull/1776) **draft** (katrinan029)
