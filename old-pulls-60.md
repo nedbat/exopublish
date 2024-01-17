@@ -1,7 +1,7 @@
 
 # Pull requests older than 60 days
-As of 2024-01-16.
-716 pull requests, not including bots.
+As of 2024-01-17.
+708 pull requests, not including bots.
 
 ## 25 oldest
 - 2017-03-03 [ENT-211 add course key v2](https://github.com/openedx/opaque-keys/pull/87) (zubair-arbi) (openedx/opaque-keys)
@@ -87,7 +87,6 @@ As of 2024-01-16.
 - 2022-12-02 [Push docker image to edxops/insights repo now](https://github.com/openedx/edx-analytics-dashboard/pull/1388) (openedx/edx-analytics-dashboard)
 - 2023-01-04 [Use Ansible free image from original edxops repo](https://github.com/openedx/devstack/pull/1004) (openedx/devstack)
 - 2023-01-09 [Update Organization references for CI workflows](https://github.com/edx/openedx-webhooks-test/pull/9) (edx/openedx-webhooks-test)
-- 2023-01-09 [fix: update org reference in CI](https://github.com/edx/hermes/pull/27) (edx/hermes)
 - 2023-01-09 [fix: update org references in CI workflows](https://github.com/edx/vertica_docker/pull/2) (edx/vertica_docker)
 
 ## [#](#-alangsto) [alangsto](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aalangsto+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
@@ -674,9 +673,8 @@ As of 2024-01-16.
 - 2022-07-21 [chore: override react/prop-types rule for test files](https://github.com/openedx/frontend-app-learner-portal-enterprise/pull/589) (openedx/frontend-app-learner-portal-enterprise)
 
 ## [#](#-lunyachek) [Lunyachek](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3ALunyachek+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2023-02-10 [fix: Fix rows counter in the Edit Grade modal window](https://github.com/openedx/frontend-app-gradebook/pull/310) (openedx/frontend-app-gradebook) [*open-source-contribution; product review; inactive*]
 - 2023-03-01 [feat: Auth form visual enhancements (olive)](https://github.com/openedx/frontend-app-authn/pull/766) (openedx/frontend-app-authn) [*product review; waiting on author; open-source-contribution; backport*]
-- 2023-03-01 [feat: Auth form visual enhancements (master)](https://github.com/openedx/frontend-app-authn/pull/767) (openedx/frontend-app-authn) [*open-source-contribution; needs test run*]
+- 2023-03-01 [feat: Auth form visual enhancements (master)](https://github.com/openedx/frontend-app-authn/pull/767) (openedx/frontend-app-authn) [*open-source-contribution*]
 - 2023-03-06 [feat: Add grey color for disabled selects during the form submission](https://github.com/openedx/frontend-app-payment/pull/715) (openedx/frontend-app-payment) [*open-source-contribution; waiting for eng review*]
 - 2023-10-11 [fix: Enabling the ability to log in with a username consisting of 2 characters (backport from palm branch)](https://github.com/openedx/frontend-app-authn/pull/1073) (openedx/frontend-app-authn) [*open-source-contribution; waiting for eng review*]
 - 2023-10-21 [fix: Prevent wrong appearance of skeleton after second tab click](https://github.com/openedx/frontend-app-authn/pull/1086) (openedx/frontend-app-authn) [*open-source-contribution*]
@@ -860,8 +858,6 @@ As of 2024-01-16.
 
 ## [#](#-ormsbee) [ormsbee](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aormsbee+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-09-25 [Remove MATLAB support [DEPR]](https://github.com/openedx/edx-platform/pull/33337) **draft** (openedx/edx-platform)
-- 2023-10-24 [Import v2 libraries content into openedx-learning data models](https://github.com/openedx/edx-platform/pull/33577) (openedx/edx-platform)
-- 2023-10-24 [Read support for v2 library content using openedx-learning models](https://github.com/openedx/edx-platform/pull/33579) **draft** (openedx/edx-platform)
 
 ## [#](#-pkulkark) [pkulkark](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Apkulkark+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-02-20 [[BB-7106] Add new endpoint for cloning course](https://github.com/openedx/edx-platform/pull/31794) (openedx/edx-platform) [*open-source-contribution; core committer; waiting for eng review*]
@@ -896,6 +892,9 @@ As of 2024-01-16.
 
 ## [#](#-qtw97) [qtw97](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aqtw97+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-11-15 [search bar](https://github.com/openedx/edx-platform/pull/33714) **draft** (openedx/edx-platform) [*open-source-contribution*]
+
+## [#](#-rageltd) [RageLtd](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3ARageLtd+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
+- 2023-11-17 [fix(analytics): Segment userId in Algolia (#1975)](https://github.com/openedx/paragon/pull/2826) **draft** (openedx/paragon) [*open-source-contribution*]
 
 ## [#](#-rao-abdul-mannan) [rao-abdul-mannan](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Arao-abdul-mannan+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2018-01-24 [WIP-Spark Tasks](https://github.com/openedx/edx-analytics-pipeline/pull/476) (openedx/edx-analytics-pipeline)
@@ -1001,9 +1000,6 @@ As of 2024-01-16.
 - 2023-10-31 [chore: Added tox<4.0.0 to constraints.txt](https://github.com/openedx/edx-ace/pull/243) (openedx/edx-ace)
 - 2023-10-31 [chore: Added tox<4.0.0 to constraints.txt](https://github.com/openedx/edx-analytics-dashboard/pull/1522) (openedx/edx-analytics-dashboard)
 
-## [#](#-thomasjez) [ThomasJez](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AThomasJez+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
-- 2023-10-29 [Update devstack.rst](https://github.com/openedx/edx-documentation/pull/2202) (openedx/edx-documentation) [*open-source-contribution*]
-
 ## [#](#-timmc-edx) [timmc-edx](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Atimmc-edx+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-06-14 [test: Call edx-drf-extensions JWT decoder rather than maintaining a copy](https://github.com/openedx/edx-platform/pull/32466) (openedx/edx-platform)
 - 2023-07-25 [fix: Course outline was not fully published after import (hacky fix)](https://github.com/openedx/edx-platform/pull/32843) (openedx/edx-platform)
@@ -1065,11 +1061,7 @@ As of 2024-01-16.
 
 ## [#](#-xitij2000) [xitij2000](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Axitij2000+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
 - 2023-08-17 [feat: add support for providing alternate resource directory and config.yaml file](https://github.com/openedx/openedx-app-android/pull/41) (openedx/openedx-app-android) [*waiting for eng review; open-source-contribution*]
-- 2023-08-28 [feat: add support for design tokens and CSS variables](https://github.com/openedx/frontend-app-account/pull/862) **draft** (openedx/frontend-app-account) [*open-source-contribution*]
 - 2023-09-05 [feat: Add support for browser-based logins](https://github.com/openedx/openedx-app-android/pull/45) **draft** (openedx/openedx-app-android) [*open-source-contribution*]
-- 2023-09-06 [feat: add support for design tokens and CSS variables](https://github.com/openedx/frontend-app-course-authoring/pull/590) **draft** (openedx/frontend-app-course-authoring) [*open-source-contribution*]
-- 2023-09-12 [feat: add support for design tokens and CSS variables](https://github.com/openedx/frontend-app-learning/pull/1183) **draft** (openedx/frontend-app-learning) [*open-source-contribution; core contributor*]
-- 2023-09-12 [feat: add support for design tokens and CSS variables](https://github.com/openedx/frontend-app-gradebook/pull/351) **draft** (openedx/frontend-app-gradebook) [*open-source-contribution*]
 - 2023-11-09 [feat: Better support for multiple themes](https://github.com/openedx/paragon/pull/2792) (openedx/paragon) [*open-source-contribution; waiting for eng review*]
 
 ## [#](#-yagnesh1998) [Yagnesh1998](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3AYagnesh1998+sort%3Aupdated-asc+org%3Aedx+org%3Aopenedx)
